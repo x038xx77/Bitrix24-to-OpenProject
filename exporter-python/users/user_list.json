@@ -1,0 +1,52 @@
+[
+    {
+        "login": "x038xx77@gmail.com",
+        "firstName": "77",
+        "lastName": "X038XX",
+        "status": "active",
+        "email": "x038xx77@gmail.com",
+        "admin": true,
+        "password":"123456ggg@",
+        "language": "ru"
+    },
+    {
+      "login": "shakirovsh@inntechsys.ru",
+      "firstName": "Шамиль",
+      "lastName": "Шакиров",
+      "status": "active",
+      "email": "shakirovsh@inntechsys.ru",
+      "admin": false,
+      "password":"12345678910",
+      "language": "ru"
+    },
+    {
+      "login": "Natakov12345@mail.ru",
+      "firstName": "Наталья",
+      "lastName": "Ковалева",
+      "email": "Natakov12345@mail.ru",
+      "status": "active",
+      "admin": false,
+      "password":"12345678910",
+      "language": "ru"
+    },
+    {
+      "login": "1c@inntechsys.ru",
+      "firstName": "тест",
+      "lastName": "тест",
+      "email": "1c@inntechsys.ru",
+      "status": "active",
+      "admin": false,
+      "password":"12345678910",
+      "language": "ru"
+    },
+    {
+      "login": "george-l@inntechsys.ru",
+      "firstName": "Георгий",
+      "lastName": "Ли",
+      "email": "george-l@inntechsys.ru",
+      "admin": true,
+      "status": "active",
+      "password": "123456ggg@",
+      "language": "ru"
+    }
+  ]

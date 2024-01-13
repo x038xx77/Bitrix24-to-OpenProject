@@ -1,0 +1,48 @@
+[
+  {
+    "_links": {
+      "members": [
+        {
+          "href": "/api/v3/users/9"
+        }
+      ]
+    },
+    "name": "dev.inntechsys"
+  },
+  {
+    "_links": {
+      "members": [
+        {
+          "href": "/api/v3/users/9"
+        }
+      ]
+    },
+    "name": "it.inntechsys"
+  },
+  {
+    "_links": {
+      "members": [
+        {
+          "href": "/api/v3/users/9"
+        },
+        {
+          "href": "/api/v3/users/6"
+        }
+      ]
+    },
+    "name": "1c.inntechsys"
+  },
+  {
+    "_links": {
+      "members": [
+        {
+          "href": "/api/v3/users/9"
+        }
+      ]
+    },
+    "name": "cloud.inntechsys"
+  }
+
+  ]
+
+  

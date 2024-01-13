@@ -1,0 +1,4 @@
+fast-bitrix24
+#bitrix24-rest
+python-dotenv
+requests

@@ -1,0 +1,6272 @@
+[
+  {
+    "login": "ghspl5zk@example.com",
+    "firstName": "БФ ДЕТИ+",
+    "lastName": "Клиент",
+    "email": "ghspl5zk@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "ghspl5zk@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "90twj8bp@example.com",
+    "firstName": "МП ТРЕЙД",
+    "lastName": "Клиент",
+    "email": "90twj8bp@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "90twj8bp@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "zgbxyjoe@example.com",
+    "firstName": "ТЕМАЛАЙТИНГ",
+    "lastName": "Клиент",
+    "email": "zgbxyjoe@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "zgbxyjoe@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "el5cwksf@example.com",
+    "firstName": "СОУШИАЛ ЛИНКС",
+    "lastName": "Клиент",
+    "email": "el5cwksf@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "el5cwksf@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "xm88r43d@example.com",
+    "firstName": "НАО ИЖИЦА ФИНАНС",
+    "lastName": "Клиент",
+    "email": "xm88r43d@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "xm88r43d@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "acgnuc4h@example.com",
+    "firstName": "ООО Г.Т.О.",
+    "lastName": "Клиент",
+    "email": "acgnuc4h@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "acgnuc4h@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "fv09knum@example.com",
+    "firstName": "Русконбельт",
+    "lastName": "Клиент",
+    "email": "fv09knum@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "fv09knum@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "5pfhkjur@example.com",
+    "firstName": "ООО СИБОН ГРУПП",
+    "lastName": "Клиент",
+    "email": "5pfhkjur@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "5pfhkjur@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "iyn9ki3c@example.com",
+    "firstName": "ВЕТА ЭСТЕЙТ",
+    "lastName": "Клиент",
+    "email": "iyn9ki3c@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "iyn9ki3c@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "zf4h9uti@example.com",
+    "firstName": "БКЛ-ГРУПП",
+    "lastName": "Клиент",
+    "email": "zf4h9uti@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "zf4h9uti@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "0w0bs7ib@example.com",
+    "firstName": "ИП КОЗЛОВ АНТОН МИХАЙЛОВИЧ",
+    "lastName": "Поставщик",
+    "email": "0w0bs7ib@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "0w0bs7ib@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "avmbco38@example.com",
+    "firstName": "АНО ВО МИСАО",
+    "lastName": "Клиент",
+    "email": "avmbco38@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "avmbco38@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "sales@sendpulse.com",
+    "firstName": "ООО СЕНДПУЛЬС",
+    "lastName": "Поставщик",
+    "email": "sales@sendpulse.com",
+    "status": "active",
+    "admin": false,
+    "password": "sales@sendpulse.com",
+    "language": "ru"
+  },
+  {
+    "login": "no-reply@bitrix24.ru",
+    "firstName": "1С-Битрикс",
+    "lastName": "Поставщик",
+    "email": "no-reply@bitrix24.ru",
+    "status": "active",
+    "admin": false,
+    "password": "no-reply@bitrix24.ru",
+    "language": "ru"
+  },
+  {
+    "login": "b1ap27jp@example.com",
+    "firstName": "ВАВИЛОВА ГАЛИНА ВЛАДИМИРОВНА",
+    "lastName": "Поставщик",
+    "email": "b1ap27jp@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "b1ap27jp@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "b3mviwah@example.com",
+    "firstName": "ТК РУСЛАН-1",
+    "lastName": "Клиент",
+    "email": "b3mviwah@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "b3mviwah@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "12lcenk8@example.com",
+    "firstName": "АНЛАН",
+    "lastName": "Поставщик",
+    "email": "12lcenk8@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "12lcenk8@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "0dywxcb5@example.com",
+    "firstName": "РИТЕЙЛСИСТЕМ",
+    "lastName": "Поставщик",
+    "email": "0dywxcb5@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "0dywxcb5@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "6ar28mid@example.com",
+    "firstName": "ГУГЛ",
+    "lastName": "Партнер",
+    "email": "6ar28mid@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "6ar28mid@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "ks@gendalf.ru",
+    "firstName": "1С-ГЭНДАЛЬФ",
+    "lastName": "Клиент",
+    "email": "ks@gendalf.ru",
+    "status": "active",
+    "admin": false,
+    "password": "ks@gendalf.ru",
+    "language": "ru"
+  },
+  {
+    "login": "wnunvyp7@example.com",
+    "firstName": "ЛЮСТИК АЛЕКСАНДР АЛЕКСАНДРОВИЧ",
+    "lastName": "Поставщик",
+    "email": "wnunvyp7@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "wnunvyp7@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "hyfsr10a@example.com",
+    "firstName": "АВАКС",
+    "lastName": "Поставщик",
+    "email": "hyfsr10a@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "hyfsr10a@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "a4c6xt6d@example.com",
+    "firstName": "ОБЪЕДИНЕННЫЕ НЕТКАНЫЕ МАТЕРИАЛЫ",
+    "lastName": "Клиент",
+    "email": "a4c6xt6d@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "a4c6xt6d@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "wo4g5iak@example.com",
+    "firstName": "КВАНТ-Н",
+    "lastName": "Поставщик",
+    "email": "wo4g5iak@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "wo4g5iak@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "mx6e473w@example.com",
+    "firstName": "СВАНЛЮКС",
+    "lastName": "Клиент",
+    "email": "mx6e473w@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "mx6e473w@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "gp6smy47@example.com",
+    "firstName": "БЕНИСТАР",
+    "lastName": "Клиент",
+    "email": "gp6smy47@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "gp6smy47@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "p7l5tlte@example.com",
+    "firstName": "ЛАБОРАТОРИЯ ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ",
+    "lastName": "Клиент",
+    "email": "p7l5tlte@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "p7l5tlte@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "arctiline2@mail.ru",
+    "firstName": "АРКТИЛАЙН",
+    "lastName": "Клиент",
+    "email": "arctiline2@mail.ru",
+    "status": "active",
+    "admin": false,
+    "password": "arctiline2@mail.ru",
+    "language": "ru"
+  },
+  {
+    "login": "eroqwjds@example.com",
+    "firstName": "СКРИПТОРИЙ",
+    "lastName": "Клиент",
+    "email": "eroqwjds@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "eroqwjds@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "ln8ch1b4@example.com",
+    "firstName": "АНДОР",
+    "lastName": "Клиент",
+    "email": "ln8ch1b4@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "ln8ch1b4@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "ocqpjat2@example.com",
+    "firstName": "ШАХМАТНАЯ ПЛАНЕТА",
+    "lastName": "Клиент",
+    "email": "ocqpjat2@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "ocqpjat2@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "7ulejqon@example.com",
+    "firstName": "БМР",
+    "lastName": "Поставщик",
+    "email": "7ulejqon@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "7ulejqon@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "its-msk@1cgendalf.ru",
+    "firstName": "КОМПАНИЯ ГЭНДАЛЬФ",
+    "lastName": "Клиент",
+    "email": "its-msk@1cgendalf.ru",
+    "status": "active",
+    "admin": false,
+    "password": "its-msk@1cgendalf.ru",
+    "language": "ru"
+  },
+  {
+    "login": "68xyyltp@example.com",
+    "firstName": "АВЕРС",
+    "lastName": "Клиент",
+    "email": "68xyyltp@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "68xyyltp@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "r93t8gfc@example.com",
+    "firstName": "ЭНЕРГОГАЗ НИП",
+    "lastName": "Клиент",
+    "email": "r93t8gfc@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "r93t8gfc@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "22ia30t7@example.com",
+    "firstName": "ВЫМПЕЛКОМ",
+    "lastName": "Поставщик",
+    "email": "22ia30t7@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "22ia30t7@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "5wc6oe5q@example.com",
+    "firstName": "МЕГАФОН",
+    "lastName": "Поставщик",
+    "email": "5wc6oe5q@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "5wc6oe5q@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "ihwwwpmk@example.com",
+    "firstName": "ТЕХНОМАРТ.РУ",
+    "lastName": "Поставщик",
+    "email": "ihwwwpmk@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "ihwwwpmk@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "991oiyhq@example.com",
+    "firstName": "БОГУШ МАКСИМ ЮРЬЕВИЧ",
+    "lastName": "Поставщик",
+    "email": "991oiyhq@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "991oiyhq@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "uxj2cefs@example.com",
+    "firstName": "ЕДИНЫЕ СИСТЕМЫ",
+    "lastName": "Клиент",
+    "email": "uxj2cefs@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "uxj2cefs@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "y06m7o1y@example.com",
+    "firstName": "БАЙКАЛ-СЕРВИС",
+    "lastName": "Клиент",
+    "email": "y06m7o1y@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "y06m7o1y@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "olga.zhukova@rmtltd.ru",
+    "firstName": "РМТ",
+    "lastName": "Клиент",
+    "email": "olga.zhukova@rmtltd.ru",
+    "status": "active",
+    "admin": false,
+    "password": "olga.zhukova@rmtltd.ru",
+    "language": "ru"
+  },
+  {
+    "login": "ifd7ptmm@example.com",
+    "firstName": "СТАНДАРТМЕДИА",
+    "lastName": "Поставщик",
+    "email": "ifd7ptmm@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "ifd7ptmm@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "x208uxyt@example.com",
+    "firstName": "НАШИ ТЕХНОЛОГИИ",
+    "lastName": "Поставщик",
+    "email": "x208uxyt@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "x208uxyt@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "t0b8aa2x@example.com",
+    "firstName": "БРАВУС",
+    "lastName": "Поставщик",
+    "email": "t0b8aa2x@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "t0b8aa2x@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "hrakricc@example.com",
+    "firstName": "ВК-ДЕВЕЛОПМЕНТ",
+    "lastName": "Клиент",
+    "email": "hrakricc@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "hrakricc@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "3lm6kutz@example.com",
+    "firstName": "НИФРИТ",
+    "lastName": "Поставщик",
+    "email": "3lm6kutz@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "3lm6kutz@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "bfmxwrv3@example.com",
+    "firstName": "ЕВРОКОМ",
+    "lastName": "Поставщик",
+    "email": "bfmxwrv3@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "bfmxwrv3@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "ggu499he@example.com",
+    "firstName": "ЕВРОСЕТЬ-РИТЕЙЛ",
+    "lastName": "Клиент",
+    "email": "ggu499he@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "ggu499he@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "ug97ri82@example.com",
+    "firstName": "ГК-МЕБЕЛЬ",
+    "lastName": "Поставщик",
+    "email": "ug97ri82@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "ug97ri82@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "68bx3i2r@example.com",
+    "firstName": "СТРОЙКАПИТАЛ",
+    "lastName": "Клиент",
+    "email": "68bx3i2r@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "68bx3i2r@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "hpdy47bn@example.com",
+    "firstName": "ХЭДХАНТЕР",
+    "lastName": "Поставщик",
+    "email": "hpdy47bn@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "hpdy47bn@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "j9w4lyhg@example.com",
+    "firstName": "ПРОФИ-ЦЕНТР",
+    "lastName": "Поставщик",
+    "email": "j9w4lyhg@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "j9w4lyhg@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "b7hzkje4@example.com",
+    "firstName": "ЭТЕРСОФТ",
+    "lastName": "Поставщик",
+    "email": "b7hzkje4@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "b7hzkje4@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "q9yneu3k@example.com",
+    "firstName": "ЛИЦЕЙ 1594",
+    "lastName": "Клиент",
+    "email": "q9yneu3k@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "q9yneu3k@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "g0cevqg2@example.com",
+    "firstName": "ИЛТ ИНВЕСТМЕНТ",
+    "lastName": "Клиент",
+    "email": "g0cevqg2@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "g0cevqg2@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "3vn1qn8j@example.com",
+    "firstName": "АМУР",
+    "lastName": "Поставщик",
+    "email": "3vn1qn8j@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "3vn1qn8j@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "54wy9x9p@example.com",
+    "firstName": "СУПЕРДЖОП",
+    "lastName": "Поставщик",
+    "email": "54wy9x9p@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "54wy9x9p@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "75jjfo8z@example.com",
+    "firstName": "ЦЕНТР КУЛЬТУРЫ (ПОСЕЛОК)",
+    "lastName": "Клиент",
+    "email": "75jjfo8z@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "75jjfo8z@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "kjng1owr@example.com",
+    "firstName": "КОМИТЕТ ПО КУЛЬТУРЕ",
+    "lastName": "Клиент",
+    "email": "kjng1owr@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "kjng1owr@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "a971pzbf@example.com",
+    "firstName": "ЭРИДАН",
+    "lastName": "Поставщик",
+    "email": "a971pzbf@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "a971pzbf@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "4einue7b@example.com",
+    "firstName": "НУКЕР",
+    "lastName": "Клиент",
+    "email": "4einue7b@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "4einue7b@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "daxu8627@example.com",
+    "firstName": "ПРОМТЭКС",
+    "lastName": "Клиент",
+    "email": "daxu8627@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "daxu8627@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "mn9vpbcp@example.com",
+    "firstName": "СТЕЛКОН",
+    "lastName": "Поставщик",
+    "email": "mn9vpbcp@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "mn9vpbcp@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "l91wxuwt@example.com",
+    "firstName": "ЭЛЕКТРОЖИЗНЬ",
+    "lastName": "Поставщик",
+    "email": "l91wxuwt@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "l91wxuwt@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "ecotovari@bk.ru",
+    "firstName": "ЭКОТОВАРЫ",
+    "lastName": "Клиент",
+    "email": "ecotovari@bk.ru",
+    "status": "active",
+    "admin": false,
+    "password": "ecotovari@bk.ru",
+    "language": "ru"
+  },
+  {
+    "login": "9bwcagon@example.com",
+    "firstName": "СПЕЦЖИЛПРОЕКТ",
+    "lastName": "Клиент",
+    "email": "9bwcagon@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "9bwcagon@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "id7g0jy4@example.com",
+    "firstName": "ГРУЗПРОФИ",
+    "lastName": "Клиент",
+    "email": "id7g0jy4@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "id7g0jy4@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "jddymhp4@example.com",
+    "firstName": "ПРОЕКТ СТРОЙ ИНДУСТРИЯ",
+    "lastName": "Поставщик",
+    "email": "jddymhp4@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "jddymhp4@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "gfy6gnbx@example.com",
+    "firstName": "ПИНТА",
+    "lastName": "Клиент",
+    "email": "gfy6gnbx@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "gfy6gnbx@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "tsh1opj7@example.com",
+    "firstName": "ТЕХНОПРОЕКТСТРОЙ",
+    "lastName": "Клиент",
+    "email": "tsh1opj7@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "tsh1opj7@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "rde619ht@example.com",
+    "firstName": "АЛЕКСАНДР НОСАРЬ",
+    "lastName": "Поставщик",
+    "email": "rde619ht@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "rde619ht@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "opbu4xuh@example.com",
+    "firstName": "ГЛОБАТЭК",
+    "lastName": "Клиент",
+    "email": "opbu4xuh@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "opbu4xuh@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "ccs2ooux@example.com",
+    "firstName": "СКОРПИОН",
+    "lastName": "Клиент",
+    "email": "ccs2ooux@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "ccs2ooux@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "jo0aicuy@example.com",
+    "firstName": "НЕОКОНСАЛТИНГ",
+    "lastName": "Поставщик",
+    "email": "jo0aicuy@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "jo0aicuy@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "8z7tku4j@example.com",
+    "firstName": "РЕГУС БИЗНЕС ЦЕНТР МЕТРОПОЛИС",
+    "lastName": "Поставщик",
+    "email": "8z7tku4j@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "8z7tku4j@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "m65cpz01@example.com",
+    "firstName": "ВТБ ЛИЗИНГ",
+    "lastName": "Поставщик",
+    "email": "m65cpz01@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "m65cpz01@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "in07za3y@example.com",
+    "firstName": "СПОРТСТРОЙМОНТАЖ",
+    "lastName": "Клиент",
+    "email": "in07za3y@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "in07za3y@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "yimg90ci@example.com",
+    "firstName": "СОФТЛАЙН ИНТЕРНЕТ ТРЕЙД",
+    "lastName": "Поставщик",
+    "email": "yimg90ci@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "yimg90ci@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "ci3i7jyu@example.com",
+    "firstName": "ИНТЕЛЛЕКТУАЛЬНАЯ АВТОМАТИЗАЦИЯ",
+    "lastName": "Поставщик",
+    "email": "ci3i7jyu@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "ci3i7jyu@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "jmw7ezy5@example.com",
+    "firstName": "БЭСТ-ТЕЛЕКОМ",
+    "lastName": "Поставщик",
+    "email": "jmw7ezy5@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "jmw7ezy5@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "zkdtdgl1@example.com",
+    "firstName": "КАФА",
+    "lastName": "Клиент",
+    "email": "zkdtdgl1@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "zkdtdgl1@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "info@skveda.ru",
+    "firstName": "СКВ",
+    "lastName": "Клиент",
+    "email": "info@skveda.ru",
+    "status": "active",
+    "admin": false,
+    "password": "info@skveda.ru",
+    "language": "ru"
+  },
+  {
+    "login": "el9pse36@example.com",
+    "firstName": "РЕМКРЕП.РУ",
+    "lastName": "Клиент",
+    "email": "el9pse36@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "el9pse36@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "9xv3rxx1@example.com",
+    "firstName": "АРИЯ УЮТ",
+    "lastName": "Клиент",
+    "email": "9xv3rxx1@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "9xv3rxx1@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "ddx70aud@example.com",
+    "firstName": "РЕГИСТРАТОР ДОМЕННЫХ ИМЕН РЕГ.РУ",
+    "lastName": "Поставщик",
+    "email": "ddx70aud@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "ddx70aud@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "ksv2rx2o@example.com",
+    "firstName": "МАРИН ДМИТРИЕВИЧ",
+    "lastName": "Поставщик",
+    "email": "ksv2rx2o@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "ksv2rx2o@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "9ri5gt6s@example.com",
+    "firstName": "КУРЬЕР ДИСКОНТ",
+    "lastName": "Поставщик",
+    "email": "9ri5gt6s@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "9ri5gt6s@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "1vkdzh5r@example.com",
+    "firstName": "КАРТРИДЖ МАСТЕР",
+    "lastName": "Поставщик",
+    "email": "1vkdzh5r@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "1vkdzh5r@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "1qn4pxvx@example.com",
+    "firstName": "НИКЕ",
+    "lastName": "Клиент",
+    "email": "1qn4pxvx@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "1qn4pxvx@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "info@aryahome.ru",
+    "firstName": "МИРАЙ",
+    "lastName": "Клиент",
+    "email": "info@aryahome.ru",
+    "status": "active",
+    "admin": false,
+    "password": "info@aryahome.ru",
+    "language": "ru"
+  },
+  {
+    "login": "ddv30r5q@example.com",
+    "firstName": "НАТАЛЬЯ (ДИЗАЙНЕР)",
+    "lastName": "Поставщик",
+    "email": "ddv30r5q@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "ddv30r5q@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "bv7xzijv@example.com",
+    "firstName": "НАТАЛИЯ (ЦЕФЕЙ Н)",
+    "lastName": "Клиент",
+    "email": "bv7xzijv@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "bv7xzijv@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "0v91v2gu@example.com",
+    "firstName": "ЦЕКА",
+    "lastName": "Клиент",
+    "email": "0v91v2gu@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "0v91v2gu@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "0fiyvzgr@example.com",
+    "firstName": "ТД СЕВЕРО-ЗАПАДНЫЙ+",
+    "lastName": "Поставщик",
+    "email": "0fiyvzgr@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "0fiyvzgr@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "lfn15@mail.ru",
+    "firstName": "ТД  ВИДОС ГРУПП",
+    "lastName": "Клиент",
+    "email": "lfn15@mail.ru",
+    "status": "active",
+    "admin": false,
+    "password": "lfn15@mail.ru",
+    "language": "ru"
+  },
+  {
+    "login": "dudko.arch@gmail.com",
+    "firstName": "Дудко Владимир Александрович",
+    "lastName": "Клиент",
+    "email": "dudko.arch@gmail.com",
+    "status": "active",
+    "admin": false,
+    "password": "dudko.arch@gmail.com",
+    "language": "ru"
+  },
+  {
+    "login": "dm@glgr.ru",
+    "firstName": "ГЛАССГРУПП",
+    "lastName": "Партнер",
+    "email": "dm@glgr.ru",
+    "status": "active",
+    "admin": false,
+    "password": "dm@glgr.ru",
+    "language": "ru"
+  },
+  {
+    "login": "marina_tsay@mail.ru",
+    "firstName": "ЦАЙ МАРИНА АНАТОЛЬЕВНА",
+    "lastName": "Клиент",
+    "email": "marina_tsay@mail.ru",
+    "status": "active",
+    "admin": false,
+    "password": "marina_tsay@mail.ru",
+    "language": "ru"
+  },
+  {
+    "login": "Natalia.pany@mail.ru",
+    "firstName": "МЕДИКАЛ ФАРМ",
+    "lastName": "Клиент",
+    "email": "Natalia.pany@mail.ru",
+    "status": "active",
+    "admin": false,
+    "password": "Natalia.pany@mail.ru",
+    "language": "ru"
+  },
+  {
+    "login": "eywyuycz@example.com",
+    "firstName": "БИЗНЕС-ЛЕТ",
+    "lastName": "Клиент",
+    "email": "eywyuycz@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "eywyuycz@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "0nauio5w@example.com",
+    "firstName": "ФОРТПОСТ",
+    "lastName": "Поставщик",
+    "email": "0nauio5w@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "0nauio5w@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "ywzzhthm@example.com",
+    "firstName": "СИМРУС",
+    "lastName": "Клиент",
+    "email": "ywzzhthm@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "ywzzhthm@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "g9twr36z@example.com",
+    "firstName": "НОУ 1С-ОБРАЗОВАНИЕ",
+    "lastName": "Поставщик",
+    "email": "g9twr36z@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "g9twr36z@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "oe7b4v2u@example.com",
+    "firstName": "ДАЛЕКС ЦЕНТР",
+    "lastName": "Клиент",
+    "email": "oe7b4v2u@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "oe7b4v2u@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "i5s2brbp@example.com",
+    "firstName": "ГРУППА КОМПАНИЙ ТОНК",
+    "lastName": "Клиент",
+    "email": "i5s2brbp@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "i5s2brbp@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "dw3tebik@example.com",
+    "firstName": "ЙОТА",
+    "lastName": "Поставщик",
+    "email": "dw3tebik@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "dw3tebik@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "5gftr2wb@example.com",
+    "firstName": "ОТМАРА.НЕТ",
+    "lastName": "Поставщик",
+    "email": "5gftr2wb@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "5gftr2wb@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "fz1236j6@example.com",
+    "firstName": "АДВЕГО",
+    "lastName": "Поставщик",
+    "email": "fz1236j6@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "fz1236j6@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "u2xd7brt@example.com",
+    "firstName": "КАЗАКОВ АНДРЕЙ СЕРГЕЕВИЧ",
+    "lastName": "Поставщик",
+    "email": "u2xd7brt@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "u2xd7brt@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "1on0upry@example.com",
+    "firstName": "ГОСЗАКАЗ",
+    "lastName": "Поставщик",
+    "email": "1on0upry@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "1on0upry@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "5ju23f4r@example.com",
+    "firstName": "НАБЕРЕЖНАЯ СТЕКЛОДУВОВ",
+    "lastName": "Клиент",
+    "email": "5ju23f4r@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "5ju23f4r@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "1wyhrw7k@example.com",
+    "firstName": "МАСТЕР ГРУППА",
+    "lastName": "Поставщик",
+    "email": "1wyhrw7k@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "1wyhrw7k@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "7nx5a15x@example.com",
+    "firstName": "АДЭНЕКС",
+    "lastName": "Клиент",
+    "email": "7nx5a15x@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "7nx5a15x@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "6m5w5k2j@example.com",
+    "firstName": "ЗОЛОТОЙ ВЕК",
+    "lastName": "Клиент",
+    "email": "6m5w5k2j@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "6m5w5k2j@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "5okjg65m@example.com",
+    "firstName": "Владислав",
+    "lastName": "Клиент",
+    "email": "5okjg65m@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "5okjg65m@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "j7h00upr@example.com",
+    "firstName": "АСТРА-ДОК",
+    "lastName": "Клиент",
+    "email": "j7h00upr@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "j7h00upr@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "fg7n1ypw@example.com",
+    "firstName": "ИНТЕРДЕКОР",
+    "lastName": "Поставщик",
+    "email": "fg7n1ypw@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "fg7n1ypw@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "pea-80@mail.ru",
+    "firstName": "ЭНЕРГОМЕТРОЛОГИЯ",
+    "lastName": "Клиент",
+    "email": "pea-80@mail.ru",
+    "status": "active",
+    "admin": false,
+    "password": "pea-80@mail.ru",
+    "language": "ru"
+  },
+  {
+    "login": "gcv7jlva@example.com",
+    "firstName": "ЛААН-М",
+    "lastName": "Поставщик",
+    "email": "gcv7jlva@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "gcv7jlva@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "o6q5hbzn@example.com",
+    "firstName": "ТРАНЗИТЕК",
+    "lastName": "Поставщик",
+    "email": "o6q5hbzn@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "o6q5hbzn@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "7dm1s6zr@example.com",
+    "firstName": "АНАЛИТСОФТТОРГ",
+    "lastName": "Клиент",
+    "email": "7dm1s6zr@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "7dm1s6zr@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "ay2pgzpw@example.com",
+    "firstName": "1С-ПРОФИЛЬ",
+    "lastName": "Поставщик",
+    "email": "ay2pgzpw@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "ay2pgzpw@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "yvjeqq8l@example.com",
+    "firstName": "РУБЦОВ ПАВЕЛ ВЛАДИМИРОВИЧ",
+    "lastName": "Поставщик",
+    "email": "yvjeqq8l@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "yvjeqq8l@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "fr09nb40@example.com",
+    "firstName": "ЯНДЕКС",
+    "lastName": "Поставщик",
+    "email": "fr09nb40@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "fr09nb40@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "2syijgob@example.com",
+    "firstName": "АФАНАСЬЕВ ЕВГЕНИЙ ВАЛЕРЬЕВИЧ",
+    "lastName": "Поставщик",
+    "email": "2syijgob@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "2syijgob@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "71xr3xre@example.com",
+    "firstName": "РИАДА",
+    "lastName": "Поставщик",
+    "email": "71xr3xre@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "71xr3xre@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "tkqn7amg@example.com",
+    "firstName": "ИКСКОНСУЛ",
+    "lastName": "Поставщик",
+    "email": "tkqn7amg@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "tkqn7amg@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "nxnivuyc@example.com",
+    "firstName": "МАЭСТРО ТЕЛЕКОМ",
+    "lastName": "Поставщик",
+    "email": "nxnivuyc@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "nxnivuyc@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "kd7fj0oq@example.com",
+    "firstName": "ЛАЗЕРПАРТ",
+    "lastName": "Поставщик",
+    "email": "kd7fj0oq@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "kd7fj0oq@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "vt2hoejx@example.com",
+    "firstName": "ДЕЗОПТ",
+    "lastName": "Клиент",
+    "email": "vt2hoejx@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "vt2hoejx@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "gentes.construction@gmail.com",
+    "firstName": "ГЕНТЕС КОНСТРАКШН",
+    "lastName": "Клиент",
+    "email": "gentes.construction@gmail.com",
+    "status": "active",
+    "admin": false,
+    "password": "gentes.construction@gmail.com",
+    "language": "ru"
+  },
+  {
+    "login": "gkmxi71q@example.com",
+    "firstName": "СИТИ МАРКЕТ",
+    "lastName": "Поставщик",
+    "email": "gkmxi71q@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "gkmxi71q@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "u4t4ru8v@example.com",
+    "firstName": "НИКОС",
+    "lastName": "Поставщик",
+    "email": "u4t4ru8v@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "u4t4ru8v@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "Vienn@yandex.ru",
+    "firstName": "РМР",
+    "lastName": "Клиент",
+    "email": "Vienn@yandex.ru",
+    "status": "active",
+    "admin": false,
+    "password": "Vienn@yandex.ru",
+    "language": "ru"
+  },
+  {
+    "login": "vphxqyha@example.com",
+    "firstName": "ТРАНСАЗИЯ-РУСЬ",
+    "lastName": "Клиент",
+    "email": "vphxqyha@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "vphxqyha@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "m0620a8q@example.com",
+    "firstName": "НОРДЕС",
+    "lastName": "Поставщик",
+    "email": "m0620a8q@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "m0620a8q@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "lhoi83bp@example.com",
+    "firstName": "КРИТЭК",
+    "lastName": "Клиент",
+    "email": "lhoi83bp@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "lhoi83bp@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "ybjbvot3@example.com",
+    "firstName": "НОУ ВПО МИЭЭ",
+    "lastName": "Поставщик",
+    "email": "ybjbvot3@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "ybjbvot3@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "8yojxwk1@example.com",
+    "firstName": "СНПЧ",
+    "lastName": "Поставщик",
+    "email": "8yojxwk1@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "8yojxwk1@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "7hojtmvv@example.com",
+    "firstName": "ТЦ КОМУС",
+    "lastName": "Поставщик",
+    "email": "7hojtmvv@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "7hojtmvv@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "ayp76b2d@example.com",
+    "firstName": "СС-ПРОФИ",
+    "lastName": "Поставщик",
+    "email": "ayp76b2d@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "ayp76b2d@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "erbmmg8v@example.com",
+    "firstName": "МНВ РУ",
+    "lastName": "Клиент",
+    "email": "erbmmg8v@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "erbmmg8v@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "ug26akx9@example.com",
+    "firstName": "НИКС",
+    "lastName": "Поставщик",
+    "email": "ug26akx9@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "ug26akx9@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "vhzzmpxb@example.com",
+    "firstName": "КЛЕВЕРЕНС СОФТ",
+    "lastName": "Поставщик",
+    "email": "vhzzmpxb@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "vhzzmpxb@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "z9qj3rb2@example.com",
+    "firstName": "ЭЙРКОМ",
+    "lastName": "Клиент",
+    "email": "z9qj3rb2@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "z9qj3rb2@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "ufv3sobf@example.com",
+    "firstName": "ЧИСАНОВСКИЙ МИХАИЛ ИВАНОВИЧ",
+    "lastName": "Клиент",
+    "email": "ufv3sobf@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "ufv3sobf@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "kz6htviv@example.com",
+    "firstName": "АПОЛЛО - КОНСАЛТ",
+    "lastName": "Клиент",
+    "email": "kz6htviv@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "kz6htviv@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "vbiwhntv@example.com",
+    "firstName": "ГЛОБАЛ ТРЕЙДИНГ",
+    "lastName": "Поставщик",
+    "email": "vbiwhntv@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "vbiwhntv@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "2bdmdadh@example.com",
+    "firstName": "СНАБКОМПЛЕКТ",
+    "lastName": "Клиент",
+    "email": "2bdmdadh@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "2bdmdadh@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "ieh0qtj2@example.com",
+    "firstName": "АРТЕКС",
+    "lastName": "Поставщик",
+    "email": "ieh0qtj2@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "ieh0qtj2@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "vcqgnts0@example.com",
+    "firstName": "ДЕПАРТАМЕНТ ТОРГОВЛИ И УСЛУГ ГОРОДА МОСКВЫ",
+    "lastName": "Клиент",
+    "email": "vcqgnts0@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "vcqgnts0@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "7r84m4o9@example.com",
+    "firstName": "НОРДЕКА",
+    "lastName": "Поставщик",
+    "email": "7r84m4o9@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "7r84m4o9@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "d8s2byd9@example.com",
+    "firstName": "ТАКСКОМ",
+    "lastName": "Поставщик",
+    "email": "d8s2byd9@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "d8s2byd9@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "jnmisyla@example.com",
+    "firstName": "СОФТЕХНО",
+    "lastName": "Поставщик",
+    "email": "jnmisyla@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "jnmisyla@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "9etqbqkx@example.com",
+    "firstName": "ПАРАДИЗ",
+    "lastName": "Поставщик",
+    "email": "9etqbqkx@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "9etqbqkx@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "w3xj57qh@example.com",
+    "firstName": "УВАРОВ И К",
+    "lastName": "Клиент",
+    "email": "w3xj57qh@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "w3xj57qh@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "v40iaswj@example.com",
+    "firstName": "ЛИАНА-ТЕКС",
+    "lastName": "Клиент",
+    "email": "v40iaswj@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "v40iaswj@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "scb9d0hj@example.com",
+    "firstName": "НИИ ЧИСТОТЫ",
+    "lastName": "Клиент",
+    "email": "scb9d0hj@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "scb9d0hj@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "gwbas1lu@example.com",
+    "firstName": "СМОЛЕНСКИЙ БАНК",
+    "lastName": "Поставщик",
+    "email": "gwbas1lu@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "gwbas1lu@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "txnb40sx@example.com",
+    "firstName": "МУРУВВАТ- ТЕКС",
+    "lastName": "Клиент",
+    "email": "txnb40sx@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "txnb40sx@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "v568zdy1@example.com",
+    "firstName": "ЦНИИКА",
+    "lastName": "Клиент",
+    "email": "v568zdy1@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "v568zdy1@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "wec3b3nn@example.com",
+    "firstName": "ХАБЕРЛАН",
+    "lastName": "Клиент",
+    "email": "wec3b3nn@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "wec3b3nn@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "zrbehrw1@example.com",
+    "firstName": "ДИНГО",
+    "lastName": "Поставщик",
+    "email": "zrbehrw1@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "zrbehrw1@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "knkxdybm@example.com",
+    "firstName": "Атыргуль",
+    "lastName": "Поставщик",
+    "email": "knkxdybm@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "knkxdybm@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "ntwxx40u@example.com",
+    "firstName": "ТИНТОНЛАЙФ",
+    "lastName": "Клиент",
+    "email": "ntwxx40u@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "ntwxx40u@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "acmbfevv@example.com",
+    "firstName": "АВИСС",
+    "lastName": "Клиент",
+    "email": "acmbfevv@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "acmbfevv@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "buh@uma.expert",
+    "firstName": "УМА",
+    "lastName": "Клиент",
+    "email": "buh@uma.expert",
+    "status": "active",
+    "admin": false,
+    "password": "buh@uma.expert",
+    "language": "ru"
+  },
+  {
+    "login": "its@f1soft.ru",
+    "firstName": "ГРУППА КОМПАНИЙ Ф1СОФТ.РУ",
+    "lastName": "Поставщик",
+    "email": "its@f1soft.ru",
+    "status": "active",
+    "admin": false,
+    "password": "its@f1soft.ru",
+    "language": "ru"
+  },
+  {
+    "login": "4oyy6xhv@example.com",
+    "firstName": "РУНА",
+    "lastName": "Поставщик",
+    "email": "4oyy6xhv@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "4oyy6xhv@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "ppm262@mail.ru",
+    "firstName": "ГРАБОВСКИЙ ЭДУАРД ВАДИМОВИЧ",
+    "lastName": "Клиент",
+    "email": "ppm262@mail.ru",
+    "status": "active",
+    "admin": false,
+    "password": "ppm262@mail.ru",
+    "language": "ru"
+  },
+  {
+    "login": "bexc0pek@example.com",
+    "firstName": "ПРОМЕТЕЙ",
+    "lastName": "Клиент",
+    "email": "bexc0pek@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "bexc0pek@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "2l69woar@example.com",
+    "firstName": "FC Design",
+    "lastName": "Поставщик",
+    "email": "2l69woar@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "2l69woar@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "info@100hr.ru",
+    "firstName": "КЦ АЛЕКС ПЕРСОНАЛ",
+    "lastName": "Поставщик",
+    "email": "info@100hr.ru",
+    "status": "active",
+    "admin": false,
+    "password": "info@100hr.ru",
+    "language": "ru"
+  },
+  {
+    "login": "yoivtpzx@example.com",
+    "firstName": "МЯГКОВА АНАСТАСИЯ АЛЕКСЕЕВНА",
+    "lastName": "Поставщик",
+    "email": "yoivtpzx@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "yoivtpzx@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "mc7q5vo8@example.com",
+    "firstName": "ПРОФИ ГРУПП",
+    "lastName": "Клиент",
+    "email": "mc7q5vo8@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "mc7q5vo8@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "8mbizq62@example.com",
+    "firstName": "СТРОИТЕЛЬНЫЙ ТД  ПЕТРОВИЧ",
+    "lastName": "Поставщик",
+    "email": "8mbizq62@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "8mbizq62@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "idiamondi@inbox.ru",
+    "firstName": "Дмитрий Дмитров",
+    "lastName": "Поставщик",
+    "email": "idiamondi@inbox.ru",
+    "status": "active",
+    "admin": false,
+    "password": "idiamondi@inbox.ru",
+    "language": "ru"
+  },
+  {
+    "login": "f8yhgme4@example.com",
+    "firstName": "ВАВИЛОН-А",
+    "lastName": "Клиент",
+    "email": "f8yhgme4@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "f8yhgme4@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "r3eddrt1@example.com",
+    "firstName": "СТЦ КСТ",
+    "lastName": "Клиент",
+    "email": "r3eddrt1@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "r3eddrt1@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "bf477i9z@example.com",
+    "firstName": "ТОКАРЕВА ЕВГЕНИЯ ВЛАДИМИРОВНА",
+    "lastName": "Поставщик",
+    "email": "bf477i9z@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "bf477i9z@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "p0auqlqq@example.com",
+    "firstName": "СБИС ЭО",
+    "lastName": "Поставщик",
+    "email": "p0auqlqq@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "p0auqlqq@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "pj50s1ox@example.com",
+    "firstName": "РЕСО-ГАРАНТИЯ",
+    "lastName": "Поставщик",
+    "email": "pj50s1ox@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "pj50s1ox@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "jxfgozhq@example.com",
+    "firstName": "ДЕЛОВАЯ СРЕДА З",
+    "lastName": "Поставщик",
+    "email": "jxfgozhq@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "jxfgozhq@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "9h3cea3s@example.com",
+    "firstName": "НАВИГАТОР",
+    "lastName": "Поставщик",
+    "email": "9h3cea3s@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "9h3cea3s@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "gfc6u4nz@example.com",
+    "firstName": "ГАРС ТЕЛЕКОМ-УТ",
+    "lastName": "Поставщик",
+    "email": "gfc6u4nz@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "gfc6u4nz@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "24ut1plh@example.com",
+    "firstName": "СТУДИЯ ДОБРОФФ",
+    "lastName": "Поставщик",
+    "email": "24ut1plh@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "24ut1plh@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "eht0u7yf@example.com",
+    "firstName": "КОМПАНИЯ ТЕНЗОР",
+    "lastName": "Поставщик",
+    "email": "eht0u7yf@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "eht0u7yf@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "2z81ffhl@example.com",
+    "firstName": "МЕЩАНИНОВ РОМАН АЛЕКСАНДРОВИЧ",
+    "lastName": "Поставщик",
+    "email": "2z81ffhl@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "2z81ffhl@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "5briulw7@example.com",
+    "firstName": "МИХАИЛ (КОНТЕНТ)",
+    "lastName": "Поставщик",
+    "email": "5briulw7@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "5briulw7@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "60xby0s1@example.com",
+    "firstName": "ТРАНСНАЦИОНАЛЬНЫЙ БАНК",
+    "lastName": "Поставщик",
+    "email": "60xby0s1@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "60xby0s1@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "o9q5ujee@example.com",
+    "firstName": "ПСБ",
+    "lastName": "Клиент",
+    "email": "o9q5ujee@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "o9q5ujee@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "h71pn4we@example.com",
+    "firstName": "КЛЮЧ",
+    "lastName": "Клиент",
+    "email": "h71pn4we@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "h71pn4we@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "5y7mq8kv@example.com",
+    "firstName": "СИТИ ПЛЮС",
+    "lastName": "Клиент",
+    "email": "5y7mq8kv@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "5y7mq8kv@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "globalsystemrussia@gmail.com",
+    "firstName": "ГС",
+    "lastName": "Клиент",
+    "email": "globalsystemrussia@gmail.com",
+    "status": "active",
+    "admin": false,
+    "password": "globalsystemrussia@gmail.com",
+    "language": "ru"
+  },
+  {
+    "login": "qi7ajomx@example.com",
+    "firstName": "СДЕК",
+    "lastName": "Поставщик",
+    "email": "qi7ajomx@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "qi7ajomx@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "finance@fastvps.ru",
+    "firstName": "ХОСТИНГ ВАШЕГО УСПЕХА",
+    "lastName": "Поставщик",
+    "email": "finance@fastvps.ru",
+    "status": "active",
+    "admin": false,
+    "password": "finance@fastvps.ru",
+    "language": "ru"
+  },
+  {
+    "login": "4xfhbxg6@example.com",
+    "firstName": "БИЗНЕС РЕШЕНИЕ",
+    "lastName": "Поставщик",
+    "email": "4xfhbxg6@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "4xfhbxg6@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "x7khum6x@example.com",
+    "firstName": "ЗВЕЗДНЫЙ (7727429532)",
+    "lastName": "Клиент",
+    "email": "x7khum6x@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "x7khum6x@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "mff80h17@example.com",
+    "firstName": "ЗВЕЗДНЫЙ (7725361470)",
+    "lastName": "Клиент",
+    "email": "mff80h17@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "mff80h17@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "i5udnwpj@example.com",
+    "firstName": "ЖУТАЕВА АНАСТАСИЯ",
+    "lastName": "Клиент",
+    "email": "i5udnwpj@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "i5udnwpj@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "qgokpmbf@example.com",
+    "firstName": "АРТСТРОЙТЕХНОЛОГИЯ",
+    "lastName": "Клиент",
+    "email": "qgokpmbf@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "qgokpmbf@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "4jalqes1@example.com",
+    "firstName": "ГБОУ ЦСИО МЭШ МОСКОМСПОРТА",
+    "lastName": "Клиент",
+    "email": "4jalqes1@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "4jalqes1@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "uf06bqml@example.com",
+    "firstName": "НАВИТРАНС",
+    "lastName": "Клиент",
+    "email": "uf06bqml@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "uf06bqml@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "ytxkkp9c@example.com",
+    "firstName": "РЕАЛ СОФТ ЭО",
+    "lastName": "Поставщик",
+    "email": "ytxkkp9c@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "ytxkkp9c@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "wd2o4hcx@example.com",
+    "firstName": "САПОГОВ ГРИГОРИЙ СЕРГЕЕВИЧ",
+    "lastName": "Поставщик",
+    "email": "wd2o4hcx@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "wd2o4hcx@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "od6uhbdn@example.com",
+    "firstName": "ПРОК",
+    "lastName": "Клиент",
+    "email": "od6uhbdn@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "od6uhbdn@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "lfb8sph7@example.com",
+    "firstName": "СОЛИДОС КАПИТАЛ",
+    "lastName": "Клиент",
+    "email": "lfb8sph7@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "lfb8sph7@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "972vhusp@example.com",
+    "firstName": "СИНОБИ",
+    "lastName": "Поставщик",
+    "email": "972vhusp@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "972vhusp@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "arhigdab@example.com",
+    "firstName": "ВИВАТ ФЛЕР",
+    "lastName": "Клиент",
+    "email": "arhigdab@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "arhigdab@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "enw3kqb6@example.com",
+    "firstName": "АРТЕМ ДРОНОВ",
+    "lastName": "Поставщик",
+    "email": "enw3kqb6@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "enw3kqb6@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "txwxhc4g@example.com",
+    "firstName": "ОЛЕГ ПОЛОЗОВ",
+    "lastName": "Поставщик",
+    "email": "txwxhc4g@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "txwxhc4g@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "krosheva@yarguor.ru",
+    "firstName": "ФГБУ ПОО ГУОР ПО ХОККЕЮ",
+    "lastName": "Клиент",
+    "email": "krosheva@yarguor.ru",
+    "status": "active",
+    "admin": false,
+    "password": "krosheva@yarguor.ru",
+    "language": "ru"
+  },
+  {
+    "login": "rpcuo23m@example.com",
+    "firstName": "ТИМОФЕЕВА ЕЛЕНА НИКОЛАЕВНА",
+    "lastName": "Клиент",
+    "email": "rpcuo23m@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "rpcuo23m@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "office@rsb-group.ru",
+    "firstName": "ЧОО  РСБ-ГРУПП",
+    "lastName": "Клиент",
+    "email": "office@rsb-group.ru",
+    "status": "active",
+    "admin": false,
+    "password": "office@rsb-group.ru",
+    "language": "ru"
+  },
+  {
+    "login": "rj1um67k@example.com",
+    "firstName": "ДАУРЕН ТОКТАРБЕКОВ",
+    "lastName": "Поставщик",
+    "email": "rj1um67k@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "rj1um67k@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "2afga3d3@example.com",
+    "firstName": "КРОТОВ ДМИТРИЙ",
+    "lastName": "Поставщик",
+    "email": "2afga3d3@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "2afga3d3@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "8wlx95ru@example.com",
+    "firstName": "СКВАДРА ГРУП",
+    "lastName": "Поставщик",
+    "email": "8wlx95ru@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "8wlx95ru@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "wxgknzir@example.com",
+    "firstName": "ЛУЧКО НАТАЛЬЯ НИКОЛАЕВНА",
+    "lastName": "Поставщик",
+    "email": "wxgknzir@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "wxgknzir@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "14czg797@example.com",
+    "firstName": "ГК АРИОС",
+    "lastName": "Поставщик",
+    "email": "14czg797@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "14czg797@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "i8w51boq@example.com",
+    "firstName": "Веселая затея",
+    "lastName": "Клиент",
+    "email": "i8w51boq@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "i8w51boq@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "jedv31dt@example.com",
+    "firstName": "ИВАНОВ ВАЛЕРИЙ ВИКТОРОВИЧ",
+    "lastName": "Поставщик",
+    "email": "jedv31dt@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "jedv31dt@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "e7ybej7p@example.com",
+    "firstName": "ЭДМОНДА",
+    "lastName": "Клиент",
+    "email": "e7ybej7p@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "e7ybej7p@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "ra8zy2qj@example.com",
+    "firstName": "УМА КЭА",
+    "lastName": "Клиент",
+    "email": "ra8zy2qj@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "ra8zy2qj@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "inf@1clicom.ru",
+    "firstName": "ЛИК",
+    "lastName": "Клиент",
+    "email": "inf@1clicom.ru",
+    "status": "active",
+    "admin": false,
+    "password": "inf@1clicom.ru",
+    "language": "ru"
+  },
+  {
+    "login": "t3gqx6fy@example.com",
+    "firstName": "ДИДЖИТАЛ ЭНЕРДЖИ",
+    "lastName": "Поставщик",
+    "email": "t3gqx6fy@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "t3gqx6fy@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "9z76nupn@example.com",
+    "firstName": "МУДО ДШИ ГАРМОНИЯ",
+    "lastName": "Клиент",
+    "email": "9z76nupn@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "9z76nupn@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "5biv3nmn@example.com",
+    "firstName": "КАРТА-МАСТЕР",
+    "lastName": "Клиент",
+    "email": "5biv3nmn@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "5biv3nmn@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "chocwouc@example.com",
+    "firstName": "ЕВГЕНИЙ ВАЛЕРЬЕВИЧ",
+    "lastName": "Поставщик",
+    "email": "chocwouc@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "chocwouc@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "Buh@kvik.ru",
+    "firstName": "КВИК-ОФИС",
+    "lastName": "Клиент",
+    "email": "Buh@kvik.ru",
+    "status": "active",
+    "admin": false,
+    "password": "Buh@kvik.ru",
+    "language": "ru"
+  },
+  {
+    "login": "yfkmds4d@example.com",
+    "firstName": "АЗАРОВ АЛЕКСАНДР АЛЕКСАНДРОВИЧ",
+    "lastName": "Поставщик",
+    "email": "yfkmds4d@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "yfkmds4d@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "lazutkina_2007@mail.ru",
+    "firstName": "Т-ФОРМ",
+    "lastName": "Клиент",
+    "email": "lazutkina_2007@mail.ru",
+    "status": "active",
+    "admin": false,
+    "password": "lazutkina_2007@mail.ru",
+    "language": "ru"
+  },
+  {
+    "login": "lngwc5zy@example.com",
+    "firstName": "СИСТЕМА 111",
+    "lastName": "Клиент",
+    "email": "lngwc5zy@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "lngwc5zy@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "i14sq42j@example.com",
+    "firstName": "Система",
+    "lastName": "Клиент",
+    "email": "i14sq42j@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "i14sq42j@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "AVOIR@yandex.ru",
+    "firstName": "АВУАР",
+    "lastName": "Клиент",
+    "email": "AVOIR@yandex.ru",
+    "status": "active",
+    "admin": false,
+    "password": "AVOIR@yandex.ru",
+    "language": "ru"
+  },
+  {
+    "login": "p7giidex@example.com",
+    "firstName": "Поленский Константин",
+    "lastName": "Клиент",
+    "email": "p7giidex@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "p7giidex@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "zjxwdevv@example.com",
+    "firstName": "ДРОНОВ АРТЕМ",
+    "lastName": "Поставщик",
+    "email": "zjxwdevv@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "zjxwdevv@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "ku2f1mc6@example.com",
+    "firstName": "ЖЕЛЕЗНОДОРОЖНОЕ РЕКЛАМНОЕ АГЕНТСТВО ЛАЙСА",
+    "lastName": "Клиент",
+    "email": "ku2f1mc6@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "ku2f1mc6@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "3d1grtwf@example.com",
+    "firstName": "СОФИЯ",
+    "lastName": "Клиент",
+    "email": "3d1grtwf@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "3d1grtwf@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "dwwohfw5@example.com",
+    "firstName": "НУТРИТЕК",
+    "lastName": "Клиент",
+    "email": "dwwohfw5@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "dwwohfw5@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "hsa4hfss@example.com",
+    "firstName": "ТЕХНОПАРК-ЦЕНТР",
+    "lastName": "Поставщик",
+    "email": "hsa4hfss@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "hsa4hfss@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "do_not_reply@bill2fast.com",
+    "firstName": "ФАСТВПС.ХОСТИНГ",
+    "lastName": "Поставщик",
+    "email": "do_not_reply@bill2fast.com",
+    "status": "active",
+    "admin": false,
+    "password": "do_not_reply@bill2fast.com",
+    "language": "ru"
+  },
+  {
+    "login": "riv@tehnogrupp.com",
+    "firstName": "ТЕХНО-ГРУПП",
+    "lastName": "Клиент",
+    "email": "riv@tehnogrupp.com",
+    "status": "active",
+    "admin": false,
+    "password": "riv@tehnogrupp.com",
+    "language": "ru"
+  },
+  {
+    "login": "domstroy2004@mail.com",
+    "firstName": "ДССС",
+    "lastName": "Клиент",
+    "email": "domstroy2004@mail.com",
+    "status": "active",
+    "admin": false,
+    "password": "domstroy2004@mail.com",
+    "language": "ru"
+  },
+  {
+    "login": "cm47kb7c@example.com",
+    "firstName": "Обои АРТ",
+    "lastName": "Клиент",
+    "email": "cm47kb7c@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "cm47kb7c@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "blnka18i@example.com",
+    "firstName": "АРТ СПЕЙС",
+    "lastName": "Клиент",
+    "email": "blnka18i@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "blnka18i@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "y5a2j79b@example.com",
+    "firstName": "ПРОГРАММИСТ",
+    "lastName": "Поставщик",
+    "email": "y5a2j79b@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "y5a2j79b@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "skqavc0y@example.com",
+    "firstName": "КЕДУФАР",
+    "lastName": "Поставщик",
+    "email": "skqavc0y@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "skqavc0y@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "5wgd0928@example.com",
+    "firstName": "ЕВРОКОР",
+    "lastName": "Клиент",
+    "email": "5wgd0928@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "5wgd0928@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "uhfy1md7@example.com",
+    "firstName": "АЛЕКСЕЙ (ШЛЮЗЫ ГОЛОСОВЫЕ)",
+    "lastName": "Поставщик",
+    "email": "uhfy1md7@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "uhfy1md7@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "tru3nkhg@example.com",
+    "firstName": "ВЛАСОВ И К°",
+    "lastName": "Клиент",
+    "email": "tru3nkhg@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "tru3nkhg@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "2omhjsmo@example.com",
+    "firstName": "ИП Ковалев Евгений Сергеевич",
+    "lastName": "Поставщик",
+    "email": "2omhjsmo@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "2omhjsmo@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "dzgqtzae@example.com",
+    "firstName": "Паремо",
+    "lastName": "Клиент",
+    "email": "dzgqtzae@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "dzgqtzae@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "hohydvqc@example.com",
+    "firstName": "ТОРГЭНЕРГО",
+    "lastName": "Клиент",
+    "email": "hohydvqc@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "hohydvqc@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "tfq2mu8x@example.com",
+    "firstName": "ТРИУМФ КРАСОТЫ",
+    "lastName": "Клиент",
+    "email": "tfq2mu8x@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "tfq2mu8x@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "504c6406@example.com",
+    "firstName": "ТЕЛЕКОМ СЕРВИС",
+    "lastName": "Поставщик",
+    "email": "504c6406@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "504c6406@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "8cyzszhg@example.com",
+    "firstName": "СВЕТОСИЛА",
+    "lastName": "Поставщик",
+    "email": "8cyzszhg@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "8cyzszhg@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "qup0vjsi@example.com",
+    "firstName": "CВЕТОСИЛА",
+    "lastName": "Поставщик",
+    "email": "qup0vjsi@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "qup0vjsi@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "b6m1m6yl@example.com",
+    "firstName": "ЗОЛОТОЙ ВАВИЛОН",
+    "lastName": "Клиент",
+    "email": "b6m1m6yl@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "b6m1m6yl@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "prom-solutions@mail.ru",
+    "firstName": "ПРОМЫШЛЕННЫЕ РЕШЕНИЯ",
+    "lastName": "Клиент",
+    "email": "prom-solutions@mail.ru",
+    "status": "active",
+    "admin": false,
+    "password": "prom-solutions@mail.ru",
+    "language": "ru"
+  },
+  {
+    "login": "ikey@mail.ru",
+    "firstName": "ДЖЕЙ ЭЙ ЭФ РУС",
+    "lastName": "Клиент",
+    "email": "ikey@mail.ru",
+    "status": "active",
+    "admin": false,
+    "password": "ikey@mail.ru",
+    "language": "ru"
+  },
+  {
+    "login": "wisekaa@mail.ru",
+    "firstName": "КОНДРАТЬЕВ АНДРЕЙ",
+    "lastName": "Поставщик",
+    "email": "wisekaa@mail.ru",
+    "status": "active",
+    "admin": false,
+    "password": "wisekaa@mail.ru",
+    "language": "ru"
+  },
+  {
+    "login": "dqla08v7@example.com",
+    "firstName": "БМ",
+    "lastName": "Поставщик",
+    "email": "dqla08v7@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "dqla08v7@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "buq339jm@example.com",
+    "firstName": "ПЕРСПЕКТИВА",
+    "lastName": "Поставщик",
+    "email": "buq339jm@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "buq339jm@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "tanp1tji@example.com",
+    "firstName": "ЕВРОШИНЫ",
+    "lastName": "Клиент",
+    "email": "tanp1tji@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "tanp1tji@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "16gdm4hn@example.com",
+    "firstName": "ПРАКТИК",
+    "lastName": "Поставщик",
+    "email": "16gdm4hn@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "16gdm4hn@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "ir5tkp51@example.com",
+    "firstName": "М-ЭКСПРЕСС",
+    "lastName": "Поставщик",
+    "email": "ir5tkp51@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "ir5tkp51@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "3uo7vrh7@example.com",
+    "firstName": "СТАНДАРТ",
+    "lastName": "Поставщик",
+    "email": "3uo7vrh7@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "3uo7vrh7@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "o56r7olt@example.com",
+    "firstName": "МЕЖДУНАРОДНАЯ ТРАНСПОРТНАЯ КОМПАНИЯ ТРАНСАЗИЯ-РУСЬ",
+    "lastName": "Клиент",
+    "email": "o56r7olt@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "o56r7olt@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "ldfe0spp@example.com",
+    "firstName": "ФИНИНТЕКС",
+    "lastName": "Клиент",
+    "email": "ldfe0spp@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "ldfe0spp@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "nprqoe9k@example.com",
+    "firstName": "ЭЛЬДЕНИ",
+    "lastName": "Партнер",
+    "email": "nprqoe9k@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "nprqoe9k@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "b1otpm45@example.com",
+    "firstName": "КОРПОРАТИВНЫЙ СТИЛЬ",
+    "lastName": "Клиент",
+    "email": "b1otpm45@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "b1otpm45@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "2xoeir3p@example.com",
+    "firstName": "ДШИ ИМ. КОВЛЕРА",
+    "lastName": "Клиент",
+    "email": "2xoeir3p@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "2xoeir3p@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "p2404f08@example.com",
+    "firstName": "ДШИ № 5",
+    "lastName": "Клиент",
+    "email": "p2404f08@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "p2404f08@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "c5e1zaxd@example.com",
+    "firstName": "ДШИ № 4",
+    "lastName": "Клиент",
+    "email": "c5e1zaxd@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "c5e1zaxd@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "k9wzzpef@example.com",
+    "firstName": "ДШИ № 3",
+    "lastName": "Клиент",
+    "email": "k9wzzpef@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "k9wzzpef@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "236dyy5s@example.com",
+    "firstName": "ДШИ № 2",
+    "lastName": "Клиент",
+    "email": "236dyy5s@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "236dyy5s@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "seqlb0rc@example.com",
+    "firstName": "ДШИ № 1",
+    "lastName": "Клиент",
+    "email": "seqlb0rc@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "seqlb0rc@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "guxf11cq@example.com",
+    "firstName": "ДЕСТКАЯ ХУДДОЖЕСТВЕННАЯ ШКОЛА",
+    "lastName": "Клиент",
+    "email": "guxf11cq@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "guxf11cq@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "mshy017i@example.com",
+    "firstName": "ДЕТСКАЯ ХОРЕОГРАФИЧЕСКАЯ ШКОЛА",
+    "lastName": "Клиент",
+    "email": "mshy017i@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "mshy017i@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "6uzqh8hs@example.com",
+    "firstName": "МИРКУРЕЙ",
+    "lastName": "Клиент",
+    "email": "6uzqh8hs@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "6uzqh8hs@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "70pxgbj8@example.com",
+    "firstName": "АКТИВ АВЕРС",
+    "lastName": "Клиент",
+    "email": "70pxgbj8@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "70pxgbj8@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "farid@al-fas.ru",
+    "firstName": "АЛФАС",
+    "lastName": "Клиент",
+    "email": "farid@al-fas.ru",
+    "status": "active",
+    "admin": false,
+    "password": "farid@al-fas.ru",
+    "language": "ru"
+  },
+  {
+    "login": "wu12styy@example.com",
+    "firstName": "ЛАЙСА",
+    "lastName": "Клиент",
+    "email": "wu12styy@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "wu12styy@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "lilia37@yandex.ru",
+    "firstName": "КАРПЕНКО ЛИЛИЯ ЮРЬЕВНА",
+    "lastName": "Клиент",
+    "email": "lilia37@yandex.ru",
+    "status": "active",
+    "admin": false,
+    "password": "lilia37@yandex.ru",
+    "language": "ru"
+  },
+  {
+    "login": "ms6alpqr@example.com",
+    "firstName": "МИКО",
+    "lastName": "Поставщик",
+    "email": "ms6alpqr@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "ms6alpqr@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "lc3ucacd@example.com",
+    "firstName": "ИНТЕГРАЦИЯ",
+    "lastName": "Клиент",
+    "email": "lc3ucacd@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "lc3ucacd@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "help@sunsim.ru",
+    "firstName": "САНСИМ",
+    "lastName": "Поставщик",
+    "email": "help@sunsim.ru",
+    "status": "active",
+    "admin": false,
+    "password": "help@sunsim.ru",
+    "language": "ru"
+  },
+  {
+    "login": "bia5wllr@example.com",
+    "firstName": "АМАРИСТ",
+    "lastName": "Клиент",
+    "email": "bia5wllr@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "bia5wllr@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "z9rh3xy0@example.com",
+    "firstName": "ФОРТИС",
+    "lastName": "Поставщик",
+    "email": "z9rh3xy0@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "z9rh3xy0@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "ulkzdyyv@example.com",
+    "firstName": "ТАЛДОМ АТП",
+    "lastName": "Клиент",
+    "email": "ulkzdyyv@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "ulkzdyyv@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "j31sbech@example.com",
+    "firstName": "ТРОШКО",
+    "lastName": "Клиент",
+    "email": "j31sbech@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "j31sbech@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "qatj09u0@example.com",
+    "firstName": "ВОДА У ДОМА",
+    "lastName": "Поставщик",
+    "email": "qatj09u0@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "qatj09u0@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "gla0h2mo@example.com",
+    "firstName": "КЕРА",
+    "lastName": "Поставщик",
+    "email": "gla0h2mo@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "gla0h2mo@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "tpvwfxdp@example.com",
+    "firstName": "ИКС-КОМ ШОП",
+    "lastName": "Поставщик",
+    "email": "tpvwfxdp@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "tpvwfxdp@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "pxwian1t@example.com",
+    "firstName": "ПОЛОВЯНОВ АЛЕКСЕЙ АЛЕКСАНДРОВИЧ",
+    "lastName": "Поставщик",
+    "email": "pxwian1t@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "pxwian1t@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "vj9s3o2e@example.com",
+    "firstName": "АКТИВ",
+    "lastName": "Клиент",
+    "email": "vj9s3o2e@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "vj9s3o2e@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "0gjoolfa@example.com",
+    "firstName": "ВЕСТ-КОМ",
+    "lastName": "Клиент",
+    "email": "0gjoolfa@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "0gjoolfa@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "se41j4ql@example.com",
+    "firstName": "Вадим",
+    "lastName": "Клиент",
+    "email": "se41j4ql@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "se41j4ql@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "lk-cis@mail.ru",
+    "firstName": "ЛК МАШИНЕРИ РУС",
+    "lastName": "Клиент",
+    "email": "lk-cis@mail.ru",
+    "status": "active",
+    "admin": false,
+    "password": "lk-cis@mail.ru",
+    "language": "ru"
+  },
+  {
+    "login": "c9vxza5x@example.com",
+    "firstName": "ЭЛЕКТРОННАЯ УПРАВЛЯЮЩАЯ КОМПАНИЯ",
+    "lastName": "Поставщик",
+    "email": "c9vxza5x@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "c9vxza5x@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "oy2cribz@example.com",
+    "firstName": "АЛЬФА-БАНК",
+    "lastName": "Поставщик",
+    "email": "oy2cribz@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "oy2cribz@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "nmakdv45@example.com",
+    "firstName": "РАЙФФАЙЗЕНБАНК",
+    "lastName": "Поставщик",
+    "email": "nmakdv45@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "nmakdv45@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "zri76v55@example.com",
+    "firstName": "ЮЛПЛЕЙС",
+    "lastName": "Поставщик",
+    "email": "zri76v55@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "zri76v55@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "52h5by4v@example.com",
+    "firstName": "МИНЕРАЛЬНЫЕ ВОДЫ БОРЖОМИ",
+    "lastName": "Поставщик",
+    "email": "52h5by4v@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "52h5by4v@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "gt4nn8cr@example.com",
+    "firstName": "АЛЕКСАНДРА",
+    "lastName": "Клиент",
+    "email": "gt4nn8cr@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "gt4nn8cr@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "erm3klge@example.com",
+    "firstName": "ЦФИ",
+    "lastName": "Клиент",
+    "email": "erm3klge@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "erm3klge@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "5793012b@inbox.ru",
+    "firstName": "ДОМТЕКС",
+    "lastName": "Клиент",
+    "email": "5793012b@inbox.ru",
+    "status": "active",
+    "admin": false,
+    "password": "5793012b@inbox.ru",
+    "language": "ru"
+  },
+  {
+    "login": "pgwfz8ou@example.com",
+    "firstName": "ШАМЛОВ ДМИТРИЙ",
+    "lastName": "Поставщик",
+    "email": "pgwfz8ou@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "pgwfz8ou@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "ehuk7l8d@example.com",
+    "firstName": "НАТАЛЬЯ (ДЕТСКИЙ САД)",
+    "lastName": "Клиент",
+    "email": "ehuk7l8d@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "ehuk7l8d@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "skip48uo@example.com",
+    "firstName": "ГЕТТАКСИ РУС",
+    "lastName": "Поставщик",
+    "email": "skip48uo@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "skip48uo@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "2sple8bm@example.com",
+    "firstName": "АЙТИ-СТУДИЯ ЕВГЕНИЯ МОИСЕЕНКО",
+    "lastName": "Поставщик",
+    "email": "2sple8bm@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "2sple8bm@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "dianarud1@mail.ru",
+    "firstName": "МИР",
+    "lastName": "Клиент",
+    "email": "dianarud1@mail.ru",
+    "status": "active",
+    "admin": false,
+    "password": "dianarud1@mail.ru",
+    "language": "ru"
+  },
+  {
+    "login": "cvfi91td@example.com",
+    "firstName": "ВИКТОР АЛЕКСАНДРОВИЧ Ш",
+    "lastName": "Поставщик",
+    "email": "cvfi91td@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "cvfi91td@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "cb4hzha5@example.com",
+    "firstName": "АЛИНКА CRM",
+    "lastName": "Клиент",
+    "email": "cb4hzha5@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "cb4hzha5@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "gomon_irina@mail.ru",
+    "firstName": "ЭКРАДЕНТ",
+    "lastName": "Клиент",
+    "email": "gomon_irina@mail.ru",
+    "status": "active",
+    "admin": false,
+    "password": "gomon_irina@mail.ru",
+    "language": "ru"
+  },
+  {
+    "login": "bib613wf@example.com",
+    "firstName": "ГОМОН ИРИНА СЕРГЕЕВНА",
+    "lastName": "Клиент",
+    "email": "bib613wf@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "bib613wf@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "mns@its22.ru",
+    "firstName": "АЙТИ-СОФТ",
+    "lastName": "Поставщик",
+    "email": "mns@its22.ru",
+    "status": "active",
+    "admin": false,
+    "password": "mns@its22.ru",
+    "language": "ru"
+  },
+  {
+    "login": "mp6lf825@example.com",
+    "firstName": "ЕЛЕНА БАХТАРОВА",
+    "lastName": "Клиент",
+    "email": "mp6lf825@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "mp6lf825@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "d1j53aif@example.com",
+    "firstName": "КОМАРОВ ПАВЕЛ НИКОЛАЕВИЧ",
+    "lastName": "Поставщик",
+    "email": "d1j53aif@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "d1j53aif@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "g0oebcxu@example.com",
+    "firstName": "БАЗОЙЛ",
+    "lastName": "Клиент",
+    "email": "g0oebcxu@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "g0oebcxu@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "a42ckq82@example.com",
+    "firstName": "ТЕХНОПОСИДЕЛКИ",
+    "lastName": "Клиент",
+    "email": "a42ckq82@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "a42ckq82@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "dmo5kcqk@example.com",
+    "firstName": "МЕДФАРМАСНАБ",
+    "lastName": "Клиент",
+    "email": "dmo5kcqk@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "dmo5kcqk@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "ekp05y0n@example.com",
+    "firstName": "ВИТАЛИЙ МАКАРОВ",
+    "lastName": "Поставщик",
+    "email": "ekp05y0n@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "ekp05y0n@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "rs9p0cj2@example.com",
+    "firstName": "АЛЕКСАНДР НИКОЛАЕВИЧ (IT YOUDO)",
+    "lastName": "Поставщик",
+    "email": "rs9p0cj2@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "rs9p0cj2@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "wvasgchq@example.com",
+    "firstName": "ОЛЬГА ВЛАСОВА",
+    "lastName": "Поставщик",
+    "email": "wvasgchq@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "wvasgchq@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "jwjv7rj5@example.com",
+    "firstName": "ТИМУР УСТИНОВ ЯРМУХАММЕТОВИЧ",
+    "lastName": "Поставщик",
+    "email": "jwjv7rj5@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "jwjv7rj5@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "77e1tcbg@example.com",
+    "firstName": "ДМИТРИЙ АЛЕКСАНДРОВИЧ МИТРОХИН",
+    "lastName": "Поставщик",
+    "email": "77e1tcbg@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "77e1tcbg@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "t2wjp48d@example.com",
+    "firstName": "ЦЕФЕЙ-Н",
+    "lastName": "Клиент",
+    "email": "t2wjp48d@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "t2wjp48d@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "0hl34zj5@example.com",
+    "firstName": "ЦС АВЕРС",
+    "lastName": "Клиент",
+    "email": "0hl34zj5@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "0hl34zj5@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "k2gwhi29@example.com",
+    "firstName": "ТЕХНО-АРС",
+    "lastName": "Клиент",
+    "email": "k2gwhi29@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "k2gwhi29@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "m7hd6ns2@example.com",
+    "firstName": "Н-ТРАСТ",
+    "lastName": "Клиент",
+    "email": "m7hd6ns2@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "m7hd6ns2@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "2p4gvs8p@example.com",
+    "firstName": "ДЕТСКИЙ САД №249",
+    "lastName": "Клиент",
+    "email": "2p4gvs8p@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "2p4gvs8p@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "9tr4ehmp@example.com",
+    "firstName": "БРЮКЛЭНД",
+    "lastName": "Клиент",
+    "email": "9tr4ehmp@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "9tr4ehmp@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "9mx51v7y@example.com",
+    "firstName": "1С-ИЖТИСИ",
+    "lastName": "Поставщик",
+    "email": "9mx51v7y@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "9mx51v7y@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "xhlxvpbo@example.com",
+    "firstName": "ТРУБПРОМ",
+    "lastName": "Клиент",
+    "email": "xhlxvpbo@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "xhlxvpbo@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "pr205grz@example.com",
+    "firstName": "ЛСЗИ",
+    "lastName": "Поставщик",
+    "email": "pr205grz@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "pr205grz@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "el2pxx7x@example.com",
+    "firstName": "АНТАЛЕКС-КОНСАЛТ",
+    "lastName": "Клиент",
+    "email": "el2pxx7x@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "el2pxx7x@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "ohs3w3ey@example.com",
+    "firstName": "ЭЛСЕТ",
+    "lastName": "Клиент",
+    "email": "ohs3w3ey@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "ohs3w3ey@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "drd5immk@example.com",
+    "firstName": "МИКРОТИК.РУ",
+    "lastName": "Поставщик",
+    "email": "drd5immk@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "drd5immk@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "7aez70h3@example.com",
+    "firstName": "БАГЕТ ОПТ",
+    "lastName": "Поставщик",
+    "email": "7aez70h3@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "7aez70h3@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "9acgokc5@example.com",
+    "firstName": "ФАЙНЗИЛЬБЕР МИХАИЛ ЕВГЕНЬЕВИЧ",
+    "lastName": "Поставщик",
+    "email": "9acgokc5@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "9acgokc5@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "11ffycig@example.com",
+    "firstName": "ДЕТСКАЯ МУЗЫКАЛЬНАЯ ШКОЛА",
+    "lastName": "Клиент",
+    "email": "11ffycig@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "11ffycig@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "j8z3xggy@example.com",
+    "firstName": "ПРОМОПУЛЬТ",
+    "lastName": "Поставщик",
+    "email": "j8z3xggy@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "j8z3xggy@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "9j53uyvq@example.com",
+    "firstName": "СЕОПУЛЬТ",
+    "lastName": "Поставщик",
+    "email": "9j53uyvq@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "9j53uyvq@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "41phdxpp@example.com",
+    "firstName": "ПЕТРУШИН ВЯЧЕСЛАВ АЛЕКСЕЕВИЧ",
+    "lastName": "Поставщик",
+    "email": "41phdxpp@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "41phdxpp@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "wwcnlek9@example.com",
+    "firstName": "ЦИРКУЛЬ-СТРОЙ",
+    "lastName": "Клиент",
+    "email": "wwcnlek9@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "wwcnlek9@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "zoc6qi6w@example.com",
+    "firstName": "МИАЛ ГРУПП",
+    "lastName": "Клиент",
+    "email": "zoc6qi6w@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "zoc6qi6w@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "Novikovarn88@gmail.com",
+    "firstName": "ДЕЛОВЫЕ РЕШЕНИЯ",
+    "lastName": "Клиент",
+    "email": "Novikovarn88@gmail.com",
+    "status": "active",
+    "admin": false,
+    "password": "Novikovarn88@gmail.com",
+    "language": "ru"
+  },
+  {
+    "login": "y0130jow@example.com",
+    "firstName": "ФРАТТИ-ЭКСПОРТ",
+    "lastName": "Клиент",
+    "email": "y0130jow@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "y0130jow@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "ATHINA6499583@mail.ru",
+    "firstName": "АФИНА",
+    "lastName": "Клиент",
+    "email": "ATHINA6499583@mail.ru",
+    "status": "active",
+    "admin": false,
+    "password": "ATHINA6499583@mail.ru",
+    "language": "ru"
+  },
+  {
+    "login": "ijpvqk15@example.com",
+    "firstName": "МЕТРОТЕЛ",
+    "lastName": "Поставщик",
+    "email": "ijpvqk15@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "ijpvqk15@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "a9kv6ssv@example.com",
+    "firstName": "ЖЕМЧУЖИНА-СНАБ",
+    "lastName": "Клиент",
+    "email": "a9kv6ssv@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "a9kv6ssv@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "485krge7@example.com",
+    "firstName": "ИНФОСТАРТ-СЕРВИС",
+    "lastName": "Поставщик",
+    "email": "485krge7@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "485krge7@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "e296gkvy@example.com",
+    "firstName": "ЭЛЕКТРОН",
+    "lastName": "Поставщик",
+    "email": "e296gkvy@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "e296gkvy@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "tnjwzhof@example.com",
+    "firstName": "ССЛ",
+    "lastName": "Клиент",
+    "email": "tnjwzhof@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "tnjwzhof@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "yumecs.uz@dmail.com",
+    "firstName": "ЮМЭКС",
+    "lastName": "Клиент",
+    "email": "yumecs.uz@dmail.com",
+    "status": "active",
+    "admin": false,
+    "password": "yumecs.uz@dmail.com",
+    "language": "ru"
+  },
+  {
+    "login": "t2tr96zn@example.com",
+    "firstName": "ИП Князев Роман Евгеньевич",
+    "lastName": "Клиент",
+    "email": "t2tr96zn@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "t2tr96zn@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "15lnw84l@example.com",
+    "firstName": "МАЛАХИТ-ПРОМ",
+    "lastName": "Клиент",
+    "email": "15lnw84l@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "15lnw84l@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "1a1zmo2i@example.com",
+    "firstName": "ПГ ГРУПП",
+    "lastName": "Поставщик",
+    "email": "1a1zmo2i@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "1a1zmo2i@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "58jhi1yf@example.com",
+    "firstName": "ЦАЙ РАДИОН ВЛАДИСЛАВОВИЧ",
+    "lastName": "Поставщик",
+    "email": "58jhi1yf@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "58jhi1yf@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "ribkipoedim@gmail.com",
+    "firstName": "РЫБКИ ПОЕДИМ",
+    "lastName": "Клиент",
+    "email": "ribkipoedim@gmail.com",
+    "status": "active",
+    "admin": false,
+    "password": "ribkipoedim@gmail.com",
+    "language": "ru"
+  },
+  {
+    "login": "95yddvri@example.com",
+    "firstName": "ОФИСМАГ",
+    "lastName": "Поставщик",
+    "email": "95yddvri@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "95yddvri@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "nzqskewm@example.com",
+    "firstName": "БАРИНОВА ВИКТОРИЯ ВИКТОРОВНА",
+    "lastName": "Поставщик",
+    "email": "nzqskewm@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "nzqskewm@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "uh22j8bh@example.com",
+    "firstName": "Магазин",
+    "lastName": "Поставщик",
+    "email": "uh22j8bh@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "uh22j8bh@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "by2px9xx@example.com",
+    "firstName": "Пропанов Олег Витальевич",
+    "lastName": "Клиент",
+    "email": "by2px9xx@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "by2px9xx@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "ij01dr00@example.com",
+    "firstName": "СДЭК-ГЛОБАЛ",
+    "lastName": "Клиент",
+    "email": "ij01dr00@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "ij01dr00@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "9ruabait@example.com",
+    "firstName": "КОМФОРТ",
+    "lastName": "Поставщик",
+    "email": "9ruabait@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "9ruabait@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "cyvndxq2@example.com",
+    "firstName": "ИНТЕГРАЦИЯ (7728424456)",
+    "lastName": "Клиент",
+    "email": "cyvndxq2@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "cyvndxq2@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "dr8otrg6@example.com",
+    "firstName": "АБДУРАХМАНОВ АЛИМЖАН ИНАМЖАНОВИЧ",
+    "lastName": "Клиент",
+    "email": "dr8otrg6@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "dr8otrg6@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "7896858@gmail.com",
+    "firstName": "АНТОНОВ ВЛАДИСЛАВ АЛЕКСАНДРОВИЧ",
+    "lastName": "Клиент",
+    "email": "7896858@gmail.com",
+    "status": "active",
+    "admin": false,
+    "password": "7896858@gmail.com",
+    "language": "ru"
+  },
+  {
+    "login": "macsaev@mail.ru",
+    "firstName": "ДЕЙМАРК ГРУПП",
+    "lastName": "Клиент",
+    "email": "macsaev@mail.ru",
+    "status": "active",
+    "admin": false,
+    "password": "macsaev@mail.ru",
+    "language": "ru"
+  },
+  {
+    "login": "jw9bn38y@example.com",
+    "firstName": "СЕРВИС ПЛЮС",
+    "lastName": "Клиент",
+    "email": "jw9bn38y@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "jw9bn38y@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "bfokb1cp@example.com",
+    "firstName": "Шамиль (от Марины Цай)",
+    "lastName": "Клиент",
+    "email": "bfokb1cp@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "bfokb1cp@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "gor-torg@list.ru",
+    "firstName": "ГОР-ТОРГ",
+    "lastName": "Клиент",
+    "email": "gor-torg@list.ru",
+    "status": "active",
+    "admin": false,
+    "password": "gor-torg@list.ru",
+    "language": "ru"
+  },
+  {
+    "login": "info@alamed.ru",
+    "firstName": "АЛАМЕД",
+    "lastName": "Клиент",
+    "email": "info@alamed.ru",
+    "status": "active",
+    "admin": false,
+    "password": "info@alamed.ru",
+    "language": "ru"
+  },
+  {
+    "login": "lemonykids@mail.ru",
+    "firstName": "НОВИКОВА МАРИЯ МИХАЙЛОВНА",
+    "lastName": "Клиент",
+    "email": "lemonykids@mail.ru",
+    "status": "active",
+    "admin": false,
+    "password": "lemonykids@mail.ru",
+    "language": "ru"
+  },
+  {
+    "login": "t7vss38s@example.com",
+    "firstName": "ДЕЗАЛ",
+    "lastName": "Клиент",
+    "email": "t7vss38s@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "t7vss38s@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "0arfoly4@example.com",
+    "firstName": "ВЕЛТА ОЙЛ",
+    "lastName": "Клиент",
+    "email": "0arfoly4@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "0arfoly4@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "k2qc2fux@example.com",
+    "firstName": "СМАРТРЕНТ",
+    "lastName": "Клиент",
+    "email": "k2qc2fux@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "k2qc2fux@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "jlhhpj19@example.com",
+    "firstName": "АЙКО МОТО ЭЛЕКТРИК ",
+    "lastName": "Клиент",
+    "email": "jlhhpj19@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "jlhhpj19@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "wdhrs8ul@example.com",
+    "firstName": "Империя Фуд",
+    "lastName": "Клиент",
+    "email": "wdhrs8ul@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "wdhrs8ul@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "envhzgt2@example.com",
+    "firstName": "УКРАИНЦЕВ ОЛЕГ ВЛАДИМИРОВИЧ",
+    "lastName": "Клиент",
+    "email": "envhzgt2@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "envhzgt2@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "54our1ad@example.com",
+    "firstName": "ПРИХОДЬКО ДЕНИС ВИКТОРОВИЧ",
+    "lastName": "Клиент",
+    "email": "54our1ad@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "54our1ad@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "8cssqycc@example.com",
+    "firstName": "КРАЙНЕВ МИХАИЛ АНДРЕЕВИЧ",
+    "lastName": "Поставщик",
+    "email": "8cssqycc@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "8cssqycc@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "tcsof@tcsof.ru",
+    "firstName": "ТК СОФИЙСКАЯ",
+    "lastName": "Клиент",
+    "email": "tcsof@tcsof.ru",
+    "status": "active",
+    "admin": false,
+    "password": "tcsof@tcsof.ru",
+    "language": "ru"
+  },
+  {
+    "login": "a8ugakar@example.com",
+    "firstName": "Павел Владимирович О.",
+    "lastName": "Поставщик",
+    "email": "a8ugakar@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "a8ugakar@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "c2euw47a@example.com",
+    "firstName": "НУЯНЗИНА АЛЕНА",
+    "lastName": "Клиент",
+    "email": "c2euw47a@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "c2euw47a@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "6kh6w5f3@example.com",
+    "firstName": "РЕСУРС-РЕГИОН",
+    "lastName": "Клиент",
+    "email": "6kh6w5f3@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "6kh6w5f3@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "o9heqkeo@example.com",
+    "firstName": "МГИМ. В.НЕСТЕРОВА",
+    "lastName": "Клиент",
+    "email": "o9heqkeo@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "o9heqkeo@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "j93dwxib@example.com",
+    "firstName": "МИРАТЕКС ГРУПП",
+    "lastName": "Клиент",
+    "email": "j93dwxib@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "j93dwxib@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "xct23gwe@example.com",
+    "firstName": "КИНКОМ",
+    "lastName": "Поставщик",
+    "email": "xct23gwe@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "xct23gwe@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "info_abz@mail.ru",
+    "firstName": "ВЫСОТЖИЛСТРОЙ-ВИДНОЕ",
+    "lastName": "Клиент",
+    "email": "info_abz@mail.ru",
+    "status": "active",
+    "admin": false,
+    "password": "info_abz@mail.ru",
+    "language": "ru"
+  },
+  {
+    "login": "rxppt8nt@example.com",
+    "firstName": "МОРКНИГА",
+    "lastName": "Поставщик",
+    "email": "rxppt8nt@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "rxppt8nt@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "market@infostart.ru",
+    "firstName": "ИНФОСТАРТ",
+    "lastName": "Поставщик",
+    "email": "market@infostart.ru",
+    "status": "active",
+    "admin": false,
+    "password": "market@infostart.ru",
+    "language": "ru"
+  },
+  {
+    "login": "kurn38nw@example.com",
+    "firstName": "СПЕЦСТРОЙТРАНС",
+    "lastName": "Клиент",
+    "email": "kurn38nw@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "kurn38nw@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "vysota-petrova@yandex.ru",
+    "firstName": "КОРПОРАЦИЯ РУСЛАН-1",
+    "lastName": "Клиент",
+    "email": "vysota-petrova@yandex.ru",
+    "status": "active",
+    "admin": false,
+    "password": "vysota-petrova@yandex.ru",
+    "language": "ru"
+  },
+  {
+    "login": "88u3s6x6@example.com",
+    "firstName": "ДЕТСКИЙ САД № 2507",
+    "lastName": "Клиент",
+    "email": "88u3s6x6@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "88u3s6x6@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "rqnetvba@example.com",
+    "firstName": "ПОЛЯНИНОВ ДМИТРИЙ ВЛАДИМИРОВИЧ",
+    "lastName": "Клиент",
+    "email": "rqnetvba@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "rqnetvba@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "o2co0r4k@example.com",
+    "firstName": "ГРОСТЕК",
+    "lastName": "Клиент",
+    "email": "o2co0r4k@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "o2co0r4k@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "hknoc4iw@example.com",
+    "firstName": "БАЛЯСНИКОВА СВЕТЛАНА ВЛАДИМИРОВНА",
+    "lastName": "Поставщик",
+    "email": "hknoc4iw@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "hknoc4iw@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "uj1kqq5o@example.com",
+    "firstName": "ЛАЗАРЕВА ЕКАТЕРИНА ОЛЕГОВНА",
+    "lastName": "Поставщик",
+    "email": "uj1kqq5o@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "uj1kqq5o@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "ebvxmnhw@example.com",
+    "firstName": "ИНТЕГРА",
+    "lastName": "Поставщик",
+    "email": "ebvxmnhw@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "ebvxmnhw@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "uhychq14@example.com",
+    "firstName": "ХЕД ХАНТЕР",
+    "lastName": "Поставщик",
+    "email": "uhychq14@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "uhychq14@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "0677575@gmail.com",
+    "firstName": "АБЗ ЛЕНИНСКИЙ",
+    "lastName": "Клиент",
+    "email": "0677575@gmail.com",
+    "status": "active",
+    "admin": false,
+    "password": "0677575@gmail.com",
+    "language": "ru"
+  },
+  {
+    "login": "sladkova_a@mig-telecom.net",
+    "firstName": "ТЕЛЕМЕТРИКА",
+    "lastName": "Поставщик",
+    "email": "sladkova_a@mig-telecom.net",
+    "status": "active",
+    "admin": false,
+    "password": "sladkova_a@mig-telecom.net",
+    "language": "ru"
+  },
+  {
+    "login": "6srad8qk@example.com",
+    "firstName": "ИП Козлов Александр Александрович",
+    "lastName": "Поставщик",
+    "email": "6srad8qk@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "6srad8qk@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "xul4upho@example.com",
+    "firstName": "ИП Келейникова Диана Викторовна",
+    "lastName": "Поставщик",
+    "email": "xul4upho@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "xul4upho@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "2vg1sim8@example.com",
+    "firstName": "СЕЙЛ ЭЛЕКТРОНИКС",
+    "lastName": "Поставщик",
+    "email": "2vg1sim8@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "2vg1sim8@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "ssekgb34@example.com",
+    "firstName": "МТТ",
+    "lastName": "Партнер",
+    "email": "ssekgb34@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "ssekgb34@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "eeq08qeu@example.com",
+    "firstName": "КОВАЛЕВ ЕВГЕНИЙ БОРИСОВИЧ",
+    "lastName": "Поставщик",
+    "email": "eeq08qeu@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "eeq08qeu@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "giosi8gq@example.com",
+    "firstName": "РИТОН",
+    "lastName": "Клиент",
+    "email": "giosi8gq@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "giosi8gq@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "33d6plz9@example.com",
+    "firstName": "СПЕКТР М",
+    "lastName": "Клиент",
+    "email": "33d6plz9@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "33d6plz9@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "roza61@mail.ru",
+    "firstName": "ГЕРМЕС",
+    "lastName": "Клиент",
+    "email": "roza61@mail.ru",
+    "status": "active",
+    "admin": false,
+    "password": "roza61@mail.ru",
+    "language": "ru"
+  },
+  {
+    "login": "juve2@rambler.ru",
+    "firstName": "МУРАТОВ ТИМУР ВЛАДИМИРОВИЧ",
+    "lastName": "Поставщик",
+    "email": "juve2@rambler.ru",
+    "status": "active",
+    "admin": false,
+    "password": "juve2@rambler.ru",
+    "language": "ru"
+  },
+  {
+    "login": "4sc7h0fb@example.com",
+    "firstName": "Миракл",
+    "lastName": "Клиент",
+    "email": "4sc7h0fb@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "4sc7h0fb@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "ninaport@mail.ru",
+    "firstName": "ЕРЁМИНА ЕКАТЕРИНА КОНСТАНТИНОВНА",
+    "lastName": "Клиент",
+    "email": "ninaport@mail.ru",
+    "status": "active",
+    "admin": false,
+    "password": "ninaport@mail.ru",
+    "language": "ru"
+  },
+  {
+    "login": "opt2@etobe.ru",
+    "firstName": "РЕКОРД",
+    "lastName": "Клиент",
+    "email": "opt2@etobe.ru",
+    "status": "active",
+    "admin": false,
+    "password": "opt2@etobe.ru",
+    "language": "ru"
+  },
+  {
+    "login": "nikira@live.ru",
+    "firstName": "АНОЩЕНКОВА ИРИНА АЛЕКСАНДРОВНА",
+    "lastName": "Клиент",
+    "email": "nikira@live.ru",
+    "status": "active",
+    "admin": false,
+    "password": "nikira@live.ru",
+    "language": "ru"
+  },
+  {
+    "login": "3lkn1cct@example.com",
+    "firstName": "АГЕНТСТВО ЛИЗА",
+    "lastName": "Клиент",
+    "email": "3lkn1cct@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "3lkn1cct@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "ozmananaram304@incloud.com",
+    "firstName": "ОВТАШАТ",
+    "lastName": "Клиент",
+    "email": "ozmananaram304@incloud.com",
+    "status": "active",
+    "admin": false,
+    "password": "ozmananaram304@incloud.com",
+    "language": "ru"
+  },
+  {
+    "login": "t.msk8@yandex.ru",
+    "firstName": "РЕДМОНД-РУС",
+    "lastName": "Клиент",
+    "email": "t.msk8@yandex.ru",
+    "status": "active",
+    "admin": false,
+    "password": "t.msk8@yandex.ru",
+    "language": "ru"
+  },
+  {
+    "login": "pxn30xbj@example.com",
+    "firstName": "ТАТЬЯНА (ИЗАБЕЛЛА)",
+    "lastName": "Клиент",
+    "email": "pxn30xbj@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "pxn30xbj@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "swanlux@mail.ru",
+    "firstName": "ТЕРЕЗА",
+    "lastName": "Клиент",
+    "email": "swanlux@mail.ru",
+    "status": "active",
+    "admin": false,
+    "password": "swanlux@mail.ru",
+    "language": "ru"
+  },
+  {
+    "login": "dw42umi9@example.com",
+    "firstName": "СОЛО 1",
+    "lastName": "Клиент",
+    "email": "dw42umi9@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "dw42umi9@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "dx46tu3y@example.com",
+    "firstName": "СЕРВАНТ-МКМ",
+    "lastName": "Клиент",
+    "email": "dx46tu3y@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "dx46tu3y@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "oga1addo@example.com",
+    "firstName": "ЕКАТЕРИНА ЖУКОВА",
+    "lastName": "Поставщик",
+    "email": "oga1addo@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "oga1addo@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "2se0ih3z@example.com",
+    "firstName": "КАУЛЬ СТАНИСЛАВ ИГОРЕВИЧ",
+    "lastName": "Клиент",
+    "email": "2se0ih3z@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "2se0ih3z@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "l6idgwvh@example.com",
+    "firstName": "КАССА 77",
+    "lastName": "Клиент",
+    "email": "l6idgwvh@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "l6idgwvh@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "mywfbe8j@example.com",
+    "firstName": "АШ-ДВА-О",
+    "lastName": "Поставщик",
+    "email": "mywfbe8j@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "mywfbe8j@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "E.bakhtarova@yogajournal.ru",
+    "firstName": "ЭВ ЭВЕНТС",
+    "lastName": "Клиент",
+    "email": "E.bakhtarova@yogajournal.ru",
+    "status": "active",
+    "admin": false,
+    "password": "E.bakhtarova@yogajournal.ru",
+    "language": "ru"
+  },
+  {
+    "login": "ashuvalov@benitex.ru",
+    "firstName": "АКТИВИЖН МСК",
+    "lastName": "Клиент",
+    "email": "ashuvalov@benitex.ru",
+    "status": "active",
+    "admin": false,
+    "password": "ashuvalov@benitex.ru",
+    "language": "ru"
+  },
+  {
+    "login": "i0ln4sdk@example.com",
+    "firstName": "МАСТЕРКОНСАЛТ",
+    "lastName": "Поставщик",
+    "email": "i0ln4sdk@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "i0ln4sdk@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "28r55aex@example.com",
+    "firstName": "БИО-РУС",
+    "lastName": "Клиент",
+    "email": "28r55aex@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "28r55aex@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "info@arni-sb.ru",
+    "firstName": "ДЕЛК",
+    "lastName": "Клиент",
+    "email": "info@arni-sb.ru",
+    "status": "active",
+    "admin": false,
+    "password": "info@arni-sb.ru",
+    "language": "ru"
+  },
+  {
+    "login": "480mtg1q@example.com",
+    "firstName": "РЕГАРД МСК",
+    "lastName": "Поставщик",
+    "email": "480mtg1q@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "480mtg1q@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "phk4qg0p@example.com",
+    "firstName": "ТИТОВ ЮРИЙ БОГДАНОВИЧ",
+    "lastName": "Поставщик",
+    "email": "phk4qg0p@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "phk4qg0p@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "tyc6gfmh@example.com",
+    "firstName": "ДЕПАРТАМЕНТ РАЗВИТИЯ НОВЫХ ТЕРРИТОРИЙ ГОРОДА МОСКВЫ",
+    "lastName": "Клиент",
+    "email": "tyc6gfmh@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "tyc6gfmh@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "buh@bumolimp.ru",
+    "firstName": "БУМАЖНЫЙ ОЛИМП",
+    "lastName": "Клиент",
+    "email": "buh@bumolimp.ru",
+    "status": "active",
+    "admin": false,
+    "password": "buh@bumolimp.ru",
+    "language": "ru"
+  },
+  {
+    "login": "q82p3s43@example.com",
+    "firstName": "КОРИНТЕК",
+    "lastName": "Поставщик",
+    "email": "q82p3s43@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "q82p3s43@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "wipqp8dm@example.com",
+    "firstName": "ЛИНИЯ КАЧЕСТВА",
+    "lastName": "Поставщик",
+    "email": "wipqp8dm@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "wipqp8dm@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "icbdufwh@example.com",
+    "firstName": "БАРАБАНОВА ЕЛЕНА ДМИТРИЕВНА",
+    "lastName": "Поставщик",
+    "email": "icbdufwh@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "icbdufwh@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "Partsfmc@gmail.com",
+    "firstName": "ВАЙС-СЕРВИС",
+    "lastName": "Клиент",
+    "email": "Partsfmc@gmail.com",
+    "status": "active",
+    "admin": false,
+    "password": "Partsfmc@gmail.com",
+    "language": "ru"
+  },
+  {
+    "login": "ygty1kyb@example.com",
+    "firstName": "ДИЭЛЕКТРИК ПЛЮС",
+    "lastName": "Поставщик",
+    "email": "ygty1kyb@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "ygty1kyb@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "pke0z57i@example.com",
+    "firstName": "КИНГ-СЕРВИС",
+    "lastName": "Поставщик",
+    "email": "pke0z57i@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "pke0z57i@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "lnqv0wkh@example.com",
+    "firstName": "ИНТЕРНЕТ РЕШЕНИЯ",
+    "lastName": "Клиент",
+    "email": "lnqv0wkh@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "lnqv0wkh@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "qdf95fzo@example.com",
+    "firstName": "ДИАРМ ХОЛДИНГ",
+    "lastName": "Клиент",
+    "email": "qdf95fzo@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "qdf95fzo@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "ijzqtob7@example.com",
+    "firstName": "ИНТЭРА",
+    "lastName": "Клиент",
+    "email": "ijzqtob7@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "ijzqtob7@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "v.orlov@eurolibra.ru",
+    "firstName": "ЕВРОЛИБРА",
+    "lastName": "Клиент",
+    "email": "v.orlov@eurolibra.ru",
+    "status": "active",
+    "admin": false,
+    "password": "v.orlov@eurolibra.ru",
+    "language": "ru"
+  },
+  {
+    "login": "3l546umt@example.com",
+    "firstName": "МИХАЙЛОВА ГАЛИНА ЮРЬЕВНА (удалить)",
+    "lastName": "Клиент",
+    "email": "3l546umt@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "3l546umt@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "8w1h7cuv@example.com",
+    "firstName": "МАКАРОВ В.Ю.",
+    "lastName": "Поставщик",
+    "email": "8w1h7cuv@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "8w1h7cuv@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "pnw13uq1@example.com",
+    "firstName": "ДЫМАРЬ О. В.",
+    "lastName": "Клиент",
+    "email": "pnw13uq1@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "pnw13uq1@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "olga@trt-parts.ru",
+    "firstName": "ТРТ",
+    "lastName": "Клиент",
+    "email": "olga@trt-parts.ru",
+    "status": "active",
+    "admin": false,
+    "password": "olga@trt-parts.ru",
+    "language": "ru"
+  },
+  {
+    "login": "bf55dsdf@example.com",
+    "firstName": "СШИКОМ",
+    "lastName": "Клиент",
+    "email": "bf55dsdf@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "bf55dsdf@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "bubof0lv@example.com",
+    "firstName": "МТС",
+    "lastName": "Поставщик",
+    "email": "bubof0lv@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "bubof0lv@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "v8wqzbsv@example.com",
+    "firstName": "ПАЛТУСОВ АЛЕКСЕЙ НИКОЛАЕВИЧ",
+    "lastName": "Поставщик",
+    "email": "v8wqzbsv@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "v8wqzbsv@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "fvv01jwq@example.com",
+    "firstName": "ХАУЗСТРОЙ",
+    "lastName": "Поставщик",
+    "email": "fvv01jwq@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "fvv01jwq@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "8g4u84zw@example.com",
+    "firstName": "ОРИОН",
+    "lastName": "Клиент",
+    "email": "8g4u84zw@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "8g4u84zw@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "zoq6p2lm@example.com",
+    "firstName": "ВАСИЛЕВСКИЙ ДМИТРИЙ ВАЛЕРЬЕВИЧ",
+    "lastName": "Клиент",
+    "email": "zoq6p2lm@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "zoq6p2lm@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "px6exzq7@example.com",
+    "firstName": "ВИД ГРУПП",
+    "lastName": "Клиент",
+    "email": "px6exzq7@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "px6exzq7@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "y7h0d41k@example.com",
+    "firstName": "АЛЬЧИБА",
+    "lastName": "Клиент",
+    "email": "y7h0d41k@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "y7h0d41k@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "ceoq852r@example.com",
+    "firstName": "БИТВЕБ",
+    "lastName": "Поставщик",
+    "email": "ceoq852r@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "ceoq852r@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "vae@richcomp.ru",
+    "firstName": "КУПРУМ",
+    "lastName": "Клиент",
+    "email": "vae@richcomp.ru",
+    "status": "active",
+    "admin": false,
+    "password": "vae@richcomp.ru",
+    "language": "ru"
+  },
+  {
+    "login": "gaman@innoter.com",
+    "firstName": "ГЕО ИННОТЕР",
+    "lastName": "Клиент",
+    "email": "gaman@innoter.com",
+    "status": "active",
+    "admin": false,
+    "password": "gaman@innoter.com",
+    "language": "ru"
+  },
+  {
+    "login": "y1ikagik@example.com",
+    "firstName": "АФГАН-СЕРВИС",
+    "lastName": "Клиент",
+    "email": "y1ikagik@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "y1ikagik@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "wmkpundl@example.com",
+    "firstName": "АБАТ",
+    "lastName": "Клиент",
+    "email": "wmkpundl@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "wmkpundl@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "wt6j6on2@example.com",
+    "firstName": "ДИСМЕДИКА",
+    "lastName": "Клиент",
+    "email": "wt6j6on2@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "wt6j6on2@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "0xcmp2gt@example.com",
+    "firstName": "РАЗЕНКОВ СЕРГЕЙ ВИКТОРОВИЧ",
+    "lastName": "Поставщик",
+    "email": "0xcmp2gt@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "0xcmp2gt@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "1tussfwv@example.com",
+    "firstName": "1ГБ.РУ З",
+    "lastName": "Клиент",
+    "email": "1tussfwv@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "1tussfwv@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "u2c47t61@example.com",
+    "firstName": "ВОЗРОЖДЕНИЕ",
+    "lastName": "Клиент",
+    "email": "u2c47t61@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "u2c47t61@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "wjcsagrr@example.com",
+    "firstName": "РЫБАКОВА ИРИНА АЛЕКСАНДРОВНА",
+    "lastName": "Поставщик",
+    "email": "wjcsagrr@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "wjcsagrr@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "2u8yxrsx@example.com",
+    "firstName": "ФИРМА АРИДА",
+    "lastName": "Поставщик",
+    "email": "2u8yxrsx@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "2u8yxrsx@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "romanx63@mail.ru",
+    "firstName": "ЛОГИНОВ РОМАН СЕРГЕЕВИЧ",
+    "lastName": "Поставщик",
+    "email": "romanx63@mail.ru",
+    "status": "active",
+    "admin": false,
+    "password": "romanx63@mail.ru",
+    "language": "ru"
+  },
+  {
+    "login": "bqir3om6@example.com",
+    "firstName": "БИЗНЕС ОТВЕТ",
+    "lastName": "Клиент",
+    "email": "bqir3om6@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "bqir3om6@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "fe5gqu1c@example.com",
+    "firstName": "ТРИДЕВЯТОЕ ЦАРСТВО",
+    "lastName": "Поставщик",
+    "email": "fe5gqu1c@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "fe5gqu1c@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "qxlqdi4r@example.com",
+    "firstName": "ПОСКРЕБЫШЕВ ЕВГЕНИЙ ВАЛЕРИЕВИЧ",
+    "lastName": "Поставщик",
+    "email": "qxlqdi4r@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "qxlqdi4r@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "b117rf3x@example.com",
+    "firstName": "ДАШКИЕВ ЮРИЙ ВИКТОРОВИЧ",
+    "lastName": "Клиент",
+    "email": "b117rf3x@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "b117rf3x@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "zs0biciw@example.com",
+    "firstName": "АЛЛМАК",
+    "lastName": "Клиент",
+    "email": "zs0biciw@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "zs0biciw@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "99nz3fn6@example.com",
+    "firstName": "ТЕН ОКСАНА ГЕОРГИЕВНА",
+    "lastName": "Клиент",
+    "email": "99nz3fn6@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "99nz3fn6@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "h3fdlael@example.com",
+    "firstName": "ПРЕСТИЖ ЭТИКЕТКИ",
+    "lastName": "Клиент",
+    "email": "h3fdlael@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "h3fdlael@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "vjcra4q6@example.com",
+    "firstName": "АНАНЬЕВ ПАВЕЛ ВИКТОРОВИЧ",
+    "lastName": "Клиент",
+    "email": "vjcra4q6@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "vjcra4q6@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "91et59gc@example.com",
+    "firstName": "БТ ТОРГОВЫЕ РЕШЕНИЯ",
+    "lastName": "Поставщик",
+    "email": "91et59gc@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "91et59gc@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "i84nbrd6@example.com",
+    "firstName": "СМЕТАНОВ ДМИТРИЙ АЛЕКСЕЕВИЧ",
+    "lastName": "Поставщик",
+    "email": "i84nbrd6@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "i84nbrd6@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "2pkxm6pu@example.com",
+    "firstName": "ЭКОЛОГИЯ-ПЛЮС",
+    "lastName": "Поставщик",
+    "email": "2pkxm6pu@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "2pkxm6pu@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "bvg8egx6@example.com",
+    "firstName": "ИЗВЕКОВ МАКСИМ СЕРГЕЕВИЧ",
+    "lastName": "Поставщик",
+    "email": "bvg8egx6@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "bvg8egx6@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "l1l9ff0n@example.com",
+    "firstName": "ДЕЛОВЫЕ ЛИНИИ",
+    "lastName": "Клиент",
+    "email": "l1l9ff0n@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "l1l9ff0n@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "26gxmzep@example.com",
+    "firstName": "ЭКОЛОГИЯ XXI-ВЕК",
+    "lastName": "Поставщик",
+    "email": "26gxmzep@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "26gxmzep@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "1082itdl@example.com",
+    "firstName": "МОНАСТЫРСКАЯ КРИСТИНА ЕВГЕНЬЕВНА",
+    "lastName": "Клиент",
+    "email": "1082itdl@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "1082itdl@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "xh2dpt78@example.com",
+    "firstName": "ЕАПТЕКА",
+    "lastName": "Клиент",
+    "email": "xh2dpt78@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "xh2dpt78@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "fwatg0i0@example.com",
+    "firstName": "МОНЕТА",
+    "lastName": "Клиент",
+    "email": "fwatg0i0@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "fwatg0i0@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "z0lhsums@example.com",
+    "firstName": "ДЖАСТКОМ",
+    "lastName": "Клиент",
+    "email": "z0lhsums@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "z0lhsums@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "wpyibinf@example.com",
+    "firstName": "ГК КАРС",
+    "lastName": "Поставщик",
+    "email": "wpyibinf@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "wpyibinf@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "icx8j5zc@example.com",
+    "firstName": "МАСТЕР",
+    "lastName": "Клиент",
+    "email": "icx8j5zc@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "icx8j5zc@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "imqot2jq@example.com",
+    "firstName": "НАШ СОЛНЕЧНЫЙ МИР АНО",
+    "lastName": "Клиент",
+    "email": "imqot2jq@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "imqot2jq@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "sbyu6nhk@example.com",
+    "firstName": "ПОЛИПЛАСТ",
+    "lastName": "Клиент",
+    "email": "sbyu6nhk@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "sbyu6nhk@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "37znamnd@example.com",
+    "firstName": "ТД БНТ",
+    "lastName": "Клиент",
+    "email": "37znamnd@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "37znamnd@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "smtbuh2016@yandex.ru",
+    "firstName": "ЛТТ-ЦЕНТР",
+    "lastName": "Клиент",
+    "email": "smtbuh2016@yandex.ru",
+    "status": "active",
+    "admin": false,
+    "password": "smtbuh2016@yandex.ru",
+    "language": "ru"
+  },
+  {
+    "login": "ub9chxsu@example.com",
+    "firstName": "ГРАНТ",
+    "lastName": "Клиент",
+    "email": "ub9chxsu@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "ub9chxsu@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "hue0cxxl@example.com",
+    "firstName": "СИНЕРДЖИ ТИАМ",
+    "lastName": "Клиент",
+    "email": "hue0cxxl@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "hue0cxxl@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "z672ufyh@example.com",
+    "firstName": "ФАРМ-РЕГИОН",
+    "lastName": "Клиент",
+    "email": "z672ufyh@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "z672ufyh@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "ij7wwnkd@example.com",
+    "firstName": "ПРИЗМА",
+    "lastName": "Клиент",
+    "email": "ij7wwnkd@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "ij7wwnkd@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "g8eve461@example.com",
+    "firstName": "ИНФОРМАЦИОННО-ИЗМЕРИТЕЛЬНЫЕ ССТЕМЫ",
+    "lastName": "Клиент",
+    "email": "g8eve461@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "g8eve461@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "rgtelcuq@example.com",
+    "firstName": "ТРЕЙДКОМ",
+    "lastName": "Поставщик",
+    "email": "rgtelcuq@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "rgtelcuq@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "5y4dpswz@example.com",
+    "firstName": "СОКОЛОВА НАТАЛИЯ ВЯЧЕСЛАВОВНА",
+    "lastName": "Поставщик",
+    "email": "5y4dpswz@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "5y4dpswz@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "qyy46km1@example.com",
+    "firstName": "МАРКЕТ",
+    "lastName": "Поставщик",
+    "email": "qyy46km1@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "qyy46km1@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "r8ck15v8@example.com",
+    "firstName": "АВТОДОР",
+    "lastName": "Клиент",
+    "email": "r8ck15v8@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "r8ck15v8@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "qkdu6ngi@example.com",
+    "firstName": "ГАРАНТИЯ-МСК",
+    "lastName": "Поставщик",
+    "email": "qkdu6ngi@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "qkdu6ngi@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "zakmhumu@example.com",
+    "firstName": "ОВЕРДХАРД",
+    "lastName": "Поставщик",
+    "email": "zakmhumu@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "zakmhumu@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "svvb40rw@example.com",
+    "firstName": "ДВМ",
+    "lastName": "Клиент",
+    "email": "svvb40rw@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "svvb40rw@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "6fdrcrmd@example.com",
+    "firstName": "ИНЖСТРОЙИЗОЛЯЦИЯ",
+    "lastName": "Клиент",
+    "email": "6fdrcrmd@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "6fdrcrmd@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "f7kdxahz@example.com",
+    "firstName": "Ю ФИЛ ГУД",
+    "lastName": "Поставщик",
+    "email": "f7kdxahz@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "f7kdxahz@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "adrg1g0r@example.com",
+    "firstName": "МИТИНСКИЙ ОАЗИС-24 ТСЖ",
+    "lastName": "Клиент",
+    "email": "adrg1g0r@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "adrg1g0r@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "4i8y3za0@example.com",
+    "firstName": "МИТИНСКИЙ ОАЗИС-15 ТСЖ",
+    "lastName": "Клиент",
+    "email": "4i8y3za0@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "4i8y3za0@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "qs4hsscg@example.com",
+    "firstName": "МИТИНСКИЙ ОАЗИС-14 ТСЖ",
+    "lastName": "Клиент",
+    "email": "qs4hsscg@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "qs4hsscg@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "pn5f7cv0@example.com",
+    "firstName": "МИТИНСКИЙ ОАЗИС-13 ТСЖ",
+    "lastName": "Клиент",
+    "email": "pn5f7cv0@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "pn5f7cv0@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "fv0jtr3e@example.com",
+    "firstName": "МИТИНСКИЙ ОАЗИС-12 ТСЖ",
+    "lastName": "Клиент",
+    "email": "fv0jtr3e@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "fv0jtr3e@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "yb5zz781@example.com",
+    "firstName": "МИТИНСКИЙ ОАЗИС-11 ТСЖ",
+    "lastName": "Клиент",
+    "email": "yb5zz781@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "yb5zz781@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "pzf5760f@example.com",
+    "firstName": "МИТИНСКИЙ ОАЗИС-10 ТСЖ",
+    "lastName": "Клиент",
+    "email": "pzf5760f@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "pzf5760f@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "w0fp8uxa@example.com",
+    "firstName": "МИТИНСКИЙ ОАЗИС-7 ТСЖ",
+    "lastName": "Клиент",
+    "email": "w0fp8uxa@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "w0fp8uxa@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "edkh3wgr@example.com",
+    "firstName": "МИТИНСКИЙ ОАЗИС-6 ТСЖ",
+    "lastName": "Клиент",
+    "email": "edkh3wgr@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "edkh3wgr@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "iwq72t3v@example.com",
+    "firstName": "МИТИНСКИЙ ОАЗИС-3 ТСЖ",
+    "lastName": "Клиент",
+    "email": "iwq72t3v@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "iwq72t3v@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "a52g4t3m@example.com",
+    "firstName": "МИТИНСКИЙ ОАЗИС-2 ТСЖ",
+    "lastName": "Клиент",
+    "email": "a52g4t3m@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "a52g4t3m@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "g5o6smnp@example.com",
+    "firstName": "МИТИНСКИЙ ОАЗИС-1 ТСЖ",
+    "lastName": "Клиент",
+    "email": "g5o6smnp@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "g5o6smnp@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "e7dgrwwl@example.com",
+    "firstName": "СТРОЙ МАСТЕР",
+    "lastName": "Поставщик",
+    "email": "e7dgrwwl@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "e7dgrwwl@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "xr77sicx@example.com",
+    "firstName": "ОЧУ ВО ММА",
+    "lastName": "Поставщик",
+    "email": "xr77sicx@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "xr77sicx@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "v8xj7npn@example.com",
+    "firstName": "ПРОМЛЕГИОН",
+    "lastName": "Клиент",
+    "email": "v8xj7npn@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "v8xj7npn@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "yowdjq1c@example.com",
+    "firstName": "ЮЛМАРТ РСК",
+    "lastName": "Поставщик",
+    "email": "yowdjq1c@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "yowdjq1c@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "zccpxpcl@example.com",
+    "firstName": "ВМ ВОСТОК",
+    "lastName": "Клиент",
+    "email": "zccpxpcl@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "zccpxpcl@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "8xhf58oo@example.com",
+    "firstName": "РЕКЛАМНАЯ ИМПЕРИЯ",
+    "lastName": "Клиент",
+    "email": "8xhf58oo@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "8xhf58oo@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "k6rgssg3@example.com",
+    "firstName": "ГУТЕНКО СЕРГЕЙ ПАВЛОВИЧ",
+    "lastName": "Клиент",
+    "email": "k6rgssg3@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "k6rgssg3@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "hb01yypv@example.com",
+    "firstName": "ЛП",
+    "lastName": "Клиент",
+    "email": "hb01yypv@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "hb01yypv@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "nkfnv2hc@example.com",
+    "firstName": "ГИМБАТ НАБИЕВИЧ",
+    "lastName": "Поставщик",
+    "email": "nkfnv2hc@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "nkfnv2hc@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "ibhtcu1z@example.com",
+    "firstName": "А КОФЕ",
+    "lastName": "Поставщик",
+    "email": "ibhtcu1z@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "ibhtcu1z@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "mzt2v8jn@example.com",
+    "firstName": "ДФР",
+    "lastName": "Клиент",
+    "email": "mzt2v8jn@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "mzt2v8jn@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "s5fgf92q@example.com",
+    "firstName": "КОЧЕТОВ АЛЕКСЕЙ",
+    "lastName": "Клиент",
+    "email": "s5fgf92q@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "s5fgf92q@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "xepgpz7j@example.com",
+    "firstName": "ШИЛОВА ЕКАТЕРИНА ЮРЬЕВНА",
+    "lastName": "Поставщик",
+    "email": "xepgpz7j@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "xepgpz7j@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "gvufjpjf@example.com",
+    "firstName": "МОС-ГРАНД",
+    "lastName": "Поставщик",
+    "email": "gvufjpjf@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "gvufjpjf@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "b7gwb2oh@example.com",
+    "firstName": "ДУНАЕВА ЕКАТЕРИНА",
+    "lastName": "Поставщик",
+    "email": "b7gwb2oh@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "b7gwb2oh@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "buh@aticka.ru",
+    "firstName": "ЭЙ БИ ЭС",
+    "lastName": "Клиент",
+    "email": "buh@aticka.ru",
+    "status": "active",
+    "admin": false,
+    "password": "buh@aticka.ru",
+    "language": "ru"
+  },
+  {
+    "login": "hr03a6so@example.com",
+    "firstName": "АККОРД (7 БУКВ)",
+    "lastName": "Клиент",
+    "email": "hr03a6so@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "hr03a6so@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "8o4rre0p@example.com",
+    "firstName": "ОБУХОВА КРИСТИНА ГЕРМАНОВНА",
+    "lastName": "Поставщик",
+    "email": "8o4rre0p@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "8o4rre0p@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "t0jzp8vz@example.com",
+    "firstName": "ПРЕСТИЖ",
+    "lastName": "Клиент",
+    "email": "t0jzp8vz@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "t0jzp8vz@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "semenovass@guorbron.ru",
+    "firstName": "ФГБУ ПОО ГУОР Г.БРОННИЦЫ МО",
+    "lastName": "Клиент",
+    "email": "semenovass@guorbron.ru",
+    "status": "active",
+    "admin": false,
+    "password": "semenovass@guorbron.ru",
+    "language": "ru"
+  },
+  {
+    "login": "tkfjyvo2@example.com",
+    "firstName": "ПРОМКОМПЛЕКТ",
+    "lastName": "Поставщик",
+    "email": "tkfjyvo2@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "tkfjyvo2@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "i0ofcy6u@example.com",
+    "firstName": "ХОЛОД",
+    "lastName": "Клиент",
+    "email": "i0ofcy6u@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "i0ofcy6u@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "ch_tm58@mail.ru",
+    "firstName": "МУ ЛЮБЕРЕЦКИЙ МФЦ",
+    "lastName": "Клиент",
+    "email": "ch_tm58@mail.ru",
+    "status": "active",
+    "admin": false,
+    "password": "ch_tm58@mail.ru",
+    "language": "ru"
+  },
+  {
+    "login": "42qmnky6@example.com",
+    "firstName": "АЛЛОКА МЕДИА",
+    "lastName": "Поставщик",
+    "email": "42qmnky6@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "42qmnky6@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "1iryid7p@example.com",
+    "firstName": "МСК-СЕРВИС",
+    "lastName": "Клиент",
+    "email": "1iryid7p@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "1iryid7p@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "cpsk6e0b@example.com",
+    "firstName": "ТОРГСИН",
+    "lastName": "Клиент",
+    "email": "cpsk6e0b@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "cpsk6e0b@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "l9e9eo1v@example.com",
+    "firstName": "МОСТОРГ",
+    "lastName": "Поставщик",
+    "email": "l9e9eo1v@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "l9e9eo1v@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "ilauz559@example.com",
+    "firstName": "ИНТЕРНЕТТЕХНОЛОГИИ",
+    "lastName": "Поставщик",
+    "email": "ilauz559@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "ilauz559@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "ve16wq6e@example.com",
+    "firstName": "ЭЛИТ-ГРУПП",
+    "lastName": "Клиент",
+    "email": "ve16wq6e@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "ve16wq6e@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "qqgxe95d@example.com",
+    "firstName": "ФРИЛАНСКОМЬЮНИТИ",
+    "lastName": "Поставщик",
+    "email": "qqgxe95d@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "qqgxe95d@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "buh@rt-control.ru",
+    "firstName": "РУСТАХОКОНТРОЛЬ",
+    "lastName": "Клиент",
+    "email": "buh@rt-control.ru",
+    "status": "active",
+    "admin": false,
+    "password": "buh@rt-control.ru",
+    "language": "ru"
+  },
+  {
+    "login": "emwcqnri@example.com",
+    "firstName": "АНДРЕЙ",
+    "lastName": "Клиент",
+    "email": "emwcqnri@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "emwcqnri@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "ex3m5fuq@example.com",
+    "firstName": "ДОМКРАТ",
+    "lastName": "Клиент",
+    "email": "ex3m5fuq@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "ex3m5fuq@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "bk2czk7e@example.com",
+    "firstName": "ИНЕТ-ТРЕЙД",
+    "lastName": "Поставщик",
+    "email": "bk2czk7e@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "bk2czk7e@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "d8o61g8m@example.com",
+    "firstName": "САРМАТ ТЕЛЕКОМ",
+    "lastName": "Поставщик",
+    "email": "d8o61g8m@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "d8o61g8m@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "p8th854m@example.com",
+    "firstName": "МИХНЮКЕВИЧ ПЕТР ВЯЧЕСЛАВОВИЧ",
+    "lastName": "Поставщик",
+    "email": "p8th854m@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "p8th854m@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "wv6k7wgl@example.com",
+    "firstName": "СПАЙВОРДС",
+    "lastName": "Поставщик",
+    "email": "wv6k7wgl@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "wv6k7wgl@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "vpkkeswq@example.com",
+    "firstName": "ВИТАИНФОРМ",
+    "lastName": "Клиент",
+    "email": "vpkkeswq@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "vpkkeswq@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "0lkiux71@example.com",
+    "firstName": "ШЕМЕТ АЛИНА ЮРЬЕВНА",
+    "lastName": "Поставщик",
+    "email": "0lkiux71@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "0lkiux71@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "ni356o2l@example.com",
+    "firstName": "ПОПОВ МИХАИЛ АНАТОЛЬЕВИЧ",
+    "lastName": "Клиент",
+    "email": "ni356o2l@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "ni356o2l@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "hw37yv5z@example.com",
+    "firstName": "ОСНОВЫ ПРЕДПРИНИМАТЕЛЬСТВА",
+    "lastName": "Поставщик",
+    "email": "hw37yv5z@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "hw37yv5z@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "d9eits49@example.com",
+    "firstName": "АКСИС",
+    "lastName": "Клиент",
+    "email": "d9eits49@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "d9eits49@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "lagf2s6q@example.com",
+    "firstName": "АРКТИУМ",
+    "lastName": "Клиент",
+    "email": "lagf2s6q@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "lagf2s6q@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "2gs1eu4q@example.com",
+    "firstName": "МОЦАРТ",
+    "lastName": "Клиент",
+    "email": "2gs1eu4q@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "2gs1eu4q@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "snj5r4vi@example.com",
+    "firstName": "КОМПИК ТД",
+    "lastName": "Поставщик",
+    "email": "snj5r4vi@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "snj5r4vi@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "9mjob8qt@example.com",
+    "firstName": "2 КЕНГУРУ",
+    "lastName": "Клиент",
+    "email": "9mjob8qt@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "9mjob8qt@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "kvdk3hk8@example.com",
+    "firstName": "ГУРЕЕВА ИРИНА ВЛАДИМИРОВНА",
+    "lastName": "Поставщик",
+    "email": "kvdk3hk8@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "kvdk3hk8@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "b7vyvwkx@example.com",
+    "firstName": "ГБУК Г. МОСКВЫ МОСКОВСКИЙ ДРАМАТИЧЕСКИЙ ТЕАТР ПОД РУКОВОДСТВОМ АРМЕНА ДЖИГАРХАНЯНА",
+    "lastName": "Клиент",
+    "email": "b7vyvwkx@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "b7vyvwkx@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "ujbr6grk@example.com",
+    "firstName": "КНИГАСД",
+    "lastName": "Клиент",
+    "email": "ujbr6grk@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "ujbr6grk@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "oy3ifsij@example.com",
+    "firstName": "ИТС",
+    "lastName": "Клиент",
+    "email": "oy3ifsij@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "oy3ifsij@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "y14bu5ng@example.com",
+    "firstName": "В КОНТАКТЕ",
+    "lastName": "Поставщик",
+    "email": "y14bu5ng@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "y14bu5ng@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "v1b4cdu8@example.com",
+    "firstName": "ЭЛИТ-ХОЛДИНГ",
+    "lastName": "Поставщик",
+    "email": "v1b4cdu8@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "v1b4cdu8@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "4km32lvu@example.com",
+    "firstName": "СТРОЙТЕСТ",
+    "lastName": "Поставщик",
+    "email": "4km32lvu@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "4km32lvu@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "2bwrjry4@example.com",
+    "firstName": "РИКОР",
+    "lastName": "Клиент",
+    "email": "2bwrjry4@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "2bwrjry4@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "1bffkzdx@example.com",
+    "firstName": "КО ЭНД ФЕ",
+    "lastName": "Клиент",
+    "email": "1bffkzdx@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "1bffkzdx@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "5k9j859w@example.com",
+    "firstName": "М-ВИДЕО",
+    "lastName": "Поставщик",
+    "email": "5k9j859w@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "5k9j859w@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "efi75nqz@example.com",
+    "firstName": "ПРОГРЕСС",
+    "lastName": "Поставщик",
+    "email": "efi75nqz@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "efi75nqz@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "gf8ggugq@example.com",
+    "firstName": "ПЕТРОВ ДМИТРИЙ СЕРГЕЕВИЧ",
+    "lastName": "Поставщик",
+    "email": "gf8ggugq@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "gf8ggugq@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "gbfxvq5z@example.com",
+    "firstName": "ЕДИНАЯ ЕВРОПА-С.Б.",
+    "lastName": "Клиент",
+    "email": "gbfxvq5z@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "gbfxvq5z@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "hipy146i@example.com",
+    "firstName": "КРОНАР",
+    "lastName": "Поставщик",
+    "email": "hipy146i@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "hipy146i@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "og82saz9@example.com",
+    "firstName": "ЛИДПРОМО",
+    "lastName": "Поставщик",
+    "email": "og82saz9@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "og82saz9@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "gnyc8dwg@example.com",
+    "firstName": "ЗЕРКАЛЬНОЕ НЕБО",
+    "lastName": "Клиент",
+    "email": "gnyc8dwg@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "gnyc8dwg@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "11fm8qqh@example.com",
+    "firstName": "ДЕПАРТАМЕНТ ФИНАНСОВ ГОРОДА МОСКВЫ (ГКУ ИС ГАГАРИНСКОГО РАЙОНА )",
+    "lastName": "Клиент",
+    "email": "11fm8qqh@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "11fm8qqh@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "l0ao6rlo@example.com",
+    "firstName": "ГБУ ТЦСО АЛЕКСЕЕВСКИЙ",
+    "lastName": "Клиент",
+    "email": "l0ao6rlo@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "l0ao6rlo@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "0q8z2tbr@example.com",
+    "firstName": "АЛЬФА-АРТ",
+    "lastName": "Клиент",
+    "email": "0q8z2tbr@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "0q8z2tbr@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "bsc3ig5e@example.com",
+    "firstName": "АВАНТЕЛ",
+    "lastName": "Поставщик",
+    "email": "bsc3ig5e@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "bsc3ig5e@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "b0g3zqdi@example.com",
+    "firstName": "ОЛЕЙНИК НИКОЛАЙ АЛЕКСАНДРОВИЧ",
+    "lastName": "Поставщик",
+    "email": "b0g3zqdi@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "b0g3zqdi@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "rs6yy3zv@example.com",
+    "firstName": "ФУЕЛ-ГРУПП",
+    "lastName": "Поставщик",
+    "email": "rs6yy3zv@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "rs6yy3zv@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "sli409pj@example.com",
+    "firstName": "ДЕПАРТАМЕНТ ФИНАНСОВ ГОРОДА МОСКВЫ",
+    "lastName": "Клиент",
+    "email": "sli409pj@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "sli409pj@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "07u8igsn@example.com",
+    "firstName": "ТЕХНО ЭК",
+    "lastName": "Поставщик",
+    "email": "07u8igsn@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "07u8igsn@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "bzvhx1tu@example.com",
+    "firstName": "ПРАЙВАТ ЭККАУНТИНГ",
+    "lastName": "Клиент",
+    "email": "bzvhx1tu@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "bzvhx1tu@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "1hq37pdk@example.com",
+    "firstName": "СКАРТЕЛ",
+    "lastName": "Поставщик",
+    "email": "1hq37pdk@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "1hq37pdk@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "vaezs17v@example.com",
+    "firstName": "МГУПС",
+    "lastName": "Клиент",
+    "email": "vaezs17v@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "vaezs17v@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "6hll9f3y@example.com",
+    "firstName": "КОМПЬЮТЕРНЫЕ ПРОГРАММЫ",
+    "lastName": "Клиент",
+    "email": "6hll9f3y@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "6hll9f3y@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "7he8zarl@example.com",
+    "firstName": "Вячеслав",
+    "lastName": "Клиент",
+    "email": "7he8zarl@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "7he8zarl@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "jrj73jk7@example.com",
+    "firstName": "АЛЕКСЕЙ (ТОРГИ)",
+    "lastName": "Поставщик",
+    "email": "jrj73jk7@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "jrj73jk7@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "3csze3dx@example.com",
+    "firstName": "АСТЕРЮНИТ",
+    "lastName": "Клиент",
+    "email": "3csze3dx@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "3csze3dx@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "odhkvhe5@example.com",
+    "firstName": "СБЕРБАНК-АСТ",
+    "lastName": "Поставщик",
+    "email": "odhkvhe5@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "odhkvhe5@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "82997hqs@example.com",
+    "firstName": "НОУТБУМ",
+    "lastName": "Поставщик",
+    "email": "82997hqs@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "82997hqs@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "8gdwumu2@example.com",
+    "firstName": "ЭНТУЗИАСТ-С",
+    "lastName": "Поставщик",
+    "email": "8gdwumu2@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "8gdwumu2@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "flq7yc6r@example.com",
+    "firstName": "ТЕМП",
+    "lastName": "Поставщик",
+    "email": "flq7yc6r@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "flq7yc6r@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "ihwegqh0@example.com",
+    "firstName": "КУЗНЕЦОВ НИКОЛАЙ ВАСИЛЬЕВИЧ",
+    "lastName": "Поставщик",
+    "email": "ihwegqh0@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "ihwegqh0@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "52xk2s7e@example.com",
+    "firstName": "ЭРА-ОРД",
+    "lastName": "Клиент",
+    "email": "52xk2s7e@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "52xk2s7e@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "labaukua@example.com",
+    "firstName": "АКТИВ-СБ ТД",
+    "lastName": "Клиент",
+    "email": "labaukua@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "labaukua@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "jolje7mf@example.com",
+    "firstName": "АППАРАТ СД МО МЕТРОГОРОДОК",
+    "lastName": "Клиент",
+    "email": "jolje7mf@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "jolje7mf@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "5molfm7v@example.com",
+    "firstName": "ТОРГОВАЯ ПЛОЩАДКА",
+    "lastName": "Поставщик",
+    "email": "5molfm7v@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "5molfm7v@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "qypg5o1z@example.com",
+    "firstName": "РЕГАРД",
+    "lastName": "Поставщик",
+    "email": "qypg5o1z@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "qypg5o1z@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "y275gjbz@example.com",
+    "firstName": "ДИРЕКЦИЯ ДО",
+    "lastName": "Клиент",
+    "email": "y275gjbz@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "y275gjbz@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "93oz6cj4@example.com",
+    "firstName": "АВИТО (КЕХ УЛОММЕРЦ)",
+    "lastName": "Поставщик",
+    "email": "93oz6cj4@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "93oz6cj4@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "o3lpgdsd@example.com",
+    "firstName": "ТЕХЗАЩИТА ГО",
+    "lastName": "Поставщик",
+    "email": "o3lpgdsd@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "o3lpgdsd@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "wqk0s6fl@example.com",
+    "firstName": "ЛПГЕНЕРАТОР",
+    "lastName": "Клиент",
+    "email": "wqk0s6fl@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "wqk0s6fl@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "sdzy4beo@example.com",
+    "firstName": "ХИМПАРТНЕРЫ",
+    "lastName": "Клиент",
+    "email": "sdzy4beo@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "sdzy4beo@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "tkf70na8@example.com",
+    "firstName": "AMOUR BRIDAL СКЛАД",
+    "lastName": "Клиент",
+    "email": "tkf70na8@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "tkf70na8@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "56d12raz@example.com",
+    "firstName": "КЛЕОПАТРА",
+    "lastName": "Клиент",
+    "email": "56d12raz@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "56d12raz@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "e8t77p9q@example.com",
+    "firstName": "ШОР",
+    "lastName": "Клиент",
+    "email": "e8t77p9q@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "e8t77p9q@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "2840gwa0@example.com",
+    "firstName": "ЭВРИСТИК",
+    "lastName": "Поставщик",
+    "email": "2840gwa0@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "2840gwa0@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "ynz76bof@example.com",
+    "firstName": "ПРОМСТРОЙАЛЬЯНС",
+    "lastName": "Клиент",
+    "email": "ynz76bof@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "ynz76bof@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "w2xakk2o@example.com",
+    "firstName": "МИРОВАЯ РЫБАЛКА",
+    "lastName": "Клиент",
+    "email": "w2xakk2o@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "w2xakk2o@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "9ucb1gk7@example.com",
+    "firstName": "ТРАСТ",
+    "lastName": "Клиент",
+    "email": "9ucb1gk7@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "9ucb1gk7@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "yepljywi@example.com",
+    "firstName": "Сухряков Иван Вячеславович",
+    "lastName": "Клиент",
+    "email": "yepljywi@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "yepljywi@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "n3rcwxe0@example.com",
+    "firstName": "ЭЛИТЗАКОЛКА",
+    "lastName": "Клиент",
+    "email": "n3rcwxe0@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "n3rcwxe0@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "3faeet5w@example.com",
+    "firstName": "Лариса Мельникова",
+    "lastName": "Поставщик",
+    "email": "3faeet5w@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "3faeet5w@example.com",
+    "language": "ru"
+  },
+  {
+    "login": "piramida-dem@yandex.ru",
+    "firstName": "ФАВОРИТ ТРАНС",
+    "lastName": "Клиент",
+    "email": "piramida-dem@yandex.ru",
+    "status": "active",
+    "admin": false,
+    "password": "piramida-dem@yandex.ru",
+    "language": "ru"
+  },
+  {
+    "login": "qomhjxm1@example.com",
+    "firstName": "МАКСИМ АЛЕКСЕЕВИЧ",
+    "lastName": "Поставщик",
+    "email": "qomhjxm1@example.com",
+    "status": "active",
+    "admin": false,
+    "password": "qomhjxm1@example.com",
+    "language": "ru"
+  }
+]
