@@ -1,0 +1,32 @@
+[
+  {
+    "ID": "22",
+    "XML_ID": "34663048",
+    "ACTIVE": true,
+    "NAME": "\u0420\u043e\u043c\u0430\u043d",
+    "LAST_NAME": "\u041b\u043e\u0433\u0438\u043d\u043e\u0432",
+    "SECOND_NAME": "\u0421\u0435\u0440\u0433\u0435\u0435\u0432\u0438\u0447",
+    "EMAIL": "loginovr@a-link-a.ru",
+    "LAST_LOGIN": "2021-07-04T09:18:07+03:00",
+    "DATE_REGISTER": "2021-03-01T03:00:00+03:00",
+    "TIME_ZONE": "",
+    "IS_ONLINE": "N",
+    "TIME_ZONE_OFFSET": "3600",
+    "TIMESTAMP_X": {},
+    "LAST_ACTIVITY_DATE": {},
+    "PERSONAL_GENDER": "",
+    "PERSONAL_WWW": "",
+    "PERSONAL_BIRTHDAY": "",
+    "PERSONAL_PHOTO": "https://cdn-ru.bitrix24.ru/b16898606/main/a38/a382d0a77a2aa65a052e42745d93fece/Screenshot_3.png",
+    "PERSONAL_MOBILE": "",
+    "PERSONAL_CITY": "",
+    "WORK_PHONE": "",
+    "WORK_POSITION": "\u041a\u043e\u043d\u0441\u0443\u043b\u044c\u0442\u0430\u043d\u0442 \u043f\u043e \u0437\u0430\u0440\u043f\u043b\u0430\u0442\u0435",
+    "UF_EMPLOYMENT_DATE": "",
+    "UF_DEPARTMENT": [
+      534
+    ],
+    "UF_USR_1616085080886": [],
+    "USER_TYPE": "employee"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "ID": "272",
+    "XML_ID": "40498124",
+    "ACTIVE": false,
+    "NAME": "\u0413\u0430\u043b\u0438\u043d\u0430",
+    "LAST_NAME": "\u041c\u0438\u0445\u0430\u0439\u043b\u043e\u0432\u0430",
+    "SECOND_NAME": "",
+    "EMAIL": "",
+    "LAST_LOGIN": "",
+    "DATE_REGISTER": "2022-03-05T03:00:00+03:00",
+    "TIME_ZONE": "",
+    "IS_ONLINE": "N",
+    "TIMESTAMP_X": {},
+    "PERSONAL_GENDER": "",
+    "PERSONAL_WWW": "",
+    "PERSONAL_BIRTHDAY": "",
+    "PERSONAL_MOBILE": "",
+    "PERSONAL_CITY": "",
+    "WORK_PHONE": "",
+    "WORK_POSITION": "\u0413\u043b\u0430\u0432\u043d\u044b\u0439 \u0431\u0443\u0445\u0433\u0430\u043b\u0442\u0435\u0440",
+    "UF_EMPLOYMENT_DATE": "",
+    "UF_DEPARTMENT": [
+      3
+    ],
+    "UF_USR_1616085080886": [],
+    "USER_TYPE": "employee"
+  }
+]

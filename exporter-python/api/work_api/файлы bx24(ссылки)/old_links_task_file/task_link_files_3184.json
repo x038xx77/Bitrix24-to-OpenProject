@@ -1,0 +1,18 @@
+[
+  {
+    "ATTACHMENT_ID": 27574,
+    "NAME": "file-0dd42681-3b9d-4037-88ce-3aae709a83ac.csv",
+    "SIZE": "1726434",
+    "FILE_ID": "60278",
+    "DOWNLOAD_URL": "/bitrix/tools/disk/uf.php?attachedId=27574&auth%5Baplogin%5D=692&auth%5Bap%5D=xf4ouacgiudut942&action=download&ncc=1",
+    "VIEW_URL": "/bitrix/tools/disk/uf.php?attachedId=27574&auth%5Baplogin%5D=692&auth%5Bap%5D=xf4ouacgiudut942&action=show&ncc=1"
+  },
+  {
+    "ATTACHMENT_ID": 27576,
+    "NAME": "\u0418\u043d\u0441\u0442\u0440\u0443\u043a\u0446\u0438\u044f_\u043f\u043e_\u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0435_\u041a\u0418_\u0432_\u0423\u041f\u0414_\u0438\u0437_CSV.pdf",
+    "SIZE": "656398",
+    "FILE_ID": "60280",
+    "DOWNLOAD_URL": "/bitrix/tools/disk/uf.php?attachedId=27576&auth%5Baplogin%5D=692&auth%5Bap%5D=xf4ouacgiudut942&action=download&ncc=1",
+    "VIEW_URL": "/bitrix/tools/disk/uf.php?attachedId=27576&auth%5Baplogin%5D=692&auth%5Bap%5D=xf4ouacgiudut942&action=show&ncc=1"
+  }
+]

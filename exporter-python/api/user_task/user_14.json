@@ -1,0 +1,24 @@
+[
+  {
+    "ID": "14",
+    "XML_ID": "34606970",
+    "ACTIVE": false,
+    "NAME": "",
+    "LAST_NAME": "",
+    "EMAIL": "",
+    "LAST_LOGIN": "2021-03-01T17:27:32+03:00",
+    "DATE_REGISTER": "2021-02-26T03:00:00+03:00",
+    "IS_ONLINE": "N",
+    "TIMESTAMP_X": {},
+    "LAST_ACTIVITY_DATE": {},
+    "PERSONAL_GENDER": "",
+    "PERSONAL_BIRTHDAY": "",
+    "PERSONAL_MOBILE": "+79585605737",
+    "UF_EMPLOYMENT_DATE": "",
+    "UF_DEPARTMENT": [
+      1
+    ],
+    "UF_USR_1616085080886": false,
+    "USER_TYPE": "employee"
+  }
+]

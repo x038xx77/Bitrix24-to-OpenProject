@@ -1,0 +1,664 @@
+[
+  {
+    "POST_MESSAGE_HTML": null,
+    "ID": "23362",
+    "AUTHOR_ID": "176",
+    "AUTHOR_NAME": "\u041d\u0438\u043a\u0438\u0442\u0430 \u041c\u0438\u0442\u0443\u0441\u043e\u0432",
+    "AUTHOR_EMAIL": "",
+    "POST_DATE": "2022-08-19T08:10:55+03:00",
+    "POST_MESSAGE": "\u041d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u043e \u0443\u043a\u0430\u0437\u0430\u0442\u044c \u043a\u0440\u0430\u0439\u043d\u0438\u0439 \u0441\u0440\u043e\u043a, \u0438\u043d\u0430\u0447\u0435 \u0437\u0430\u0434\u0430\u0447\u0430 \u043d\u0435 \u0431\u0443\u0434\u0435\u0442 \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0430 \u0432\u043e\u0432\u0440\u0435\u043c\u044f.\n[USER=8]\u041b\u0418 \u0413\u0435\u043e\u0440\u0433\u0438\u0439 \u0412\u0438\u0441\u0441\u0430\u0440\u0438\u043e\u043d\u043e\u0432\u0438\u0447[/USER], \u0432\u044b \u043d\u0430\u0437\u043d\u0430\u0447\u0435\u043d\u044b \u043f\u043e\u0441\u0442\u0430\u043d\u043e\u0432\u0449\u0438\u043a\u043e\u043c."
+  },
+  {
+    "POST_MESSAGE_HTML": null,
+    "ID": "23364",
+    "AUTHOR_ID": "176",
+    "AUTHOR_NAME": "\u041c\u0438\u0442\u0443\u0441\u043e\u0432 \u041d\u0438\u043a\u0438\u0442\u0430",
+    "AUTHOR_EMAIL": "",
+    "POST_DATE": "2022-08-19T08:11:10+03:00",
+    "POST_MESSAGE": "\u041f\u0440\u043e\u0448\u0443 \u0433\u043b\u044f\u043d\u0443\u0442\u044c)"
+  },
+  {
+    "POST_MESSAGE_HTML": null,
+    "ID": "23366",
+    "AUTHOR_ID": "176",
+    "AUTHOR_NAME": "\u041d\u0438\u043a\u0438\u0442\u0430 \u041c\u0438\u0442\u0443\u0441\u043e\u0432",
+    "AUTHOR_EMAIL": "",
+    "POST_DATE": "2022-08-19T08:11:12+03:00",
+    "POST_MESSAGE": "\u0417\u0430\u0434\u0430\u0447\u0430 \u0437\u0430\u0432\u0435\u0440\u0448\u0435\u043d\u0430."
+  },
+  {
+    "POST_MESSAGE_HTML": null,
+    "ID": "23394",
+    "AUTHOR_ID": "8",
+    "AUTHOR_NAME": "\u041b\u0418 \u0413\u0435\u043e\u0440\u0433\u0438\u0439 \u0412\u0438\u0441\u0441\u0430\u0440\u0438\u043e\u043d\u043e\u0432\u0438\u0447",
+    "AUTHOR_EMAIL": "",
+    "POST_DATE": "2022-08-19T18:14:14+03:00",
+    "POST_MESSAGE": "[DISK FILE ID=n59918]\n\n\u0441\u0441\u044b\u043b\u043a\u0438 \u0432\u0438\u0434\u0443\u0442 \u043d\u0430 404",
+    "ATTACHED_OBJECTS": {
+      "27342": {
+        "ATTACHMENT_ID": "27342",
+        "NAME": "image (672).png",
+        "SIZE": "225839",
+        "FILE_ID": "59918",
+        "DOWNLOAD_URL": "/bitrix/tools/disk/uf.php?attachedId=27342&auth%5Baplogin%5D=692&auth%5Bap%5D=3khh3mjylndlq1bs&action=download&ncc=1",
+        "VIEW_URL": "/bitrix/tools/disk/uf.php?attachedId=27342&auth%5Baplogin%5D=692&auth%5Bap%5D=3khh3mjylndlq1bs&action=show&ncc=1"
+      }
+    }
+  },
+  {
+    "POST_MESSAGE_HTML": null,
+    "ID": "23396",
+    "AUTHOR_ID": "8",
+    "AUTHOR_NAME": "\u041b\u0418 \u0413\u0435\u043e\u0440\u0433\u0438\u0439 \u0412\u0438\u0441\u0441\u0430\u0440\u0438\u043e\u043d\u043e\u0432\u0438\u0447",
+    "AUTHOR_EMAIL": "",
+    "POST_DATE": "2022-08-19T18:15:49+03:00",
+    "POST_MESSAGE": "[URL=https://disk.yandex.ru/i/XJCBzCEWEE424A]https://disk.yandex.ru/i/XJCBzCEWEE424A[/URL]"
+  },
+  {
+    "POST_MESSAGE_HTML": null,
+    "ID": "23398",
+    "AUTHOR_ID": "8",
+    "AUTHOR_NAME": "\u041b\u0418 \u0413\u0435\u043e\u0440\u0433\u0438\u0439 \u0412\u0438\u0441\u0441\u0430\u0440\u0438\u043e\u043d\u043e\u0432\u0438\u0447",
+    "AUTHOR_EMAIL": "",
+    "POST_DATE": "2022-08-19T18:25:07+03:00",
+    "POST_MESSAGE": "[URL=https://inntechsys.ru/uslugi/]https://inntechsys.ru/uslugi/[/URL]\n\n\u043f\u0440\u0438 \u043f\u0435\u0440\u0435\u0445\u043e\u0434\u0435 \u043d\u0430 \u0443\u0441\u043b\u0443\u0433\u0438, \u0431\u043e\u043b\u044c\u0448\u0438\u0435 \u0438\u043a\u043e\u043d\u043a\u0438 \u0438 \u0442\u043e\u043b\u044c\u043a\u043e 4 \u0443\u0441\u043b\u0443\u0433\u0438.\n\u043e\u0441\u043d\u043e\u0432\u043d\u044b\u0435 \u0438\u0437\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u0438\u044f \u043d\u0430 \u043a\u0430\u0436\u0434\u043e\u043c \u0438\u0437 \u0440\u0430\u0434\u0435\u043b\u043e\u0432 \u0440\u0430\u0437\u043d\u044b\u0435, \u0437\u0430\u043c\u0435\u043d\u0438\u0442\u0435 \u043f\u043e\u0436-\u0430. \u0414\u043b\u044f 1\u0441 - 1\u0441\u043d\u0438\u043a, \u0434\u043b\u044f \u0438\u0442 - \u043f\u0430\u0440\u0435\u043d\u044c \u0430\u0439\u0442\u0438\u0448\u043d\u0438\u043a \u0438 \u043f\u0440.\u00a0\u00a0\n[DISK FILE ID=n59930]\n\n\n\n\u0441\u0441\u044b\u043b\u043a\u0430 \u0432 \u0444\u0443\u0442\u0435\u0440\u0435",
+    "ATTACHED_OBJECTS": {
+      "27344": {
+        "ATTACHMENT_ID": "27344",
+        "NAME": "image (678).png",
+        "SIZE": "249889",
+        "FILE_ID": "59930",
+        "DOWNLOAD_URL": "/bitrix/tools/disk/uf.php?attachedId=27344&auth%5Baplogin%5D=692&auth%5Bap%5D=3khh3mjylndlq1bs&action=download&ncc=1",
+        "VIEW_URL": "/bitrix/tools/disk/uf.php?attachedId=27344&auth%5Baplogin%5D=692&auth%5Bap%5D=3khh3mjylndlq1bs&action=show&ncc=1"
+      }
+    }
+  },
+  {
+    "POST_MESSAGE_HTML": null,
+    "ID": "23400",
+    "AUTHOR_ID": "8",
+    "AUTHOR_NAME": "\u041b\u0418 \u0413\u0435\u043e\u0440\u0433\u0438\u0439 \u0412\u0438\u0441\u0441\u0430\u0440\u0438\u043e\u043d\u043e\u0432\u0438\u0447",
+    "AUTHOR_EMAIL": "",
+    "POST_DATE": "2022-08-19T18:27:19+03:00",
+    "POST_MESSAGE": "[URL=https://inntechsys.ru/%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D1%8B/]https://inntechsys.ru/%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D1%8B/[/URL]\n\n\u043f\u043e\u043c\u0435\u043d\u044f\u0439\u0442\u0435 url \u0430\u043d\u0433\u043b\n\u0431\u043e\u043b\u044c\u0448\u0438\u0435 \u0438\u043a\u043e\u043d\u043a\u0438 \u0438 \u043e\u0434\u0438\u043d\u0430\u043a\u043e\u0432\u044b\u0435, \u0445\u043e\u0442\u044f \u043e\u0441\u043d\u043e\u0432\u043d\u044b\u0435 \u0438\u0437\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u0438\u044f \u043d\u0430 \u043a\u0430\u0436\u0434\u043e\u043c \u0438\u0437 \u0440\u0430\u0434\u0435\u043b\u043e\u0432 \u0440\u0430\u0437\u043d\u044b\u0435, \u0437\u0430\u043c\u0435\u043d\u0438\u0442\u0435 \u043f\u043e\u0436-\u0430. \u0414\u043b\u044f 1\u0441 - 1\u0441\u043d\u0438\u043a, \u0434\u043b\u044f \u0432\u0438\u0440\u0442-\u0445 \u0441\u0435\u0440\u0432\u0435\u0440\u043e - \u043f\u0430\u0440\u0435\u043d\u044c \u0441 \u043e\u0431\u043b\u0430\u043a\u0430\u043c\u0438.\u00a0"
+  },
+  {
+    "POST_MESSAGE_HTML": null,
+    "ID": "23402",
+    "AUTHOR_ID": "8",
+    "AUTHOR_NAME": "\u041b\u0418 \u0413\u0435\u043e\u0440\u0433\u0438\u0439 \u0412\u0438\u0441\u0441\u0430\u0440\u0438\u043e\u043d\u043e\u0432\u0438\u0447",
+    "AUTHOR_EMAIL": "",
+    "POST_DATE": "2022-08-19T18:28:37+03:00",
+    "POST_MESSAGE": "[DISK FILE ID=n59932]\n\n\u0432\u0435\u0434\u0435\u0442 \u043d\u0430 \u0441\u0435\u0440\u0432\u0438\u0441\u044b",
+    "ATTACHED_OBJECTS": {
+      "27346": {
+        "ATTACHMENT_ID": "27346",
+        "NAME": "image (679).png",
+        "SIZE": "14368",
+        "FILE_ID": "59932",
+        "DOWNLOAD_URL": "/bitrix/tools/disk/uf.php?attachedId=27346&auth%5Baplogin%5D=692&auth%5Bap%5D=3khh3mjylndlq1bs&action=download&ncc=1",
+        "VIEW_URL": "/bitrix/tools/disk/uf.php?attachedId=27346&auth%5Baplogin%5D=692&auth%5Bap%5D=3khh3mjylndlq1bs&action=show&ncc=1"
+      }
+    }
+  },
+  {
+    "POST_MESSAGE_HTML": null,
+    "ID": "23404",
+    "AUTHOR_ID": "8",
+    "AUTHOR_NAME": "\u041b\u0418 \u0413\u0435\u043e\u0440\u0433\u0438\u0439 \u0412\u0438\u0441\u0441\u0430\u0440\u0438\u043e\u043d\u043e\u0432\u0438\u0447",
+    "AUTHOR_EMAIL": "",
+    "POST_DATE": "2022-08-19T18:31:21+03:00",
+    "POST_MESSAGE": "[DISK FILE ID=n59936]\n\u0444\u043e\u0440\u043c\u0443 \u0434\u043e\u0431\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u0432 \u0438\u0437\u0431\u0440\u0430\u043d\u043d\u043e\u0435 \u0441\u0442\u0438\u043b\u0438\u0437\u043e\u0432\u0430\u0442\u044c , \u0437\u0430\u043a\u0440\u0443\u0433\u043b\u0438\u0442\u044c \u0441\u043e\u0433\u043b\u0430\u0441\u043d\u043e \u043e\u0431\u0449\u0435\u043c\u0443 \u0441\u0442\u0438\u043b\u044e",
+    "ATTACHED_OBJECTS": {
+      "27348": {
+        "ATTACHMENT_ID": "27348",
+        "NAME": "image (681).png",
+        "SIZE": "22953",
+        "FILE_ID": "59936",
+        "DOWNLOAD_URL": "/bitrix/tools/disk/uf.php?attachedId=27348&auth%5Baplogin%5D=692&auth%5Bap%5D=3khh3mjylndlq1bs&action=download&ncc=1",
+        "VIEW_URL": "/bitrix/tools/disk/uf.php?attachedId=27348&auth%5Baplogin%5D=692&auth%5Bap%5D=3khh3mjylndlq1bs&action=show&ncc=1"
+      }
+    }
+  },
+  {
+    "POST_MESSAGE_HTML": null,
+    "ID": "23406",
+    "AUTHOR_ID": "8",
+    "AUTHOR_NAME": "\u041b\u0418 \u0413\u0435\u043e\u0440\u0433\u0438\u0439 \u0412\u0438\u0441\u0441\u0430\u0440\u0438\u043e\u043d\u043e\u0432\u0438\u0447",
+    "AUTHOR_EMAIL": "",
+    "POST_DATE": "2022-08-19T18:36:01+03:00",
+    "POST_MESSAGE": "[DISK FILE ID=n59942]\n\u043d\u0435\u0442 \u0444\u0443\u0442\u0435\u0440\u0430",
+    "ATTACHED_OBJECTS": {
+      "27350": {
+        "ATTACHMENT_ID": "27350",
+        "NAME": "image (684).png",
+        "SIZE": "22470",
+        "FILE_ID": "59942",
+        "DOWNLOAD_URL": "/bitrix/tools/disk/uf.php?attachedId=27350&auth%5Baplogin%5D=692&auth%5Bap%5D=3khh3mjylndlq1bs&action=download&ncc=1",
+        "VIEW_URL": "/bitrix/tools/disk/uf.php?attachedId=27350&auth%5Baplogin%5D=692&auth%5Bap%5D=3khh3mjylndlq1bs&action=show&ncc=1"
+      }
+    }
+  },
+  {
+    "POST_MESSAGE_HTML": null,
+    "ID": "23408",
+    "AUTHOR_ID": "8",
+    "AUTHOR_NAME": "\u041b\u0418 \u0413\u0435\u043e\u0440\u0433\u0438\u0439 \u0412\u0438\u0441\u0441\u0430\u0440\u0438\u043e\u043d\u043e\u0432\u0438\u0447",
+    "AUTHOR_EMAIL": "",
+    "POST_DATE": "2022-08-19T18:36:27+03:00",
+    "POST_MESSAGE": "[DISK FILE ID=n59944]\n\n\u043d\u0435\u0442 \u0444\u0443\u0442\u0435\u0440\u0430",
+    "ATTACHED_OBJECTS": {
+      "27352": {
+        "ATTACHMENT_ID": "27352",
+        "NAME": "image (685).png",
+        "SIZE": "20207",
+        "FILE_ID": "59944",
+        "DOWNLOAD_URL": "/bitrix/tools/disk/uf.php?attachedId=27352&auth%5Baplogin%5D=692&auth%5Bap%5D=3khh3mjylndlq1bs&action=download&ncc=1",
+        "VIEW_URL": "/bitrix/tools/disk/uf.php?attachedId=27352&auth%5Baplogin%5D=692&auth%5Bap%5D=3khh3mjylndlq1bs&action=show&ncc=1"
+      }
+    }
+  },
+  {
+    "POST_MESSAGE_HTML": null,
+    "ID": "23410",
+    "AUTHOR_ID": "8",
+    "AUTHOR_NAME": "\u041b\u0418 \u0413\u0435\u043e\u0440\u0433\u0438\u0439 \u0412\u0438\u0441\u0441\u0430\u0440\u0438\u043e\u043d\u043e\u0432\u0438\u0447",
+    "AUTHOR_EMAIL": "",
+    "POST_DATE": "2022-08-19T18:37:14+03:00",
+    "POST_MESSAGE": "\u043d\u0430 \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0430\u0445 \u043a\u0435\u0439\u0441\u043e\u0432 \u043d\u0435\u0442 \u0448\u0430\u043f\u043a\u0438 \u0438 \u0444\u0443\u0442\u0435\u0440\u0430 \u0438 \u043d\u0435\u0442 \u043a\u043d\u043e\u043f\u043a\u0438 &quot;\u0432\u0432\u0435\u0440\u0445&quot;"
+  },
+  {
+    "POST_MESSAGE_HTML": null,
+    "ID": "23412",
+    "AUTHOR_ID": "8",
+    "AUTHOR_NAME": "\u041b\u0418 \u0413\u0435\u043e\u0440\u0433\u0438\u0439 \u0412\u0438\u0441\u0441\u0430\u0440\u0438\u043e\u043d\u043e\u0432\u0438\u0447",
+    "AUTHOR_EMAIL": "",
+    "POST_DATE": "2022-08-19T18:39:17+03:00",
+    "POST_MESSAGE": "[URL=https://disk.yandex.ru/d/dw5Pb48lBK-b2g]https://disk.yandex.ru/d/dw5Pb48lBK-b2g[/URL]"
+  },
+  {
+    "POST_MESSAGE_HTML": null,
+    "ID": "23414",
+    "AUTHOR_ID": "8",
+    "AUTHOR_NAME": "\u041b\u0418 \u0413\u0435\u043e\u0440\u0433\u0438\u0439 \u0412\u0438\u0441\u0441\u0430\u0440\u0438\u043e\u043d\u043e\u0432\u0438\u0447",
+    "AUTHOR_EMAIL": "",
+    "POST_DATE": "2022-08-19T18:40:30+03:00",
+    "POST_MESSAGE": "[DISK FILE ID=n59946]\n\n\u0432\u0435\u0434\u0435\u0442 \u043d\u0430 \u0438\u043d\u043d\u0442\u0435\u0445\u0441\u0438\u0441, \u043f\u0443\u0441\u0442\u044c \u0443\u0436 \u0432\u0435\u0434\u0435\u0442 \u043d\u0430 \u0441\u0430\u0439\u0442 al-fas.ru \u0447\u0435\u0440\u0435\u0437 \u0440\u0435\u0434\u0438\u0440\u0435\u043a\u0442",
+    "ATTACHED_OBJECTS": {
+      "27354": {
+        "ATTACHMENT_ID": "27354",
+        "NAME": "image (686).png",
+        "SIZE": "8697",
+        "FILE_ID": "59946",
+        "DOWNLOAD_URL": "/bitrix/tools/disk/uf.php?attachedId=27354&auth%5Baplogin%5D=692&auth%5Bap%5D=3khh3mjylndlq1bs&action=download&ncc=1",
+        "VIEW_URL": "/bitrix/tools/disk/uf.php?attachedId=27354&auth%5Baplogin%5D=692&auth%5Bap%5D=3khh3mjylndlq1bs&action=show&ncc=1"
+      }
+    }
+  },
+  {
+    "POST_MESSAGE_HTML": null,
+    "ID": "23416",
+    "AUTHOR_ID": "8",
+    "AUTHOR_NAME": "\u041b\u0418 \u0413\u0435\u043e\u0440\u0433\u0438\u0439 \u0412\u0438\u0441\u0441\u0430\u0440\u0438\u043e\u043d\u043e\u0432\u0438\u0447",
+    "AUTHOR_EMAIL": "",
+    "POST_DATE": "2022-08-19T18:41:11+03:00",
+    "POST_MESSAGE": "[DISK FILE ID=n59948]\n\n\u0432\u0435\u0434\u0435\u0442 \u043d\u0430 \u043a\u0430\u0440\u0433\u043e, \u043f\u0443\u0441\u0442\u044c \u0432\u0435\u0434\u0435\u0442 \u043d\u0430 \u0441\u0430\u0439\u0442 khamb.ru \u0447\u0435\u0440\u0435\u0437 \u0440\u0435\u0434\u0438\u0440\u0435\u043a\u0442",
+    "ATTACHED_OBJECTS": {
+      "27356": {
+        "ATTACHMENT_ID": "27356",
+        "NAME": "image (687).png",
+        "SIZE": "53772",
+        "FILE_ID": "59948",
+        "DOWNLOAD_URL": "/bitrix/tools/disk/uf.php?attachedId=27356&auth%5Baplogin%5D=692&auth%5Bap%5D=3khh3mjylndlq1bs&action=download&ncc=1",
+        "VIEW_URL": "/bitrix/tools/disk/uf.php?attachedId=27356&auth%5Baplogin%5D=692&auth%5Bap%5D=3khh3mjylndlq1bs&action=show&ncc=1"
+      }
+    }
+  },
+  {
+    "POST_MESSAGE_HTML": null,
+    "ID": "23418",
+    "AUTHOR_ID": "8",
+    "AUTHOR_NAME": "\u041b\u0418 \u0413\u0435\u043e\u0440\u0433\u0438\u0439 \u0412\u0438\u0441\u0441\u0430\u0440\u0438\u043e\u043d\u043e\u0432\u0438\u0447",
+    "AUTHOR_EMAIL": "",
+    "POST_DATE": "2022-08-19T18:41:49+03:00",
+    "POST_MESSAGE": "[DISK FILE ID=n59950]\n\n\u043f\u0443\u0441\u0442\u044c \u0432\u0435\u0434\u0435\u0442 \u043d\u0430 oboi-art \u0447\u0435\u0440\u0435\u0437 \u0440\u0435\u0434\u0438\u0440\u0435\u043a\u0442",
+    "ATTACHED_OBJECTS": {
+      "27358": {
+        "ATTACHMENT_ID": "27358",
+        "NAME": "image (688).png",
+        "SIZE": "19839",
+        "FILE_ID": "59950",
+        "DOWNLOAD_URL": "/bitrix/tools/disk/uf.php?attachedId=27358&auth%5Baplogin%5D=692&auth%5Bap%5D=3khh3mjylndlq1bs&action=download&ncc=1",
+        "VIEW_URL": "/bitrix/tools/disk/uf.php?attachedId=27358&auth%5Baplogin%5D=692&auth%5Bap%5D=3khh3mjylndlq1bs&action=show&ncc=1"
+      }
+    }
+  },
+  {
+    "POST_MESSAGE_HTML": null,
+    "ID": "23420",
+    "AUTHOR_ID": "8",
+    "AUTHOR_NAME": "\u041b\u0418 \u0413\u0435\u043e\u0440\u0433\u0438\u0439 \u0412\u0438\u0441\u0441\u0430\u0440\u0438\u043e\u043d\u043e\u0432\u0438\u0447",
+    "AUTHOR_EMAIL": "",
+    "POST_DATE": "2022-08-19T18:42:18+03:00",
+    "POST_MESSAGE": "[DISK FILE ID=n59952]\n\n\u0434\u043e\u0431\u0430\u0432\u0438\u0442\u044c \u043b\u043e\u0433\u043e\u0442\u0438\u043f \u0438 \u0438\u0437\u043c\u0435\u043d\u0438\u0442\u044c \u0441\u0441\u044b\u043b\u043a\u0443 , \u0440\u0435\u0434\u0438\u0440\u0435\u043a\u0442",
+    "ATTACHED_OBJECTS": {
+      "27360": {
+        "ATTACHMENT_ID": "27360",
+        "NAME": "image (689).png",
+        "SIZE": "11498",
+        "FILE_ID": "59952",
+        "DOWNLOAD_URL": "/bitrix/tools/disk/uf.php?attachedId=27360&auth%5Baplogin%5D=692&auth%5Bap%5D=3khh3mjylndlq1bs&action=download&ncc=1",
+        "VIEW_URL": "/bitrix/tools/disk/uf.php?attachedId=27360&auth%5Baplogin%5D=692&auth%5Bap%5D=3khh3mjylndlq1bs&action=show&ncc=1"
+      }
+    }
+  },
+  {
+    "POST_MESSAGE_HTML": null,
+    "ID": "23422",
+    "AUTHOR_ID": "8",
+    "AUTHOR_NAME": "\u041b\u0418 \u0413\u0435\u043e\u0440\u0433\u0438\u0439 \u0412\u0438\u0441\u0441\u0430\u0440\u0438\u043e\u043d\u043e\u0432\u0438\u0447",
+    "AUTHOR_EMAIL": "",
+    "POST_DATE": "2022-08-19T18:43:07+03:00",
+    "POST_MESSAGE": "[DISK FILE ID=n59954]\n\u0447\u0442\u043e \u044d\u0442\u043e \u0437\u0430 \u043f\u0443\u0441\u0442\u044b\u043d\u044f?",
+    "ATTACHED_OBJECTS": {
+      "27362": {
+        "ATTACHMENT_ID": "27362",
+        "NAME": "image (690).png",
+        "SIZE": "527057",
+        "FILE_ID": "59954",
+        "DOWNLOAD_URL": "/bitrix/tools/disk/uf.php?attachedId=27362&auth%5Baplogin%5D=692&auth%5Bap%5D=3khh3mjylndlq1bs&action=download&ncc=1",
+        "VIEW_URL": "/bitrix/tools/disk/uf.php?attachedId=27362&auth%5Baplogin%5D=692&auth%5Bap%5D=3khh3mjylndlq1bs&action=show&ncc=1"
+      }
+    }
+  },
+  {
+    "POST_MESSAGE_HTML": null,
+    "ID": "23424",
+    "AUTHOR_ID": "8",
+    "AUTHOR_NAME": "\u041b\u0418 \u0413\u0435\u043e\u0440\u0433\u0438\u0439 \u0412\u0438\u0441\u0441\u0430\u0440\u0438\u043e\u043d\u043e\u0432\u0438\u0447",
+    "AUTHOR_EMAIL": "",
+    "POST_DATE": "2022-08-19T18:44:35+03:00",
+    "POST_MESSAGE": "[DISK FILE ID=n59956]\n\n\u0442\u0430\u043a \u0438 \u043d\u0435 \u043e\u0442\u043a\u0440\u044b\u0432\u0430\u0435\u0442\u0441\u044f",
+    "ATTACHED_OBJECTS": {
+      "27364": {
+        "ATTACHMENT_ID": "27364",
+        "NAME": "image (691).png",
+        "SIZE": "18663",
+        "FILE_ID": "59956",
+        "DOWNLOAD_URL": "/bitrix/tools/disk/uf.php?attachedId=27364&auth%5Baplogin%5D=692&auth%5Bap%5D=3khh3mjylndlq1bs&action=download&ncc=1",
+        "VIEW_URL": "/bitrix/tools/disk/uf.php?attachedId=27364&auth%5Baplogin%5D=692&auth%5Bap%5D=3khh3mjylndlq1bs&action=show&ncc=1"
+      }
+    }
+  },
+  {
+    "POST_MESSAGE_HTML": null,
+    "ID": "23426",
+    "AUTHOR_ID": "8",
+    "AUTHOR_NAME": "\u041b\u0418 \u0413\u0435\u043e\u0440\u0433\u0438\u0439 \u0412\u0438\u0441\u0441\u0430\u0440\u0438\u043e\u043d\u043e\u0432\u0438\u0447",
+    "AUTHOR_EMAIL": "",
+    "POST_DATE": "2022-08-19T18:46:39+03:00",
+    "POST_MESSAGE": "[DISK FILE ID=n59958]\n\n\n\u043d\u0435 \u0432\u0441\u0435 \u044d\u043b\u0435\u043c\u0435\u043d\u0442\u044b \u043c\u0435\u043d\u044e",
+    "ATTACHED_OBJECTS": {
+      "27366": {
+        "ATTACHMENT_ID": "27366",
+        "NAME": "image (692).png",
+        "SIZE": "10933",
+        "FILE_ID": "59958",
+        "DOWNLOAD_URL": "/bitrix/tools/disk/uf.php?attachedId=27366&auth%5Baplogin%5D=692&auth%5Bap%5D=3khh3mjylndlq1bs&action=download&ncc=1",
+        "VIEW_URL": "/bitrix/tools/disk/uf.php?attachedId=27366&auth%5Baplogin%5D=692&auth%5Bap%5D=3khh3mjylndlq1bs&action=show&ncc=1"
+      }
+    }
+  },
+  {
+    "POST_MESSAGE_HTML": null,
+    "ID": "23428",
+    "AUTHOR_ID": "8",
+    "AUTHOR_NAME": "\u041b\u0418 \u0413\u0435\u043e\u0440\u0433\u0438\u0439 \u0412\u0438\u0441\u0441\u0430\u0440\u0438\u043e\u043d\u043e\u0432\u0438\u0447",
+    "AUTHOR_EMAIL": "",
+    "POST_DATE": "2022-08-19T18:57:11+03:00",
+    "POST_MESSAGE": "[URL=https://disk.yandex.ru/i/27lcwFxt7w2ZZA]https://disk.yandex.ru/i/27lcwFxt7w2ZZA[/URL]\n\n\u0440\u0430\u0441\u0447\u0435\u0442 \u0441 \u0442\u0443\u043c\u0431\u043b\u0435\u0440\u0430 \u043d\u0435 \u0432\u0435\u0440\u043d\u044b\u0439"
+  },
+  {
+    "POST_MESSAGE_HTML": null,
+    "ID": "23430",
+    "AUTHOR_ID": "8",
+    "AUTHOR_NAME": "\u041b\u0418 \u0413\u0435\u043e\u0440\u0433\u0438\u0439 \u0412\u0438\u0441\u0441\u0430\u0440\u0438\u043e\u043d\u043e\u0432\u0438\u0447",
+    "AUTHOR_EMAIL": "",
+    "POST_DATE": "2022-08-19T18:58:31+03:00",
+    "POST_MESSAGE": "[DISK FILE ID=n59968]\n\n\u043a\u043e\u0433\u0434\u0430 \u044f \u043f\u0435\u0440\u0435\u0445\u043e\u0436\u0443 \u043d\u0430 \u0443\u0441\u043b\u0443\u0433\u0443 \u0443 \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u043d\u0435\u0442 \u043a\u0430\u0440\u0442\u043e\u0447\u043a\u0438/\u043e\u043f\u0438\u0441\u0430\u043d\u0438\u044f, \u044f \u0434\u043e\u043b\u0436\u0435\u043d \u043f\u043e\u043f\u0430\u0441\u0442\u044c \u043d\u0430 \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0443 \u0441 \u043f\u0440\u0430\u0439\u0441 \u043b\u0438\u0441\u0442\u043e\u043c.\u00a0",
+    "ATTACHED_OBJECTS": {
+      "27368": {
+        "ATTACHMENT_ID": "27368",
+        "NAME": "image (697).png",
+        "SIZE": "39705",
+        "FILE_ID": "59968",
+        "DOWNLOAD_URL": "/bitrix/tools/disk/uf.php?attachedId=27368&auth%5Baplogin%5D=692&auth%5Bap%5D=3khh3mjylndlq1bs&action=download&ncc=1",
+        "VIEW_URL": "/bitrix/tools/disk/uf.php?attachedId=27368&auth%5Baplogin%5D=692&auth%5Bap%5D=3khh3mjylndlq1bs&action=show&ncc=1"
+      }
+    }
+  },
+  {
+    "POST_MESSAGE_HTML": null,
+    "ID": "23432",
+    "AUTHOR_ID": "8",
+    "AUTHOR_NAME": "\u0413\u0435\u043e\u0440\u0433\u0438\u0439 \u041b\u0418",
+    "AUTHOR_EMAIL": "",
+    "POST_DATE": "2022-08-19T19:01:40+03:00",
+    "POST_MESSAGE": "[USER=176]\u041c\u0438\u0442\u0443\u0441\u043e\u0432 \u041d\u0438\u043a\u0438\u0442\u0430[/USER], \u0437\u0430\u0434\u0430\u0447\u0430 \u0432\u043e\u0437\u0432\u0440\u0430\u0449\u0435\u043d\u0430 \u0432 \u0440\u0430\u0431\u043e\u0442\u0443."
+  },
+  {
+    "POST_MESSAGE_HTML": null,
+    "ID": "23440",
+    "AUTHOR_ID": "176",
+    "AUTHOR_NAME": "\u041c\u0438\u0442\u0443\u0441\u043e\u0432 \u041d\u0438\u043a\u0438\u0442\u0430",
+    "AUTHOR_EMAIL": "",
+    "POST_DATE": "2022-08-20T06:51:25+03:00",
+    "POST_MESSAGE": "[USER=8]\u041b\u0418 \u0413\u0435\u043e\u0440\u0433\u0438\u0439 \u0412\u0438\u0441\u0441\u0430\u0440\u0438\u043e\u043d\u043e\u0432\u0438\u0447[/USER], \u0440\u0430\u0441\u0441\u0447\u0435\u0442 \u0432\u0435\u0440\u0435\u043d \u043f\u0440\u043e\u0441\u0442\u043e \u043f\u043e\u0447\u0435\u043c\u0443 \u0442\u043e \u0441\u0440\u0430\u0437\u0443 \u0432 0 \u043d\u0435 \u0432\u044b\u0432\u043e\u0434\u0438\u0442 \u0445\u043e\u0442\u044f \u043a\u043e\u0434 \u043e\u0442 \u043f\u043a \u0432\u0435\u0440\u0441\u0438\u0438 \u043d\u0435 \u043e\u0442\u043b\u0438\u0447\u0430\u0435\u0442\u0441\u044f\n\u0415\u0441\u043b\u0438 \u043d\u0430\u0436\u0430\u0442\u044c \u043d\u0430 \u0434\u0440\u0443\u0433\u043e\u0439 \u044d\u043b\u0435\u043c\u0435\u043d\u0442 \u0442\u043e \u0432\u0441\u0435 \u043e\u0431\u043d\u0443\u043b\u0438\u0442\u0441\u044f \u043e\u0447\u0435\u043d\u044c \u0441\u0442\u0440\u0430\u043d\u043d\u043e \u043f\u043e\u043a\u0430 \u043f\u0440\u043e\u0431\u043b\u0435\u043c\u0443 \u043d\u0435 \u043c\u043e\u0433\u0443 \u043d\u0430\u0439\u0442\u0438 \u0445\u043e\u0442\u044c \u0438 \u043f\u0440\u043e\u0441\u0438\u0434\u0435\u043b \u0434\u043e\u043b\u0433\u043e"
+  },
+  {
+    "POST_MESSAGE_HTML": null,
+    "ID": "23442",
+    "AUTHOR_ID": "176",
+    "AUTHOR_NAME": "\u041c\u0438\u0442\u0443\u0441\u043e\u0432 \u041d\u0438\u043a\u0438\u0442\u0430",
+    "AUTHOR_EMAIL": "",
+    "POST_DATE": "2022-08-20T06:52:06+03:00",
+    "POST_MESSAGE": "\u041a\u0430\u0440\u0442\u0438\u043d\u043a\u0438 \u0434\u043b\u044f \u0443\u0441\u043b\u0443\u0433 \u0438 \u0441\u0435\u0440\u0432\u0438\u0441\u043e\u0432 \u0443 \u041c\u0430\u0440\u0438 \u0437\u0430\u043f\u0440\u043e\u0441\u0438\u043b \u0434\u043e\u0431\u0430\u0432\u043b\u044e\n\u041e\u0441\u0442\u0430\u043b\u044c\u043d\u043e\u0435 \u0440\u0435\u0448\u0435\u043d\u043e"
+  },
+  {
+    "POST_MESSAGE_HTML": null,
+    "ID": "23444",
+    "AUTHOR_ID": "176",
+    "AUTHOR_NAME": "\u041c\u0438\u0442\u0443\u0441\u043e\u0432 \u041d\u0438\u043a\u0438\u0442\u0430",
+    "AUTHOR_EMAIL": "",
+    "POST_DATE": "2022-08-20T07:24:06+03:00",
+    "POST_MESSAGE": "[USER=8]\u041b\u0418 \u0413\u0435\u043e\u0440\u0433\u0438\u0439 \u0412\u0438\u0441\u0441\u0430\u0440\u0438\u043e\u043d\u043e\u0432\u0438\u0447[/USER], \u0444\u043e\u0440\u043c\u0443 \u0434\u043e\u0431\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u043e\u0442\u0440\u0435\u0434\u0430\u043a\u0442\u0438\u0440\u043e\u0432\u0430\u0442\u044c \u043d\u0435 \u043c\u043e\u0433\u0443 \u043e\u043d\u0430 \u043d\u0435 \u0434\u0430\u0435\u0442 \u0443\u0432\u0438\u0434\u0435\u0442\u044c \u0435\u0435 \u043a\u043e\u0434 \u0447\u0442\u043e\u0431\u044b \u0438\u0437\u043c\u0435\u043d\u0438\u0442\u044c \u0441\u0442\u0438\u043b\u0438 - \u0441\u0440\u0430\u0437\u0443 \u0438\u0441\u0447\u0435\u0437\u0430\u0435\u0442 \u043a\u0430\u043a \u0441\u043c\u043e\u0433\u0443 \u0440\u0435\u0448\u0438\u0442\u044c \u043e\u0442\u043f\u0438\u0448\u0443"
+  },
+  {
+    "POST_MESSAGE_HTML": null,
+    "ID": "23446",
+    "AUTHOR_ID": "176",
+    "AUTHOR_NAME": "\u041c\u0438\u0442\u0443\u0441\u043e\u0432 \u041d\u0438\u043a\u0438\u0442\u0430",
+    "AUTHOR_EMAIL": "",
+    "POST_DATE": "2022-08-20T07:24:52+03:00",
+    "POST_MESSAGE": "[USER=8]\u041b\u0418 \u0413\u0435\u043e\u0440\u0433\u0438\u0439 \u0412\u0438\u0441\u0441\u0430\u0440\u0438\u043e\u043d\u043e\u0432\u0438\u0447[/USER], \u043a\u0430\u0440\u0442\u043e\u0447\u043a\u0443 \u0442\u043e\u0432\u0430\u0440\u0430 \u0441\u0434\u0435\u043b\u0430\u0435\u043c \u043a\u043e\u0433\u0434\u0430 \u043f\u0435\u0440\u0435\u0439\u0434\u0435\u043c \u043a \u043d\u0438\u043c \u0432\u043f\u043b\u043e\u0442\u043d\u0443\u044e"
+  },
+  {
+    "POST_MESSAGE_HTML": null,
+    "ID": "23456",
+    "AUTHOR_ID": "8",
+    "AUTHOR_NAME": "\u041b\u0418 \u0413\u0435\u043e\u0440\u0433\u0438\u0439 \u0412\u0438\u0441\u0441\u0430\u0440\u0438\u043e\u043d\u043e\u0432\u0438\u0447",
+    "AUTHOR_EMAIL": "",
+    "POST_DATE": "2022-08-22T09:50:13+03:00",
+    "POST_MESSAGE": "[QUOTE][USER=8]\u041b\u0418 \u0413\u0435\u043e\u0440\u0433\u0438\u0439 \u0412\u0438\u0441\u0441\u0430\u0440\u0438\u043e\u043d\u043e\u0432\u0438\u0447[/USER] \u043d\u0430\u043f\u0438\u0441\u0430\u043b(\u0430):\n\u0432\u0435\u0434\u0435\u0442 \u043d\u0430 \u043a\u0430\u0440\u0433\u043e, \u043f\u0443\u0441\u0442\u044c \u0432\u0435\u0434\u0435\u0442 \u043d\u0430 \u0441\u0430\u0439\u0442 khamb.ru \u0447\u0435\u0440\u0435\u0437 \u0440\u0435\u0434\u0438\u0440\u0435\u043a\u0442[/QUOTE]\n[URL=https://disk.yandex.ru/i/Ra5sHoR_KexH3A]https://disk.yandex.ru/i/Ra5sHoR_KexH3A[/URL]"
+  },
+  {
+    "POST_MESSAGE_HTML": null,
+    "ID": "23484",
+    "AUTHOR_ID": "8",
+    "AUTHOR_NAME": "\u041b\u0418 \u0413\u0435\u043e\u0440\u0433\u0438\u0439 \u0412\u0438\u0441\u0441\u0430\u0440\u0438\u043e\u043d\u043e\u0432\u0438\u0447",
+    "AUTHOR_EMAIL": "",
+    "POST_DATE": "2022-08-22T10:53:26+03:00",
+    "POST_MESSAGE": "[DISK FILE ID=n60054]\n\n\u043f\u043e\u043c\u043d\u0438\u043c \u043e \u0441\u043a\u043e\u0440\u043e\u0441\u0442\u0438 \u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0438",
+    "ATTACHED_OBJECTS": {
+      "27438": {
+        "ATTACHMENT_ID": "27438",
+        "NAME": "image (701).png",
+        "SIZE": "56402",
+        "FILE_ID": "60054",
+        "DOWNLOAD_URL": "/bitrix/tools/disk/uf.php?attachedId=27438&auth%5Baplogin%5D=692&auth%5Bap%5D=3khh3mjylndlq1bs&action=download&ncc=1",
+        "VIEW_URL": "/bitrix/tools/disk/uf.php?attachedId=27438&auth%5Baplogin%5D=692&auth%5Bap%5D=3khh3mjylndlq1bs&action=show&ncc=1"
+      }
+    }
+  },
+  {
+    "POST_MESSAGE_HTML": null,
+    "ID": "23488",
+    "AUTHOR_ID": "8",
+    "AUTHOR_NAME": "\u041b\u0418 \u0413\u0435\u043e\u0440\u0433\u0438\u0439 \u0412\u0438\u0441\u0441\u0430\u0440\u0438\u043e\u043d\u043e\u0432\u0438\u0447",
+    "AUTHOR_EMAIL": "",
+    "POST_DATE": "2022-08-22T10:55:40+03:00",
+    "POST_MESSAGE": "[QUOTE][USER=8]\u041b\u0418 \u0413\u0435\u043e\u0440\u0433\u0438\u0439 \u0412\u0438\u0441\u0441\u0430\u0440\u0438\u043e\u043d\u043e\u0432\u0438\u0447[/USER] \u043d\u0430\u043f\u0438\u0441\u0430\u043b(\u0430):\n[URL=https://disk.yandex.ru/i/XJCBzCEWEE424A]https://disk.yandex.ru/i/XJCBzCEWEE424A[/URL][/QUOTE]\n\u043a\u0430\u043f\u0442\u0447\u0438 \u043d\u0435\u0442\u0443\u00a0"
+  },
+  {
+    "POST_MESSAGE_HTML": null,
+    "ID": "23490",
+    "AUTHOR_ID": "8",
+    "AUTHOR_NAME": "\u041b\u0418 \u0413\u0435\u043e\u0440\u0433\u0438\u0439 \u0412\u0438\u0441\u0441\u0430\u0440\u0438\u043e\u043d\u043e\u0432\u0438\u0447",
+    "AUTHOR_EMAIL": "",
+    "POST_DATE": "2022-08-22T10:57:22+03:00",
+    "POST_MESSAGE": "[QUOTE][USER=8]\u041b\u0418 \u0413\u0435\u043e\u0440\u0433\u0438\u0439 \u0412\u0438\u0441\u0441\u0430\u0440\u0438\u043e\u043d\u043e\u0432\u0438\u0447[/USER] \u043d\u0430\u043f\u0438\u0441\u0430\u043b(\u0430):\n\u043d\u0430 \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0430\u0445 \u043a\u0435\u0439\u0441\u043e\u0432 \u043d\u0435\u0442 \u0448\u0430\u043f\u043a\u0438 \u0438 \u0444\u0443\u0442\u0435\u0440\u0430 \u0438 \u043d\u0435\u0442 \u043a\u043d\u043e\u043f\u043a\u0438 &quot;\u0432\u0432\u0435\u0440\u0445&quot;[/QUOTE]\n\u0442\u0430\u043a \u0438 \u043d\u0435\u0442"
+  },
+  {
+    "POST_MESSAGE_HTML": null,
+    "ID": "23492",
+    "AUTHOR_ID": "8",
+    "AUTHOR_NAME": "\u041b\u0418 \u0413\u0435\u043e\u0440\u0433\u0438\u0439 \u0412\u0438\u0441\u0441\u0430\u0440\u0438\u043e\u043d\u043e\u0432\u0438\u0447",
+    "AUTHOR_EMAIL": "",
+    "POST_DATE": "2022-08-22T10:58:23+03:00",
+    "POST_MESSAGE": "[QUOTE][USER=8]\u041b\u0418 \u0413\u0435\u043e\u0440\u0433\u0438\u0439 \u0412\u0438\u0441\u0441\u0430\u0440\u0438\u043e\u043d\u043e\u0432\u0438\u0447[/USER] \u043d\u0430\u043f\u0438\u0441\u0430\u043b(\u0430):\n[URL=https://disk.yandex.ru/d/dw5Pb48lBK-b2g]https://disk.yandex.ru/d/dw5Pb48lBK-b2g[/URL][/QUOTE]\n[DISK FILE ID=n60058]",
+    "ATTACHED_OBJECTS": {
+      "27442": {
+        "ATTACHMENT_ID": "27442",
+        "NAME": "image (703).png",
+        "SIZE": "17787",
+        "FILE_ID": "60058",
+        "DOWNLOAD_URL": "/bitrix/tools/disk/uf.php?attachedId=27442&auth%5Baplogin%5D=692&auth%5Bap%5D=3khh3mjylndlq1bs&action=download&ncc=1",
+        "VIEW_URL": "/bitrix/tools/disk/uf.php?attachedId=27442&auth%5Baplogin%5D=692&auth%5Bap%5D=3khh3mjylndlq1bs&action=show&ncc=1"
+      }
+    }
+  },
+  {
+    "POST_MESSAGE_HTML": null,
+    "ID": "23494",
+    "AUTHOR_ID": "8",
+    "AUTHOR_NAME": "\u041b\u0418 \u0413\u0435\u043e\u0440\u0433\u0438\u0439 \u0412\u0438\u0441\u0441\u0430\u0440\u0438\u043e\u043d\u043e\u0432\u0438\u0447",
+    "AUTHOR_EMAIL": "",
+    "POST_DATE": "2022-08-22T11:02:53+03:00",
+    "POST_MESSAGE": "[QUOTE][USER=8]\u041b\u0418 \u0413\u0435\u043e\u0440\u0433\u0438\u0439 \u0412\u0438\u0441\u0441\u0430\u0440\u0438\u043e\u043d\u043e\u0432\u0438\u0447[/USER] \u043d\u0430\u043f\u0438\u0441\u0430\u043b(\u0430):\n\u0434\u043e\u0431\u0430\u0432\u0438\u0442\u044c \u043b\u043e\u0433\u043e\u0442\u0438\u043f \u0438 \u0438\u0437\u043c\u0435\u043d\u0438\u0442\u044c \u0441\u0441\u044b\u043b\u043a\u0443 , \u0440\u0435\u0434\u0438\u0440\u0435\u043a\u0442[/QUOTE]\n\u043b\u043e\u0433\u043e\u0442\u0438\u043f \u0440\u0435\u0434\u0438\u0440\u0435\u043a\u0442"
+  },
+  {
+    "POST_MESSAGE_HTML": null,
+    "ID": "23496",
+    "AUTHOR_ID": "8",
+    "AUTHOR_NAME": "\u041b\u0418 \u0413\u0435\u043e\u0440\u0433\u0438\u0439 \u0412\u0438\u0441\u0441\u0430\u0440\u0438\u043e\u043d\u043e\u0432\u0438\u0447",
+    "AUTHOR_EMAIL": "",
+    "POST_DATE": "2022-08-22T11:03:28+03:00",
+    "POST_MESSAGE": "\u043d\u0430\u0441\u0442\u0440\u043e\u0439\u0442\u0435\u00a0\u0440\u0435\u0434\u0438\u0440\u0435\u043a\u0442\n[DISK FILE ID=n60060]",
+    "ATTACHED_OBJECTS": {
+      "27444": {
+        "ATTACHMENT_ID": "27444",
+        "NAME": "image (704).png",
+        "SIZE": "16804",
+        "FILE_ID": "60060",
+        "DOWNLOAD_URL": "/bitrix/tools/disk/uf.php?attachedId=27444&auth%5Baplogin%5D=692&auth%5Bap%5D=3khh3mjylndlq1bs&action=download&ncc=1",
+        "VIEW_URL": "/bitrix/tools/disk/uf.php?attachedId=27444&auth%5Baplogin%5D=692&auth%5Bap%5D=3khh3mjylndlq1bs&action=show&ncc=1"
+      }
+    }
+  },
+  {
+    "POST_MESSAGE_HTML": null,
+    "ID": "23498",
+    "AUTHOR_ID": "8",
+    "AUTHOR_NAME": "\u041b\u0418 \u0413\u0435\u043e\u0440\u0433\u0438\u0439 \u0412\u0438\u0441\u0441\u0430\u0440\u0438\u043e\u043d\u043e\u0432\u0438\u0447",
+    "AUTHOR_EMAIL": "",
+    "POST_DATE": "2022-08-22T11:07:23+03:00",
+    "POST_MESSAGE": "[DISK FILE ID=n60062]\n\n&quot;\u043e\u0442\u043f\u0440\u0430\u0432\u0438\u0442\u044c \u0437\u0430\u044f\u0432\u043a\u0443&quot; \u043f\u043e\u044f\u0432\u0438\u043b\u0430\u0441\u044c \u0432 \u043c\u0435\u043d\u044e \u0432 \u043c\u043e\u0431\u0438\u043b\u0435",
+    "ATTACHED_OBJECTS": {
+      "27446": {
+        "ATTACHMENT_ID": "27446",
+        "NAME": "image (705).png",
+        "SIZE": "255571",
+        "FILE_ID": "60062",
+        "DOWNLOAD_URL": "/bitrix/tools/disk/uf.php?attachedId=27446&auth%5Baplogin%5D=692&auth%5Bap%5D=3khh3mjylndlq1bs&action=download&ncc=1",
+        "VIEW_URL": "/bitrix/tools/disk/uf.php?attachedId=27446&auth%5Baplogin%5D=692&auth%5Bap%5D=3khh3mjylndlq1bs&action=show&ncc=1"
+      }
+    }
+  },
+  {
+    "POST_MESSAGE_HTML": null,
+    "ID": "23550",
+    "AUTHOR_ID": "176",
+    "AUTHOR_NAME": "\u041c\u0438\u0442\u0443\u0441\u043e\u0432 \u041d\u0438\u043a\u0438\u0442\u0430",
+    "AUTHOR_EMAIL": "",
+    "POST_DATE": "2022-08-23T04:57:48+03:00",
+    "POST_MESSAGE": "[QUOTE][USER=8]\u041b\u0418 \u0413\u0435\u043e\u0440\u0433\u0438\u0439 \u0412\u0438\u0441\u0441\u0430\u0440\u0438\u043e\u043d\u043e\u0432\u0438\u0447[/USER] \u043d\u0430\u043f\u0438\u0441\u0430\u043b(\u0430):[TABLE][TR][TH]\u0426\u0438\u0442\u0430\u0442\u0430[/TH][/TR][TR][TD][URL=/company/personal/user/8/]\u041b\u0418 \u0413\u0435\u043e\u0440\u0433\u0438\u0439 \u0412\u0438\u0441\u0441\u0430\u0440\u0438\u043e\u043d\u043e\u0432\u0438\u0447[/URL] \u043d\u0430\u043f\u0438\u0441\u0430\u043b(\u0430):\n[URL=https://disk.yandex.ru/i/XJCBzCEWEE424A]https://disk.yandex.ru/i/XJCBzCEWEE424A[/URL][/TD][/TR][/TABLE]\u043a\u0430\u043f\u0442\u0447\u0438 \u043d\u0435\u0442\u0443 \u00a0\n\n \t\t\t \t\t\t \t\t\t\t\t\t\t\t\u043f\u0440\u043e\u0432\u0435\u0440\u043a\u0430 \u043d\u0435 \u0441\u0440\u0430\u0431\u043e\u0442\u0430\u043b\u0430.wmv \t\t\t\t\t\t\t\t\t\t\u041f\u043e\u0441\u043c\u043e\u0442\u0440\u0435\u0442\u044c \u0438 \u0441\u043a\u0430\u0447\u0430\u0442\u044c \u0441 \u042f\u043d\u0434\u0435\u043a\u0441.\u0414\u0438\u0441\u043a\u0430 \t\t\t\t\t\t \t\t\t \t\t\t\t[URL=https://disk.yandex.ru/i/XJCBzCEWEE424A]\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438[/URL][/QUOTE]\n[DISK FILE ID=n60108]\n\u0415\u0441\u0442\u044c \u043f\u0440\u043e\u0431\u043b\u0435\u043c\u0430 - \u043f\u043e\u0432\u0442\u043e\u0440\u0438\u043b \u0437\u0430 \u0432\u0430\u043c\u0438 1 \u043a 1 \u0438 \u0432\u0441\u0435 \u0440\u0430\u0431\u043e\u0430\u0442\u0435\u0442\n\u0421\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043d\u043d\u043e \u043f\u0440\u043e\u0432\u0435\u0440\u044f\u043b \u0438 \u0434\u043e - \u0440\u0430\u0431\u043e\u0442\u0430\u043b\u043e \u0442\u0430\u043a\u0436\u0435 \u043f\u0440\u0435\u043a\u0440\u0430\u0441\u043d\u043e\n\u041a\u0430\u043f\u0447\u0443 \u0441\u044e\u0434\u0430 \u0441\u0442\u0430\u0432\u0438\u0442\u044c \u0431\u043e\u044e\u0441\u044c \u0438\u0437 \u0437\u0430 \u0430\u044f\u043a\u0441\u0430 \u043c\u043e\u0433\u0443\u0442 \u0432\u043e\u0437\u043d\u0438\u043a\u043d\u0443\u0442\u044c \u043f\u0440\u043e\u0431\u043b\u0435\u043c\u043a\u0438 \u043d\u043e \u0449\u0430\u0441 \u043f\u043e\u043f\u0440\u043e\u0431\u0443\u044e",
+    "ATTACHED_OBJECTS": {
+      "27470": {
+        "ATTACHMENT_ID": "27470",
+        "NAME": "image (623).png",
+        "SIZE": "139597",
+        "FILE_ID": "60108",
+        "DOWNLOAD_URL": "/bitrix/tools/disk/uf.php?attachedId=27470&auth%5Baplogin%5D=692&auth%5Bap%5D=3khh3mjylndlq1bs&action=download&ncc=1",
+        "VIEW_URL": "/bitrix/tools/disk/uf.php?attachedId=27470&auth%5Baplogin%5D=692&auth%5Bap%5D=3khh3mjylndlq1bs&action=show&ncc=1"
+      }
+    }
+  },
+  {
+    "POST_MESSAGE_HTML": null,
+    "ID": "23552",
+    "AUTHOR_ID": "176",
+    "AUTHOR_NAME": "\u041c\u0438\u0442\u0443\u0441\u043e\u0432 \u041d\u0438\u043a\u0438\u0442\u0430",
+    "AUTHOR_EMAIL": "",
+    "POST_DATE": "2022-08-23T04:59:01+03:00",
+    "POST_MESSAGE": "[QUOTE][USER=8]\u041b\u0418 \u0413\u0435\u043e\u0440\u0433\u0438\u0439 \u0412\u0438\u0441\u0441\u0430\u0440\u0438\u043e\u043d\u043e\u0432\u0438\u0447[/USER] \u043d\u0430\u043f\u0438\u0441\u0430\u043b(\u0430):[TABLE][TR][TD][URL=/company/personal/user/8/]\u041b\u0418 \u0413\u0435\u043e\u0440\u0433\u0438\u0439 \u0412\u0438\u0441\u0441\u0430\u0440\u0438\u043e\u043d\u043e\u0432\u0438\u0447[/URL] \u043d\u0430\u043f\u0438\u0441\u0430\u043b(\u0430):\n\u043d\u0430 \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0430\u0445 \u043a\u0435\u0439\u0441\u043e\u0432 \u043d\u0435\u0442 \u0448\u0430\u043f\u043a\u0438 \u0438 \u0444\u0443\u0442\u0435\u0440\u0430 \u0438 \u043d\u0435\u0442 \u043a\u043d\u043e\u043f\u043a\u0438 &quot;\u0432\u0432\u0435\u0440\u0445&quot;[/TD][/TR][/TABLE]\u0442\u0430\u043a \u0438 \u043d\u0435\u0442[/QUOTE]\n[DISK FILE ID=n60110][DISK FILE ID=n60112]\n\u0415\u0441\u0442\u044c",
+    "ATTACHED_OBJECTS": {
+      "27472": {
+        "ATTACHMENT_ID": "27472",
+        "NAME": "image (624).png",
+        "SIZE": "357573",
+        "FILE_ID": "60110",
+        "DOWNLOAD_URL": "/bitrix/tools/disk/uf.php?attachedId=27472&auth%5Baplogin%5D=692&auth%5Bap%5D=3khh3mjylndlq1bs&action=download&ncc=1",
+        "VIEW_URL": "/bitrix/tools/disk/uf.php?attachedId=27472&auth%5Baplogin%5D=692&auth%5Bap%5D=3khh3mjylndlq1bs&action=show&ncc=1"
+      },
+      "27474": {
+        "ATTACHMENT_ID": "27474",
+        "NAME": "image (625).png",
+        "SIZE": "361287",
+        "FILE_ID": "60112",
+        "DOWNLOAD_URL": "/bitrix/tools/disk/uf.php?attachedId=27474&auth%5Baplogin%5D=692&auth%5Bap%5D=3khh3mjylndlq1bs&action=download&ncc=1",
+        "VIEW_URL": "/bitrix/tools/disk/uf.php?attachedId=27474&auth%5Baplogin%5D=692&auth%5Bap%5D=3khh3mjylndlq1bs&action=show&ncc=1"
+      }
+    }
+  },
+  {
+    "POST_MESSAGE_HTML": null,
+    "ID": "23554",
+    "AUTHOR_ID": "176",
+    "AUTHOR_NAME": "\u041c\u0438\u0442\u0443\u0441\u043e\u0432 \u041d\u0438\u043a\u0438\u0442\u0430",
+    "AUTHOR_EMAIL": "",
+    "POST_DATE": "2022-08-23T05:00:28+03:00",
+    "POST_MESSAGE": "[QUOTE][USER=8]\u041b\u0418 \u0413\u0435\u043e\u0440\u0433\u0438\u0439 \u0412\u0438\u0441\u0441\u0430\u0440\u0438\u043e\u043d\u043e\u0432\u0438\u0447[/USER] \u043d\u0430\u043f\u0438\u0441\u0430\u043b(\u0430):[TABLE][TR][TH]\u0426\u0438\u0442\u0430\u0442\u0430[/TH][/TR][TR][TD][URL=/company/personal/user/8/]\u041b\u0418 \u0413\u0435\u043e\u0440\u0433\u0438\u0439 \u0412\u0438\u0441\u0441\u0430\u0440\u0438\u043e\u043d\u043e\u0432\u0438\u0447[/URL] \u043d\u0430\u043f\u0438\u0441\u0430\u043b(\u0430):\n\u0434\u043e\u0431\u0430\u0432\u0438\u0442\u044c \u043b\u043e\u0433\u043e\u0442\u0438\u043f \u0438 \u0438\u0437\u043c\u0435\u043d\u0438\u0442\u044c \u0441\u0441\u044b\u043b\u043a\u0443 , \u0440\u0435\u0434\u0438\u0440\u0435\u043a\u0442[/TD][/TR][/TABLE]\u043b\u043e\u0433\u043e\u0442\u0438\u043f \u0440\u0435\u0434\u0438\u0440\u0435\u043a\u0442[/QUOTE]\n\u042d\u0442\u043e \u0432\u0441\u0435 \u0442\u0430\u043a\u0436\u0435 \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442\n\u0410 \u043b\u043e\u0433\u043e\u0442\u0438\u043f \u044f \u043f\u043e\u043c\u0435\u043d\u044f\u043b \u0430\u0436 \u043d\u0430 \u043f\u043d\u0433 \u0438 \u0432\u0435\u0448\u0430\u0435\u0442 \u043e\u043d \u043d\u0435\u0441\u043a\u043e\u043b\u044c\u043a\u043e \u043a\u0431 - \u043f\u043e\u0447\u0435\u043c\u0443 \u0443 \u0432\u0430\u0441 \u0437\u0430\u0431\u0430\u0433\u0430\u043b\u0430\u0441\u044c \u043a\u0430\u0440\u0442\u0438\u043d\u043a\u0430 \u044f \u043d\u0435 \u043f\u043e\u043d\u0438\u043c\u0430\u044e[DISK FILE ID=n60114]",
+    "ATTACHED_OBJECTS": {
+      "27476": {
+        "ATTACHMENT_ID": "27476",
+        "NAME": "image (626).png",
+        "SIZE": "479933",
+        "FILE_ID": "60114",
+        "DOWNLOAD_URL": "/bitrix/tools/disk/uf.php?attachedId=27476&auth%5Baplogin%5D=692&auth%5Bap%5D=3khh3mjylndlq1bs&action=download&ncc=1",
+        "VIEW_URL": "/bitrix/tools/disk/uf.php?attachedId=27476&auth%5Baplogin%5D=692&auth%5Bap%5D=3khh3mjylndlq1bs&action=show&ncc=1"
+      }
+    }
+  },
+  {
+    "POST_MESSAGE_HTML": null,
+    "ID": "23564",
+    "AUTHOR_ID": "8",
+    "AUTHOR_NAME": "\u0413\u0435\u043e\u0440\u0433\u0438\u0439 \u041b\u0418",
+    "AUTHOR_EMAIL": "",
+    "POST_DATE": "2022-08-23T11:06:31+03:00",
+    "POST_MESSAGE": "\u041f\u0440\u043e\u0435\u043a\u0442 \u0437\u0430\u0434\u0430\u0447\u0438 \u0438\u0437\u043c\u0435\u043d\u0435\u043d \u043d\u0430: [URL=/workgroups/group/10/]\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u0441\u0430\u0439\u0442\u0430[/URL]"
+  },
+  {
+    "POST_MESSAGE_HTML": null,
+    "ID": "23566",
+    "AUTHOR_ID": "8",
+    "AUTHOR_NAME": "\u041b\u0418 \u0413\u0435\u043e\u0440\u0433\u0438\u0439 \u0412\u0438\u0441\u0441\u0430\u0440\u0438\u043e\u043d\u043e\u0432\u0438\u0447",
+    "AUTHOR_EMAIL": "",
+    "POST_DATE": "2022-08-23T11:47:11+03:00",
+    "POST_MESSAGE": "[QUOTE][USER=176]\u041c\u0438\u0442\u0443\u0441\u043e\u0432 \u041d\u0438\u043a\u0438\u0442\u0430[/USER] \u043d\u0430\u043f\u0438\u0441\u0430\u043b(\u0430):\n\u043d\u0430 \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0430\u0445 \u043a\u0435\u0439\u0441\u043e\u0432 \u043d\u0435\u0442 \u0448\u0430\u043f\u043a\u0438 \u0438 \u0444\u0443\u0442\u0435\u0440\u0430 \u0438 \u043d\u0435\u0442 \u043a\u043d\u043e\u043f\u043a\u0438 &quot;\u0432\u0432\u0435\u0440\u0445&quot;[/QUOTE]\n\u0444\u0443\u0442\u0435\u0440\u0430 \u043d\u0435\u0442"
+  },
+  {
+    "POST_MESSAGE_HTML": null,
+    "ID": "23568",
+    "AUTHOR_ID": "8",
+    "AUTHOR_NAME": "\u041b\u0418 \u0413\u0435\u043e\u0440\u0433\u0438\u0439 \u0412\u0438\u0441\u0441\u0430\u0440\u0438\u043e\u043d\u043e\u0432\u0438\u0447",
+    "AUTHOR_EMAIL": "",
+    "POST_DATE": "2022-08-23T11:48:14+03:00",
+    "POST_MESSAGE": "[QUOTE][USER=176]\u041c\u0438\u0442\u0443\u0441\u043e\u0432 \u041d\u0438\u043a\u0438\u0442\u0430[/USER] \u043d\u0430\u043f\u0438\u0441\u0430\u043b(\u0430):\n\u0410 \u043b\u043e\u0433\u043e\u0442\u0438\u043f \u044f \u043f\u043e\u043c\u0435\u043d\u044f\u043b \u0430\u0436 \u043d\u0430 \u043f\u043d\u0433 \u0438 \u0432\u0435\u0448\u0430\u0435\u0442 \u043e\u043d \u043d\u0435\u0441\u043a\u043e\u043b\u044c\u043a\u043e \u043a\u0431 - \u043f\u043e\u0447\u0435\u043c\u0443 \u0443 \u0432\u0430\u0441 \u0437\u0430\u0431\u0430\u0433\u0430\u043b\u0430\u0441\u044c \u043a\u0430\u0440\u0442\u0438\u043d\u043a\u0430 \u044f \u043d\u0435 \u043f\u043e\u043d\u0438\u043c\u0430[/QUOTE]\n[DISK FILE ID=n60132]\n\n\u0442\u0443\u0442 \u043b\u043e\u0433\u043e\u0442\u0438\u043f\u0430 \u043d\u0435\u0442",
+    "ATTACHED_OBJECTS": {
+      "27480": {
+        "ATTACHMENT_ID": "27480",
+        "NAME": "image (712).png",
+        "SIZE": "10825",
+        "FILE_ID": "60132",
+        "DOWNLOAD_URL": "/bitrix/tools/disk/uf.php?attachedId=27480&auth%5Baplogin%5D=692&auth%5Bap%5D=3khh3mjylndlq1bs&action=download&ncc=1",
+        "VIEW_URL": "/bitrix/tools/disk/uf.php?attachedId=27480&auth%5Baplogin%5D=692&auth%5Bap%5D=3khh3mjylndlq1bs&action=show&ncc=1"
+      }
+    }
+  },
+  {
+    "POST_MESSAGE_HTML": null,
+    "ID": "23570",
+    "AUTHOR_ID": "8",
+    "AUTHOR_NAME": "\u041b\u0418 \u0413\u0435\u043e\u0440\u0433\u0438\u0439 \u0412\u0438\u0441\u0441\u0430\u0440\u0438\u043e\u043d\u043e\u0432\u0438\u0447",
+    "AUTHOR_EMAIL": "",
+    "POST_DATE": "2022-08-23T11:49:12+03:00",
+    "POST_MESSAGE": "[DISK FILE ID=n60134]\n\n\u0441\u0441\u044b\u043b\u043a\u0430 \u043f\u0440\u044f\u043c\u0430\u044f, \u044d\u0442\u043e \u043f\u043b\u043e\u0445\u043e \u0434\u043b\u044f seo. \u0415\u0441\u043b\u0438 \u043d\u0435 \u0437\u043d\u0430\u0435\u0442\u0435 \u043a\u0430\u043a \u0441\u0434\u0435\u043b\u0430\u0442\u044c \u0440\u0435\u0434\u0438\u0440\u0435\u043a\u0442, \u0441\u043f\u0440\u043e\u0441\u0438\u0442\u0435 \u0443 \u0422\u0438\u043c\u0443\u0440\u0430",
+    "ATTACHED_OBJECTS": {
+      "27482": {
+        "ATTACHMENT_ID": "27482",
+        "NAME": "image (713).png",
+        "SIZE": "55502",
+        "FILE_ID": "60134",
+        "DOWNLOAD_URL": "/bitrix/tools/disk/uf.php?attachedId=27482&auth%5Baplogin%5D=692&auth%5Bap%5D=3khh3mjylndlq1bs&action=download&ncc=1",
+        "VIEW_URL": "/bitrix/tools/disk/uf.php?attachedId=27482&auth%5Baplogin%5D=692&auth%5Bap%5D=3khh3mjylndlq1bs&action=show&ncc=1"
+      }
+    }
+  },
+  {
+    "POST_MESSAGE_HTML": null,
+    "ID": "23574",
+    "AUTHOR_ID": "8",
+    "AUTHOR_NAME": "\u041b\u0418 \u0413\u0435\u043e\u0440\u0433\u0438\u0439 \u0412\u0438\u0441\u0441\u0430\u0440\u0438\u043e\u043d\u043e\u0432\u0438\u0447",
+    "AUTHOR_EMAIL": "",
+    "POST_DATE": "2022-08-23T15:54:45+03:00",
+    "POST_MESSAGE": "\u0432\u0435\u0440\u0441\u0442\u043a\u0430 \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u0443\u044e\u0449\u0438\u0445 \u0441\u0442\u0440\u0430\u043d\u0438\u0446\n\n[URL=https://disk.yandex.ru/i/844NUarSfLF4LQ]https://disk.yandex.ru/i/844NUarSfLF4LQ[/URL]"
+  },
+  {
+    "POST_MESSAGE_HTML": null,
+    "ID": "24146",
+    "AUTHOR_ID": "8",
+    "AUTHOR_NAME": "\u041b\u0418 \u0413\u0435\u043e\u0440\u0433\u0438\u0439 \u0412\u0438\u0441\u0441\u0430\u0440\u0438\u043e\u043d\u043e\u0432\u0438\u0447",
+    "AUTHOR_EMAIL": "",
+    "POST_DATE": "2022-09-05T14:56:03+03:00",
+    "POST_MESSAGE": "[DISK FILE ID=n60916]\n\n\u0441\u043a\u043e\u0440\u043e\u0441\u0442\u044c \u043d\u0435 \u0443\u043b\u0443\u0447\u0448\u0438\u043b\u0430\u0441\u044c",
+    "ATTACHED_OBJECTS": {
+      "27800": {
+        "ATTACHMENT_ID": "27800",
+        "NAME": "image (740).png",
+        "SIZE": "53794",
+        "FILE_ID": "60916",
+        "DOWNLOAD_URL": "/bitrix/tools/disk/uf.php?attachedId=27800&auth%5Baplogin%5D=692&auth%5Bap%5D=3khh3mjylndlq1bs&action=download&ncc=1",
+        "VIEW_URL": "/bitrix/tools/disk/uf.php?attachedId=27800&auth%5Baplogin%5D=692&auth%5Bap%5D=3khh3mjylndlq1bs&action=show&ncc=1"
+      }
+    }
+  },
+  {
+    "POST_MESSAGE_HTML": null,
+    "ID": "24148",
+    "AUTHOR_ID": "8",
+    "AUTHOR_NAME": "\u041b\u0418 \u0413\u0435\u043e\u0440\u0433\u0438\u0439 \u0412\u0438\u0441\u0441\u0430\u0440\u0438\u043e\u043d\u043e\u0432\u0438\u0447",
+    "AUTHOR_EMAIL": "",
+    "POST_DATE": "2022-09-05T14:58:05+03:00",
+    "POST_MESSAGE": "[QUOTE][USER=8]\u041b\u0418 \u0413\u0435\u043e\u0440\u0433\u0438\u0439 \u0412\u0438\u0441\u0441\u0430\u0440\u0438\u043e\u043d\u043e\u0432\u0438\u0447[/USER] \u043d\u0430\u043f\u0438\u0441\u0430\u043b(\u0430):\n\u043f\u0440\u043e\u043f\u0430\u0434\u0430\u0435\u0442 \u043a\u043d\u043e\u043f\u043a\u0430 \u0432\u0432\u0435\u0440\u0445.wmv[/QUOTE]\n\u043f\u0440\u043e\u043f\u0430\u0434\u0430\u0435\u0442 \u043a\u043d\u043e\u043f\u043a\u0430 \u0432\u0432\u0435\u0440\u0445\n\n\u0442\u0430\u043a \u0438 \u043f\u0440\u043e\u043f\u0430\u0434\u0430\u0435\u0442"
+  },
+  {
+    "POST_MESSAGE_HTML": null,
+    "ID": "25654",
+    "AUTHOR_ID": "8",
+    "AUTHOR_NAME": "\u0413\u0435\u043e\u0440\u0433\u0438\u0439 \u041b\u0418",
+    "AUTHOR_EMAIL": "",
+    "POST_DATE": "2022-10-21T13:22:18+03:00",
+    "POST_MESSAGE": "\u0417\u0430\u0434\u0430\u0447\u0430 \u0437\u0430\u0432\u0435\u0440\u0448\u0435\u043d\u0430."
+  }
+]

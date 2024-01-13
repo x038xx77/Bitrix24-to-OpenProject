@@ -1,0 +1,125 @@
+[
+  {
+    "POST_MESSAGE_HTML": null,
+    "ID": "3720",
+    "AUTHOR_ID": "8",
+    "AUTHOR_NAME": "\u041b\u0418 \u0413\u0435\u043e\u0440\u0433\u0438\u0439",
+    "AUTHOR_EMAIL": "",
+    "POST_DATE": "2021-07-01T11:28:52+03:00",
+    "POST_MESSAGE": "\u0412\u043e\u0442 \u0442\u0430\u043a \u0437\u0430\u043f\u043b\u0430\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u0430 \u0441\u0443\u043c\u043c\u0430 40572 \u043d\u0430 \u0441\u043e\u043f\u0440\u043e\u0432\u043e\u0436\u0434\u0435\u043d\u0438\u0435 \u0438\u0442\u0441",
+    "ATTACHED_OBJECTS": {
+      "15276": {
+        "ATTACHMENT_ID": "15276",
+        "NAME": "WhatsApp Image 2021-07-01 at 11.23.28.jpeg",
+        "SIZE": "141798",
+        "FILE_ID": "32732",
+        "DOWNLOAD_URL": "/bitrix/tools/disk/uf.php?attachedId=15276&auth%5Baplogin%5D=692&auth%5Bap%5D=xf4ouacgiudut942&action=download&ncc=1",
+        "VIEW_URL": "/bitrix/tools/disk/uf.php?attachedId=15276&auth%5Baplogin%5D=692&auth%5Bap%5D=xf4ouacgiudut942&action=show&ncc=1"
+      }
+    }
+  },
+  {
+    "POST_MESSAGE_HTML": null,
+    "ID": "3722",
+    "AUTHOR_ID": "8",
+    "AUTHOR_NAME": "\u041b\u0418 \u0413\u0435\u043e\u0440\u0433\u0438\u0439",
+    "AUTHOR_EMAIL": "",
+    "POST_DATE": "2021-07-01T11:29:51+03:00",
+    "POST_MESSAGE": "3 \u041a\u041f \u043e\u0442 \u0440\u0430\u0437\u043d\u044b\u0445 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0439"
+  },
+  {
+    "POST_MESSAGE_HTML": null,
+    "ID": "4272",
+    "AUTHOR_ID": "8",
+    "AUTHOR_NAME": "\u041b\u0418 \u0413\u0435\u043e\u0440\u0433\u0438\u0439 \u0412\u0438\u0441\u0441\u0430\u0440\u0438\u043e\u043d\u043e\u0432\u0438\u0447",
+    "AUTHOR_EMAIL": "",
+    "POST_DATE": "2021-07-07T23:39:12+03:00",
+    "POST_MESSAGE": "\u041a\u041f",
+    "ATTACHED_OBJECTS": {
+      "16018": {
+        "ATTACHMENT_ID": "16018",
+        "NAME": "\u041a\u041f \u0421\u043e\u043b\u043e \u0418\u0422\u0421.docx",
+        "SIZE": "217956",
+        "FILE_ID": "34424",
+        "DOWNLOAD_URL": "/bitrix/tools/disk/uf.php?attachedId=16018&auth%5Baplogin%5D=692&auth%5Bap%5D=xf4ouacgiudut942&action=download&ncc=1",
+        "VIEW_URL": "/bitrix/tools/disk/uf.php?attachedId=16018&auth%5Baplogin%5D=692&auth%5Bap%5D=xf4ouacgiudut942&action=show&ncc=1"
+      },
+      "16020": {
+        "ATTACHMENT_ID": "16020",
+        "NAME": "\u041a\u041f \u0418\u0422\u0421 \u0418\u0422\u0421.doc",
+        "SIZE": "202240",
+        "FILE_ID": "34428",
+        "DOWNLOAD_URL": "/bitrix/tools/disk/uf.php?attachedId=16020&auth%5Baplogin%5D=692&auth%5Bap%5D=xf4ouacgiudut942&action=download&ncc=1",
+        "VIEW_URL": "/bitrix/tools/disk/uf.php?attachedId=16020&auth%5Baplogin%5D=692&auth%5Bap%5D=xf4ouacgiudut942&action=show&ncc=1"
+      },
+      "16022": {
+        "ATTACHMENT_ID": "16022",
+        "NAME": "\u041a\u041f \u0410\u0410 - \u0418\u0422\u0421.docx",
+        "SIZE": "379734",
+        "FILE_ID": "34430",
+        "DOWNLOAD_URL": "/bitrix/tools/disk/uf.php?attachedId=16022&auth%5Baplogin%5D=692&auth%5Bap%5D=xf4ouacgiudut942&action=download&ncc=1",
+        "VIEW_URL": "/bitrix/tools/disk/uf.php?attachedId=16022&auth%5Baplogin%5D=692&auth%5Bap%5D=xf4ouacgiudut942&action=show&ncc=1"
+      },
+      "16024": {
+        "ATTACHMENT_ID": "16024",
+        "NAME": "\u041a\u041f \u0418\u0422\u0421 \u0418\u0422\u0421.pdf",
+        "SIZE": "1535891",
+        "FILE_ID": "34432",
+        "DOWNLOAD_URL": "/bitrix/tools/disk/uf.php?attachedId=16024&auth%5Baplogin%5D=692&auth%5Bap%5D=xf4ouacgiudut942&action=download&ncc=1",
+        "VIEW_URL": "/bitrix/tools/disk/uf.php?attachedId=16024&auth%5Baplogin%5D=692&auth%5Bap%5D=xf4ouacgiudut942&action=show&ncc=1"
+      },
+      "16026": {
+        "ATTACHMENT_ID": "16026",
+        "NAME": "\u041a\u041f \u0410\u0410 - \u0418\u0422\u0421.pdf",
+        "SIZE": "672063",
+        "FILE_ID": "34434",
+        "DOWNLOAD_URL": "/bitrix/tools/disk/uf.php?attachedId=16026&auth%5Baplogin%5D=692&auth%5Bap%5D=xf4ouacgiudut942&action=download&ncc=1",
+        "VIEW_URL": "/bitrix/tools/disk/uf.php?attachedId=16026&auth%5Baplogin%5D=692&auth%5Bap%5D=xf4ouacgiudut942&action=show&ncc=1"
+      },
+      "16028": {
+        "ATTACHMENT_ID": "16028",
+        "NAME": "\u041a\u041f \u0421\u043e\u043b\u043e \u0418\u0422\u0421.pdf",
+        "SIZE": "520071",
+        "FILE_ID": "34436",
+        "DOWNLOAD_URL": "/bitrix/tools/disk/uf.php?attachedId=16028&auth%5Baplogin%5D=692&auth%5Bap%5D=xf4ouacgiudut942&action=download&ncc=1",
+        "VIEW_URL": "/bitrix/tools/disk/uf.php?attachedId=16028&auth%5Baplogin%5D=692&auth%5Bap%5D=xf4ouacgiudut942&action=show&ncc=1"
+      }
+    }
+  },
+  {
+    "POST_MESSAGE_HTML": null,
+    "ID": "4274",
+    "AUTHOR_ID": "8",
+    "AUTHOR_NAME": "\u0413\u0435\u043e\u0440\u0433\u0438\u0439 \u041b\u0418",
+    "AUTHOR_EMAIL": "",
+    "POST_DATE": "2021-07-07T23:39:18+03:00",
+    "POST_MESSAGE": "\u041a\u0440\u0430\u0439\u043d\u0438\u0439 \u0441\u0440\u043e\u043a \u0438\u0437\u043c\u0435\u043d\u0435\u043d \u043d\u0430: 8 \u0438\u044e\u043b\u044f, 18:00"
+  },
+  {
+    "POST_MESSAGE_HTML": null,
+    "ID": "4364",
+    "AUTHOR_ID": "8",
+    "AUTHOR_NAME": "\u0413\u0435\u043e\u0440\u0433\u0438\u0439 \u041b\u0418",
+    "AUTHOR_EMAIL": "",
+    "POST_DATE": "2021-07-08T18:00:11+03:00",
+    "POST_MESSAGE": "\u0417\u0430\u0434\u0430\u0447\u0430 \u043f\u0440\u043e\u0441\u0440\u043e\u0447\u0435\u043d\u0430.\n\u0417\u0430\u0432\u0435\u0440\u0448\u0438\u0442\u0435 \u0437\u0430\u0434\u0430\u0447\u0443 \u0438\u043b\u0438 \u043f\u0435\u0440\u0435\u0434\u0432\u0438\u043d\u044c\u0442\u0435 \u0441\u0440\u043e\u043a."
+  },
+  {
+    "POST_MESSAGE_HTML": null,
+    "ID": "4452",
+    "AUTHOR_ID": "8",
+    "AUTHOR_NAME": "\u0413\u0435\u043e\u0440\u0433\u0438\u0439 \u041b\u0418",
+    "AUTHOR_EMAIL": "",
+    "POST_DATE": "2021-07-09T10:56:40+03:00",
+    "POST_MESSAGE": "\u0417\u0430\u0434\u0430\u0447\u0430 \u0437\u0430\u0432\u0435\u0440\u0448\u0435\u043d\u0430."
+  },
+  {
+    "POST_MESSAGE_HTML": null,
+    "ID": "21566",
+    "AUTHOR_ID": "8",
+    "AUTHOR_NAME": "\u0413\u0435\u043e\u0440\u0433\u0438\u0439 \u041b\u0418",
+    "AUTHOR_EMAIL": "",
+    "POST_DATE": "2022-07-01T18:23:14+03:00",
+    "POST_MESSAGE": "\u041f\u0440\u043e\u0435\u043a\u0442 \u0437\u0430\u0434\u0430\u0447\u0438 \u0438\u0437\u043c\u0435\u043d\u0435\u043d \u043d\u0430: [URL=/workgroups/group/48/]\u0411\u0440\u043e\u043d\u043d\u0438\u0446\u044b \u0413\u0423\u041e\u0420[/URL]"
+  }
+]

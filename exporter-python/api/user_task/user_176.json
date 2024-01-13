@@ -1,0 +1,32 @@
+[
+  {
+    "ID": "176",
+    "XML_ID": "32686152",
+    "ACTIVE": true,
+    "NAME": "\u041d\u0438\u043a\u0438\u0442\u0430",
+    "LAST_NAME": "\u041c\u0438\u0442\u0443\u0441\u043e\u0432",
+    "SECOND_NAME": "",
+    "EMAIL": "",
+    "LAST_LOGIN": "2023-08-21T12:58:34+03:00",
+    "DATE_REGISTER": "2021-09-15T03:00:00+03:00",
+    "TIME_ZONE": "",
+    "IS_ONLINE": "N",
+    "TIME_ZONE_OFFSET": "14400",
+    "TIMESTAMP_X": {},
+    "LAST_ACTIVITY_DATE": {},
+    "PERSONAL_GENDER": "",
+    "PERSONAL_WWW": "",
+    "PERSONAL_BIRTHDAY": "",
+    "PERSONAL_PHOTO": "https://cdn-ru.bitrix24.ru/b16898606/main/5a6/5a61b0e5dc5ef7b170f0a2c4437a0db1/Screenshot_6.png",
+    "PERSONAL_MOBILE": "+7 914 141 0194",
+    "PERSONAL_CITY": "",
+    "WORK_PHONE": "",
+    "WORK_POSITION": "",
+    "UF_EMPLOYMENT_DATE": "",
+    "UF_DEPARTMENT": [
+      540
+    ],
+    "UF_USR_1616085080886": [],
+    "USER_TYPE": "employee"
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "POST_MESSAGE_HTML": null,
+    "ID": "202",
+    "AUTHOR_ID": "1",
+    "AUTHOR_NAME": "ADMIN",
+    "AUTHOR_EMAIL": "",
+    "POST_DATE": "2021-03-01T19:48:56+03:00",
+    "POST_MESSAGE": "[USER=6]\u0428\u0430\u043c\u0438\u043b\u044c \u0428\u0430\u043a\u0438\u0440\u043e\u0432[/USER], \u0432\u044b \u043d\u0430\u0437\u043d\u0430\u0447\u0435\u043d\u044b \u0441\u043e\u0438\u0441\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u0435\u043c."
+  },
+  {
+    "POST_MESSAGE_HTML": null,
+    "ID": "236",
+    "AUTHOR_ID": "6",
+    "AUTHOR_NAME": "\u0428\u0430\u043c\u0438\u043b\u044c \u0428\u0430\u043a\u0438\u0440\u043e\u0432",
+    "AUTHOR_EMAIL": "",
+    "POST_DATE": "2021-03-01T19:57:21+03:00",
+    "POST_MESSAGE": "\u0434\u043e\u0431\u0430\u0432\u043b\u0435\u043d\u044b \u0441\u043e\u0442\u0440\u0443\u0434\u043d\u0438\u043a\u0438\n[URL=mailto:tokarevae@a-link-a.ru]tokarevae@a-link-a.ru[/URL]\n[URL=mailto:kraynevm@a-link-a.ru]kraynevm@a-link-a.ru[/URL]\n[URL=mailto:spleshkaneva@a-link-a.ru]spleshkaneva@a-link-a.ru[/URL]\n[URL=mailto:loginovr@a-link-a.ru]loginovr@a-link-a.ru[/URL]\n[URL=mailto:buhgalter2@a-link-a.ru]buhgalter2@a-link-a.ru[/URL]\n[DISK FILE ID=n200]\u00a0",
+    "ATTACHED_OBJECTS": {
+      "8": {
+        "ATTACHMENT_ID": "8",
+        "NAME": "image (1).png",
+        "SIZE": "556363",
+        "FILE_ID": "200",
+        "DOWNLOAD_URL": "/bitrix/tools/disk/uf.php?attachedId=8&auth%5Baplogin%5D=692&auth%5Bap%5D=xf4ouacgiudut942&action=download&ncc=1",
+        "VIEW_URL": "/bitrix/tools/disk/uf.php?attachedId=8&auth%5Baplogin%5D=692&auth%5Bap%5D=xf4ouacgiudut942&action=show&ncc=1"
+      }
+    }
+  },
+  {
+    "POST_MESSAGE_HTML": null,
+    "ID": "784",
+    "AUTHOR_ID": "6",
+    "AUTHOR_NAME": "\u0428\u0430\u043c\u0438\u043b\u044c \u0428\u0430\u043a\u0438\u0440\u043e\u0432",
+    "AUTHOR_EMAIL": "",
+    "POST_DATE": "2021-03-16T12:08:11+03:00",
+    "POST_MESSAGE": "\u0417\u0430\u0434\u0430\u0447\u0430 \u0437\u0430\u0432\u0435\u0440\u0448\u0435\u043d\u0430."
+  }
+]

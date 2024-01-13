@@ -1,0 +1,25 @@
+[
+  {
+    "ID": "610",
+    "XML_ID": "51361714",
+    "ACTIVE": true,
+    "NAME": "\u041d\u0430\u0442\u0430\u043b\u044c\u044f",
+    "LAST_NAME": "\u041a\u043e\u0432\u0430\u043b\u0435\u0432\u0430",
+    "EMAIL": "Natakov12345@mail.ru",
+    "LAST_LOGIN": "2023-12-26T00:03:25+03:00",
+    "DATE_REGISTER": "2023-07-10T03:00:00+03:00",
+    "IS_ONLINE": "N",
+    "TIME_ZONE_OFFSET": "0",
+    "TIMESTAMP_X": {},
+    "LAST_ACTIVITY_DATE": {},
+    "PERSONAL_GENDER": "",
+    "PERSONAL_BIRTHDAY": "",
+    "PERSONAL_PHOTO": "https://cdn-ru.bitrix24.ru/b16898606/main/700/7003bdf2a09ef011de9cf523007e5dbf/photo_2020-10-01_01-48-47.jpg.png",
+    "UF_EMPLOYMENT_DATE": "",
+    "UF_DEPARTMENT": [
+      18
+    ],
+    "UF_USR_1616085080886": false,
+    "USER_TYPE": "employee"
+  }
+]

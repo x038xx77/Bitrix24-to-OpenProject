@@ -1,0 +1,26 @@
+[
+  {
+    "ID": "1",
+    "XML_ID": "34597186",
+    "ACTIVE": true,
+    "NAME": "ADMIN",
+    "LAST_NAME": "",
+    "EMAIL": "info@a-link-a.ru",
+    "LAST_LOGIN": "2023-02-02T14:13:32+03:00",
+    "DATE_REGISTER": "2021-02-25T03:00:00+03:00",
+    "IS_ONLINE": "N",
+    "TIME_ZONE_OFFSET": "0",
+    "TIMESTAMP_X": {},
+    "LAST_ACTIVITY_DATE": {},
+    "PERSONAL_GENDER": "",
+    "PERSONAL_BIRTHDAY": "",
+    "PERSONAL_PHOTO": "https://cdn-ru.bitrix24.ru/b16898606/main/4da/4dac9df4128a95ee52ccad4c121137e7/uslugi-head.png",
+    "UF_EMPLOYMENT_DATE": "",
+    "UF_DEPARTMENT": [
+      1
+    ],
+    "UF_PHONE_INNER": "100",
+    "UF_USR_1616085080886": false,
+    "USER_TYPE": "employee"
+  }
+]

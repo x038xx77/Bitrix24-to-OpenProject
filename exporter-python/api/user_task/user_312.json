@@ -1,0 +1,33 @@
+[
+  {
+    "ID": "312",
+    "XML_ID": "41738854",
+    "ACTIVE": true,
+    "NAME": "\u041c\u0430\u0442\u0432\u0435\u0439",
+    "LAST_NAME": "\u041a\u0443\u0448\u043d\u0438\u0440",
+    "SECOND_NAME": "\u041f\u0435\u0442\u0440\u043e\u0432\u0438\u0447",
+    "EMAIL": "kushnir_m@list.ru",
+    "LAST_LOGIN": "2023-12-24T09:52:55+03:00",
+    "DATE_REGISTER": "2022-03-30T03:00:00+03:00",
+    "TIME_ZONE": "",
+    "IS_ONLINE": "N",
+    "TIME_ZONE_OFFSET": "0",
+    "TIMESTAMP_X": {},
+    "LAST_ACTIVITY_DATE": {},
+    "PERSONAL_GENDER": "M",
+    "PERSONAL_WWW": "",
+    "PERSONAL_BIRTHDAY": "1976-05-23T03:00:00+03:00",
+    "PERSONAL_PHOTO": "https://cdn-ru.bitrix24.ru/b16898606/main/0c5/0c5b43d697ca6f76e7dc78051e22f471/Screenshot_2.png",
+    "PERSONAL_MOBILE": "79513300996",
+    "PERSONAL_CITY": "\u041a\u0443\u0440\u0441\u043a",
+    "WORK_PHONE": "",
+    "WORK_POSITION": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442 1\u0421",
+    "UF_EMPLOYMENT_DATE": "",
+    "UF_DEPARTMENT": [
+      534
+    ],
+    "UF_PHONE_INNER": "201",
+    "UF_USR_1616085080886": [],
+    "USER_TYPE": "employee"
+  }
+]

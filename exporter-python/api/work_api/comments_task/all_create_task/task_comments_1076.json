@@ -1,0 +1,39 @@
+[
+  {
+    "POST_MESSAGE_HTML": null,
+    "ID": "5154",
+    "AUTHOR_ID": "8",
+    "AUTHOR_NAME": "\u041b\u0418 \u0413\u0435\u043e\u0440\u0433\u0438\u0439 \u0412\u0438\u0441\u0441\u0430\u0440\u0438\u043e\u043d\u043e\u0432\u0438\u0447",
+    "AUTHOR_EMAIL": "",
+    "POST_DATE": "2021-07-18T10:36:15+03:00",
+    "POST_MESSAGE": "\u0440\u0430\u0441\u0447\u0435\u0442",
+    "ATTACHED_OBJECTS": {
+      "17224": {
+        "ATTACHMENT_ID": "17224",
+        "NAME": "\u0420\u0430\u0431\u043e\u0442\u044b \u043f\u043e \u043e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044e \u0420\u0435\u043c\u043a\u0440\u0435\u043f (1).xlsx",
+        "SIZE": "10407",
+        "FILE_ID": "36888",
+        "DOWNLOAD_URL": "/bitrix/tools/disk/uf.php?attachedId=17224&auth%5Baplogin%5D=692&auth%5Bap%5D=3khh3mjylndlq1bs&action=download&ncc=1",
+        "VIEW_URL": "/bitrix/tools/disk/uf.php?attachedId=17224&auth%5Baplogin%5D=692&auth%5Bap%5D=3khh3mjylndlq1bs&action=show&ncc=1"
+      }
+    }
+  },
+  {
+    "POST_MESSAGE_HTML": null,
+    "ID": "5156",
+    "AUTHOR_ID": "8",
+    "AUTHOR_NAME": "\u0413\u0435\u043e\u0440\u0433\u0438\u0439 \u041b\u0418",
+    "AUTHOR_EMAIL": "",
+    "POST_DATE": "2021-07-18T11:18:01+03:00",
+    "POST_MESSAGE": "\u0417\u0430\u0434\u0430\u0447\u0430 \u0437\u0430\u0432\u0435\u0440\u0448\u0435\u043d\u0430."
+  },
+  {
+    "POST_MESSAGE_HTML": null,
+    "ID": "21174",
+    "AUTHOR_ID": "8",
+    "AUTHOR_NAME": "\u0413\u0435\u043e\u0440\u0433\u0438\u0439 \u041b\u0418",
+    "AUTHOR_EMAIL": "",
+    "POST_DATE": "2022-07-01T16:38:16+03:00",
+    "POST_MESSAGE": "\u041f\u0440\u043e\u0435\u043a\u0442 \u0437\u0430\u0434\u0430\u0447\u0438 \u0438\u0437\u043c\u0435\u043d\u0435\u043d \u043d\u0430: [URL=/workgroups/group/64/]\u0420\u0415\u041c\u041a\u0420\u0415\u041f[/URL]"
+  }
+]

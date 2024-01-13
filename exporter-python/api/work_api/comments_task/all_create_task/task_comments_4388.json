@@ -1,0 +1,76 @@
+[
+  {
+    "POST_MESSAGE_HTML": null,
+    "ID": "32610",
+    "AUTHOR_ID": "8",
+    "AUTHOR_NAME": "\u0413\u0435\u043e\u0440\u0433\u0438\u0439 \u041b\u0418",
+    "AUTHOR_EMAIL": "",
+    "POST_DATE": "2023-06-29T18:03:25+03:00",
+    "POST_MESSAGE": "\u0417\u0430\u0434\u0430\u0447\u0430 \u043f\u043e\u0447\u0442\u0438 \u043f\u0440\u043e\u0441\u0440\u043e\u0447\u0435\u043d\u0430.\n\u0417\u0430\u0432\u0435\u0440\u0448\u0438\u0442\u0435 \u0437\u0430\u0434\u0430\u0447\u0443 \u0438\u043b\u0438 \u043f\u0435\u0440\u0435\u0434\u0432\u0438\u043d\u044c\u0442\u0435 \u0441\u0440\u043e\u043a."
+  },
+  {
+    "POST_MESSAGE_HTML": null,
+    "ID": "32626",
+    "AUTHOR_ID": "8",
+    "AUTHOR_NAME": "\u0413\u0435\u043e\u0440\u0433\u0438\u0439 \u041b\u0418",
+    "AUTHOR_EMAIL": "",
+    "POST_DATE": "2023-06-30T18:00:13+03:00",
+    "POST_MESSAGE": "\u0417\u0430\u0434\u0430\u0447\u0430 \u043f\u0440\u043e\u0441\u0440\u043e\u0447\u0435\u043d\u0430.\n\u0417\u0430\u0432\u0435\u0440\u0448\u0438\u0442\u0435 \u0437\u0430\u0434\u0430\u0447\u0443 \u0438\u043b\u0438 \u043f\u0435\u0440\u0435\u0434\u0432\u0438\u043d\u044c\u0442\u0435 \u0441\u0440\u043e\u043a."
+  },
+  {
+    "POST_MESSAGE_HTML": null,
+    "ID": "34612",
+    "AUTHOR_ID": "8",
+    "AUTHOR_NAME": "\u0413\u0435\u043e\u0440\u0433\u0438\u0439 \u041b\u0418",
+    "AUTHOR_EMAIL": "",
+    "POST_DATE": "2023-09-20T14:44:10+03:00",
+    "POST_MESSAGE": "[USER=610]\u041a\u043e\u0432\u0430\u043b\u0435\u0432\u0430 \u041d\u0430\u0442\u0430\u043b\u044c\u044f[/USER], \u0432\u044b \u043d\u0430\u0437\u043d\u0430\u0447\u0435\u043d\u044b \u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u043c.\n[USER=8]\u041b\u0418 \u0413\u0435\u043e\u0440\u0433\u0438\u0439 \u0412\u0438\u0441\u0441\u0430\u0440\u0438\u043e\u043d\u043e\u0432\u0438\u0447[/USER], \u0432\u044b \u0434\u043e\u0431\u0430\u0432\u043b\u0435\u043d\u044b \u043d\u0430\u0431\u043b\u044e\u0434\u0430\u0442\u0435\u043b\u0435\u043c."
+  },
+  {
+    "POST_MESSAGE_HTML": null,
+    "ID": "34760",
+    "AUTHOR_ID": "610",
+    "AUTHOR_NAME": "\u041a\u043e\u0432\u0430\u043b\u0435\u0432\u0430 \u041d\u0430\u0442\u0430\u043b\u044c\u044f",
+    "AUTHOR_EMAIL": "",
+    "POST_DATE": "2023-09-25T20:43:50+03:00",
+    "POST_MESSAGE": "\u0412\u0438\u0434\u0435\u043e \u043e\u0442\u0447\u0435\u0442 \u043f\u043e \u0437\u0430\u0434\u0430\u0447\u0435",
+    "ATTACHED_OBJECTS": {
+      "35850": {
+        "ATTACHMENT_ID": "35850",
+        "NAME": "\u0412\u0438\u0434\u0435\u043e_\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u043d\u044b\u0435\u041b\u0438\u0446\u0430\u041f\u043e\u041c\u0435\u043d\u0435\u0434\u0436\u0435\u0440\u0430\u043c.wmv",
+        "SIZE": "3803154",
+        "FILE_ID": "80816",
+        "DOWNLOAD_URL": "/bitrix/tools/disk/uf.php?attachedId=35850&auth%5Baplogin%5D=692&auth%5Bap%5D=3khh3mjylndlq1bs&action=download&ncc=1",
+        "VIEW_URL": "/bitrix/tools/disk/uf.php?attachedId=35850&auth%5Baplogin%5D=692&auth%5Bap%5D=3khh3mjylndlq1bs&action=show&ncc=1"
+      }
+    }
+  },
+  {
+    "POST_MESSAGE_HTML": null,
+    "ID": "34766",
+    "AUTHOR_ID": "610",
+    "AUTHOR_NAME": "\u041a\u043e\u0432\u0430\u043b\u0435\u0432\u0430 \u041d\u0430\u0442\u0430\u043b\u044c\u044f",
+    "AUTHOR_EMAIL": "",
+    "POST_DATE": "2023-09-25T22:12:25+03:00",
+    "POST_MESSAGE": "\u0420\u0430\u0441\u0448\u0438\u0440\u0435\u043d\u0438\u0435",
+    "ATTACHED_OBJECTS": {
+      "35854": {
+        "ATTACHMENT_ID": "35854",
+        "NAME": "\u0420\u0430\u0441\u0448\u0438\u0440\u0435\u043d\u0438\u04352_\u041a\u043e\u043d\u0442\u041b\u0438\u0446\u0430\u041f\u043e\u041c\u0435\u043d\u0435\u0434\u0436\u0435\u0440\u0430\u043c.cfe",
+        "SIZE": "9659",
+        "FILE_ID": "80820",
+        "DOWNLOAD_URL": "/bitrix/tools/disk/uf.php?attachedId=35854&auth%5Baplogin%5D=692&auth%5Bap%5D=3khh3mjylndlq1bs&action=download&ncc=1",
+        "VIEW_URL": "/bitrix/tools/disk/uf.php?attachedId=35854&auth%5Baplogin%5D=692&auth%5Bap%5D=3khh3mjylndlq1bs&action=show&ncc=1"
+      }
+    }
+  },
+  {
+    "POST_MESSAGE_HTML": null,
+    "ID": "34772",
+    "AUTHOR_ID": "8",
+    "AUTHOR_NAME": "\u0413\u0435\u043e\u0440\u0433\u0438\u0439 \u041b\u0418",
+    "AUTHOR_EMAIL": "",
+    "POST_DATE": "2023-09-26T09:30:35+03:00",
+    "POST_MESSAGE": "\u0417\u0430\u0434\u0430\u0447\u0430 \u0437\u0430\u0432\u0435\u0440\u0448\u0435\u043d\u0430."
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "POST_MESSAGE_HTML": null,
+    "ID": "494",
+    "AUTHOR_ID": "6",
+    "AUTHOR_NAME": "\u0428\u0430\u043c\u0438\u043b\u044c \u0428\u0430\u043a\u0438\u0440\u043e\u0432",
+    "AUTHOR_EMAIL": "",
+    "POST_DATE": "2021-03-05T11:24:58+03:00",
+    "POST_MESSAGE": "\u041d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u043e \u0443\u043a\u0430\u0437\u0430\u0442\u044c \u043a\u0440\u0430\u0439\u043d\u0438\u0439 \u0441\u0440\u043e\u043a, \u0438\u043d\u0430\u0447\u0435 \u0437\u0430\u0434\u0430\u0447\u0430 \u043d\u0435 \u0431\u0443\u0434\u0435\u0442 \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0430 \u0432\u043e\u0432\u0440\u0435\u043c\u044f.\n[USER=8]\u041b\u0418 \u0413\u0435\u043e\u0440\u0433\u0438\u0439[/USER], \u0432\u044b \u0434\u043e\u0431\u0430\u0432\u043b\u0435\u043d\u044b \u043d\u0430\u0431\u043b\u044e\u0434\u0430\u0442\u0435\u043b\u0435\u043c."
+  },
+  {
+    "POST_MESSAGE_HTML": null,
+    "ID": "590",
+    "AUTHOR_ID": "6",
+    "AUTHOR_NAME": "\u0428\u0430\u043a\u0438\u0440\u043e\u0432 \u0428\u0430\u043c\u0438\u043b\u044c \u0417\u0438\u043d\u0443\u0440\u043e\u0432\u0438\u0447",
+    "AUTHOR_EMAIL": "",
+    "POST_DATE": "2021-03-09T12:17:17+03:00",
+    "POST_MESSAGE": "[DISK FILE ID=n7964]\u00a0",
+    "ATTACHED_OBJECTS": {
+      "3738": {
+        "ATTACHMENT_ID": "3738",
+        "NAME": "image (3).png",
+        "SIZE": "64797",
+        "FILE_ID": "7964",
+        "DOWNLOAD_URL": "/bitrix/tools/disk/uf.php?attachedId=3738&auth%5Baplogin%5D=692&auth%5Bap%5D=xf4ouacgiudut942&action=download&ncc=1",
+        "VIEW_URL": "/bitrix/tools/disk/uf.php?attachedId=3738&auth%5Baplogin%5D=692&auth%5Bap%5D=xf4ouacgiudut942&action=show&ncc=1"
+      }
+    }
+  },
+  {
+    "POST_MESSAGE_HTML": null,
+    "ID": "592",
+    "AUTHOR_ID": "6",
+    "AUTHOR_NAME": "\u0428\u0430\u043a\u0438\u0440\u043e\u0432 \u0428\u0430\u043c\u0438\u043b\u044c \u0417\u0438\u043d\u0443\u0440\u043e\u0432\u0438\u0447",
+    "AUTHOR_EMAIL": "",
+    "POST_DATE": "2021-03-09T12:18:16+03:00",
+    "POST_MESSAGE": "[URL=https://zadarma.com/ru/?ref=06798c96c6ffdaa0820c7dea75ca335b]https://zadarma.com/ru/?ref=06798c96c6ffdaa0820c7dea75ca335b[/URL]"
+  },
+  {
+    "POST_MESSAGE_HTML": null,
+    "ID": "610",
+    "AUTHOR_ID": "6",
+    "AUTHOR_NAME": "\u0428\u0430\u043c\u0438\u043b\u044c \u0428\u0430\u043a\u0438\u0440\u043e\u0432",
+    "AUTHOR_EMAIL": "",
+    "POST_DATE": "2021-03-10T09:41:15+03:00",
+    "POST_MESSAGE": "\u0417\u0430\u0434\u0430\u0447\u0430 \u0437\u0430\u0432\u0435\u0440\u0448\u0435\u043d\u0430."
+  }
+]

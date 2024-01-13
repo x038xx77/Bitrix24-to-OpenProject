@@ -1,0 +1,139 @@
+[
+  {
+    "POST_MESSAGE_HTML": null,
+    "ID": "23004",
+    "AUTHOR_ID": "8",
+    "AUTHOR_NAME": "\u0413\u0435\u043e\u0440\u0433\u0438\u0439 \u041b\u0418",
+    "AUTHOR_EMAIL": "",
+    "POST_DATE": "2022-08-15T13:05:27+03:00",
+    "POST_MESSAGE": "\u041d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u043e \u0443\u043a\u0430\u0437\u0430\u0442\u044c \u043a\u0440\u0430\u0439\u043d\u0438\u0439 \u0441\u0440\u043e\u043a, \u0438\u043d\u0430\u0447\u0435 \u0437\u0430\u0434\u0430\u0447\u0430 \u043d\u0435 \u0431\u0443\u0434\u0435\u0442 \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0430 \u0432\u043e\u0432\u0440\u0435\u043c\u044f.\n[USER=432]\u041c\u0443\u0440\u0430\u0442\u043e\u0432 \u0422\u0438\u043c\u0443\u0440[/USER], \u0432\u044b \u043d\u0430\u0437\u043d\u0430\u0447\u0435\u043d\u044b \u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u043c."
+  },
+  {
+    "POST_MESSAGE_HTML": null,
+    "ID": "23234",
+    "AUTHOR_ID": "8",
+    "AUTHOR_NAME": "\u0413\u0435\u043e\u0440\u0433\u0438\u0439 \u041b\u0418",
+    "AUTHOR_EMAIL": "",
+    "POST_DATE": "2022-08-16T14:41:21+03:00",
+    "POST_MESSAGE": "[USER=104]\u041c\u0443\u0440\u0430\u0442\u043e\u0432 \u0422\u0438\u043c\u0443\u0440[/USER], \u0432\u044b \u043d\u0430\u0437\u043d\u0430\u0447\u0435\u043d\u044b \u0441\u043e\u0438\u0441\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u0435\u043c."
+  },
+  {
+    "POST_MESSAGE_HTML": null,
+    "ID": "24774",
+    "AUTHOR_ID": "104",
+    "AUTHOR_NAME": "\u041c\u0443\u0440\u0430\u0442\u043e\u0432 \u0422\u0438\u043c\u0443\u0440",
+    "AUTHOR_EMAIL": "",
+    "POST_DATE": "2022-09-21T18:36:51+03:00",
+    "POST_MESSAGE": "\u0437\u0430\u043a\u0430\u0437\u0430\u043b"
+  },
+  {
+    "POST_MESSAGE_HTML": null,
+    "ID": "24776",
+    "AUTHOR_ID": "8",
+    "AUTHOR_NAME": "\u0413\u0435\u043e\u0440\u0433\u0438\u0439 \u041b\u0418",
+    "AUTHOR_EMAIL": "",
+    "POST_DATE": "2022-09-21T20:24:02+03:00",
+    "POST_MESSAGE": "[USER=6]\u0428\u0430\u043a\u0438\u0440\u043e\u0432 \u0428\u0430\u043c\u0438\u043b\u044c \u0417\u0438\u043d\u0443\u0440\u043e\u0432\u0438\u0447[/USER], \u0432\u044b \u0434\u043e\u0431\u0430\u0432\u043b\u0435\u043d\u044b \u043d\u0430\u0431\u043b\u044e\u0434\u0430\u0442\u0435\u043b\u0435\u043c."
+  },
+  {
+    "POST_MESSAGE_HTML": null,
+    "ID": "24830",
+    "AUTHOR_ID": "104",
+    "AUTHOR_NAME": "\u041c\u0443\u0440\u0430\u0442\u043e\u0432 \u0422\u0438\u043c\u0443\u0440",
+    "AUTHOR_EMAIL": "",
+    "POST_DATE": "2022-09-25T21:24:19+03:00",
+    "POST_MESSAGE": "\u0442\u0435\u043a\u0441\u0442",
+    "ATTACHED_OBJECTS": {
+      "28300": {
+        "ATTACHMENT_ID": "28300",
+        "NAME": "\u041f\u043e\u0447\u0442\u043e\u0432\u044b\u0439 \u0441\u0435\u0440\u0432\u0435\u0440. \u0423\u0441\u0442\u0430\u043d\u043e\u0432\u043a\u0430 \u0438 \u043d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0430 Microsoft Exchange Server.docx",
+        "SIZE": "18203",
+        "FILE_ID": "61894",
+        "DOWNLOAD_URL": "/bitrix/tools/disk/uf.php?attachedId=28300&auth%5Baplogin%5D=692&auth%5Bap%5D=xf4ouacgiudut942&action=download&ncc=1",
+        "VIEW_URL": "/bitrix/tools/disk/uf.php?attachedId=28300&auth%5Baplogin%5D=692&auth%5Bap%5D=xf4ouacgiudut942&action=show&ncc=1"
+      }
+    }
+  },
+  {
+    "POST_MESSAGE_HTML": null,
+    "ID": "24900",
+    "AUTHOR_ID": "6",
+    "AUTHOR_NAME": "\u0428\u0430\u043a\u0438\u0440\u043e\u0432 \u0428\u0430\u043c\u0438\u043b\u044c \u0417\u0438\u043d\u0443\u0440\u043e\u0432\u0438\u0447",
+    "AUTHOR_EMAIL": "",
+    "POST_DATE": "2022-09-27T19:21:43+03:00",
+    "POST_MESSAGE": "\u0427\u0443\u0448\u044c! \u043e\u043f\u044f\u0442\u044c \u043c\u0430\u0448\u0438\u043d\u0430 \u043f\u0435\u0440\u0435\u0432\u043e\u0434\u0438\u043b\u0430??????? \u0432 \u043f\u0435\u0440\u0432\u043e\u0438\u0441\u0442\u043e\u0447\u043d\u0438\u043a\u0435 \u0432\u043e\u0430\u0431\u0449\u0435 \u0441\u043c\u044b\u0441\u043b \u0434\u0440\u0443\u0433\u043e\u0439, \u0430 \u0442\u0443\u0442 \u0441\u043c\u044b\u0441\u043b\u0430 \u043d\u0435\u0442!!!!!"
+  },
+  {
+    "POST_MESSAGE_HTML": null,
+    "ID": "24906",
+    "AUTHOR_ID": "432",
+    "AUTHOR_NAME": "\u041c\u0443\u0440\u0430\u0442\u043e\u0432 \u0422\u0438\u043c\u0443\u0440",
+    "AUTHOR_EMAIL": "",
+    "POST_DATE": "2022-09-27T21:01:58+03:00",
+    "POST_MESSAGE": "[URL=https://timeweb.com/ru/community/articles/chto-takoe-pochtovyy-server-i-zachem-on-nuzhen]https://timeweb.com/ru/community/articles/chto-takoe-pochtovyy-server-i-zachem-on-nuzhen[/URL]\n\n\u0428\u0430\u043c\u0438\u043b\u044c, \u043e\u043d\u0430 \u043f\u0438\u0441\u0430\u043b\u0430 \u0441 \u044d\u0442\u043e\u0433\u043e \u0438\u0441\u0442\u043e\u0447\u043d\u0438\u043a\u0430."
+  },
+  {
+    "POST_MESSAGE_HTML": null,
+    "ID": "24908",
+    "AUTHOR_ID": "432",
+    "AUTHOR_NAME": "\u041c\u0443\u0440\u0430\u0442\u043e\u0432 \u0422\u0438\u043c\u0443\u0440",
+    "AUTHOR_EMAIL": "",
+    "POST_DATE": "2022-09-27T21:02:12+03:00",
+    "POST_MESSAGE": "\u0432\u0435\u0440\u043d\u0443\u043b \u043d\u0430 \u0434\u043e\u0440\u0430\u0431\u043e\u0442\u043a\u0443 \u0441\u0442\u0430\u0442\u044c\u044e"
+  },
+  {
+    "POST_MESSAGE_HTML": null,
+    "ID": "24944",
+    "AUTHOR_ID": "104",
+    "AUTHOR_NAME": "\u041c\u0443\u0440\u0430\u0442\u043e\u0432 \u0422\u0438\u043c\u0443\u0440",
+    "AUTHOR_EMAIL": "",
+    "POST_DATE": "2022-09-28T21:31:16+03:00",
+    "POST_MESSAGE": "\u0442\u0435\u043a\u0441\u0442",
+    "ATTACHED_OBJECTS": {
+      "28376": {
+        "ATTACHMENT_ID": "28376",
+        "NAME": "\u041f\u043e\u0447\u0442\u043e\u0432\u044b\u0439 \u0441\u0435\u0440\u0432\u0435\u0440. \u0423\u0441\u0442\u0430\u043d\u043e\u0432\u043a\u0430 \u0438 \u043d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0430 Microsoft Exchange Server (1).docx",
+        "SIZE": "18773",
+        "FILE_ID": "62036",
+        "DOWNLOAD_URL": "/bitrix/tools/disk/uf.php?attachedId=28376&auth%5Baplogin%5D=692&auth%5Bap%5D=xf4ouacgiudut942&action=download&ncc=1",
+        "VIEW_URL": "/bitrix/tools/disk/uf.php?attachedId=28376&auth%5Baplogin%5D=692&auth%5Bap%5D=xf4ouacgiudut942&action=show&ncc=1"
+      }
+    }
+  },
+  {
+    "POST_MESSAGE_HTML": null,
+    "ID": "24954",
+    "AUTHOR_ID": "6",
+    "AUTHOR_NAME": "\u0428\u0430\u043a\u0438\u0440\u043e\u0432 \u0428\u0430\u043c\u0438\u043b\u044c \u0417\u0438\u043d\u0443\u0440\u043e\u0432\u0438\u0447",
+    "AUTHOR_EMAIL": "",
+    "POST_DATE": "2022-09-29T13:37:35+03:00",
+    "POST_MESSAGE": "\u0410 \u043f\u043e\u0447\u0435\u043c\u0443 \u0432\u0442\u043e\u0440\u043e\u0439 \u0438\u0441\u0442\u043e\u0447\u043d\u0438\u043a \u043d\u0435 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d?"
+  },
+  {
+    "POST_MESSAGE_HTML": null,
+    "ID": "24964",
+    "AUTHOR_ID": "432",
+    "AUTHOR_NAME": "\u041c\u0443\u0440\u0430\u0442\u043e\u0432 \u0422\u0438\u043c\u0443\u0440",
+    "AUTHOR_EMAIL": "",
+    "POST_DATE": "2022-09-29T15:06:51+03:00",
+    "POST_MESSAGE": "\u0415\u0441\u043b\u0438 \u043f\u0438\u0441\u0430\u0442\u044c \u0441\u0440\u0430\u0437\u0443 \u0438\u0437 \u0434\u0432\u0443\u0445 \u0438\u0441\u0442\u043e\u0447\u043d\u0438\u043a\u043e\u0432 \u044d\u0442\u043e \u0431\u0443\u0434\u0435\u0442 \u043d\u0430\u043c\u043d\u043e\u0433\u043e \u0434\u043e\u0440\u043e\u0436\u0435 (\u0432\u0438\u0434 \u0440\u0430\u0431\u043e\u0442 \u043d\u0430 \u0431\u0438\u0440\u0436\u0435). \u0422\u043e\u0433\u0434\u0430 \u043f\u0440\u0438 \u043d\u0430\u043f\u0438\u0441\u0430\u043d\u0438\u0438 \u0437\u0430\u0434\u0430\u043d\u0438\u044f - \u043f\u0440\u043e\u0441\u044c\u0431\u0430 \u043f\u0438\u0441\u0430\u0442\u044c \u043f\u0440\u0438\u043e\u0440\u0438\u0442\u0435\u0442 \u0438\u0441\u0442\u043e\u0447\u043d\u0438\u043a\u0430"
+  },
+  {
+    "POST_MESSAGE_HTML": null,
+    "ID": "25444",
+    "AUTHOR_ID": "104",
+    "AUTHOR_NAME": "\u041c\u0443\u0440\u0430\u0442\u043e\u0432 \u0422\u0438\u043c\u0443\u0440",
+    "AUTHOR_EMAIL": "",
+    "POST_DATE": "2022-10-17T19:32:32+03:00",
+    "POST_MESSAGE": "[URL=https://inntechsys.ru/product/pochtovyy-server-ustanovka-i-nastroyka-microsoft-exchange-server/]https://inntechsys.ru/product/pochtovyy-server-ustanovka-i-nastroyka-microsoft-exchange-server/[/URL]\n\u0435\u0441\u043b\u0438 \u043e\u043a, \u0442\u043e \u0437\u0430\u043a\u0440\u044b\u0432\u0430\u0439 \u0437\u0430\u0434\u0430\u0447\u0443"
+  },
+  {
+    "POST_MESSAGE_HTML": null,
+    "ID": "25458",
+    "AUTHOR_ID": "8",
+    "AUTHOR_NAME": "\u0413\u0435\u043e\u0440\u0433\u0438\u0439 \u041b\u0418",
+    "AUTHOR_EMAIL": "",
+    "POST_DATE": "2022-10-18T11:13:26+03:00",
+    "POST_MESSAGE": "\u0417\u0430\u0434\u0430\u0447\u0430 \u0437\u0430\u0432\u0435\u0440\u0448\u0435\u043d\u0430."
+  }
+]

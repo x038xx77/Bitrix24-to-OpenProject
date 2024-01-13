@@ -1,0 +1,22 @@
+[
+  {
+    "ID": "528",
+    "XML_ID": "38550092",
+    "ACTIVE": false,
+    "NAME": "\u041d\u0438\u043a\u0438\u0442\u0430",
+    "LAST_NAME": "\u041c\u0438\u0442\u0443\u0441\u043e\u0432",
+    "EMAIL": "",
+    "LAST_LOGIN": "",
+    "DATE_REGISTER": "2023-01-18T03:00:00+03:00",
+    "IS_ONLINE": "N",
+    "TIMESTAMP_X": {},
+    "PERSONAL_GENDER": "",
+    "PERSONAL_BIRTHDAY": "",
+    "UF_EMPLOYMENT_DATE": "",
+    "UF_DEPARTMENT": [
+      1
+    ],
+    "UF_USR_1616085080886": false,
+    "USER_TYPE": "employee"
+  }
+]

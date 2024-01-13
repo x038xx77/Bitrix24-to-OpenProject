@@ -1,0 +1,35 @@
+[
+  {
+    "ID": "6",
+    "XML_ID": "34597656",
+    "ACTIVE": true,
+    "NAME": "\u0428\u0430\u043c\u0438\u043b\u044c",
+    "LAST_NAME": "\u0428\u0430\u043a\u0438\u0440\u043e\u0432",
+    "SECOND_NAME": "\u0417\u0438\u043d\u0443\u0440\u043e\u0432\u0438\u0447",
+    "EMAIL": "it@a-link-a.ru",
+    "LAST_LOGIN": "2024-01-10T13:06:50+03:00",
+    "DATE_REGISTER": "2021-02-26T03:00:00+03:00",
+    "TIME_ZONE": "",
+    "IS_ONLINE": "N",
+    "TIME_ZONE_OFFSET": "0",
+    "TIMESTAMP_X": {},
+    "LAST_ACTIVITY_DATE": {},
+    "PERSONAL_GENDER": "M",
+    "PERSONAL_WWW": "",
+    "PERSONAL_BIRTHDAY": "1983-08-04T03:00:00+04:00",
+    "PERSONAL_PHOTO": "https://cdn-ru.bitrix24.ru/b16898606/main/94c/94cd7c82dd28fa3cc89c9db2f806306b/WhatsApp Image 2021-03-01 at 18.07.47.png",
+    "PERSONAL_MOBILE": "+79267506764",
+    "PERSONAL_CITY": "",
+    "WORK_PHONE": "",
+    "WORK_POSITION": "\u0420\u0443\u043a\u043e\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c IT \u043d\u0430\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f",
+    "UF_EMPLOYMENT_DATE": "",
+    "UF_DEPARTMENT": [
+      1,
+      10,
+      542
+    ],
+    "UF_PHONE_INNER": "777",
+    "UF_USR_1616085080886": [],
+    "USER_TYPE": "employee"
+  }
+]

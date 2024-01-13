@@ -1,0 +1,49 @@
+[
+  {
+    "POST_MESSAGE_HTML": null,
+    "ID": "33914",
+    "AUTHOR_ID": "8",
+    "AUTHOR_NAME": "\u041b\u0418 \u0413\u0435\u043e\u0440\u0433\u0438\u0439 \u0412\u0438\u0441\u0441\u0430\u0440\u0438\u043e\u043d\u043e\u0432\u0438\u0447",
+    "AUTHOR_EMAIL": "",
+    "POST_DATE": "2023-08-10T10:23:33+03:00",
+    "POST_MESSAGE": "[DISK FILE ID=n76006]",
+    "ATTACHED_OBJECTS": {
+      "34066": {
+        "ATTACHMENT_ID": "34066",
+        "NAME": "image (1039).png",
+        "SIZE": "38991",
+        "FILE_ID": "76006",
+        "DOWNLOAD_URL": "/bitrix/tools/disk/uf.php?attachedId=34066&auth%5Baplogin%5D=692&auth%5Bap%5D=xf4ouacgiudut942&action=download&ncc=1",
+        "VIEW_URL": "/bitrix/tools/disk/uf.php?attachedId=34066&auth%5Baplogin%5D=692&auth%5Bap%5D=xf4ouacgiudut942&action=show&ncc=1"
+      }
+    }
+  },
+  {
+    "POST_MESSAGE_HTML": null,
+    "ID": "33916",
+    "AUTHOR_ID": "8",
+    "AUTHOR_NAME": "\u041b\u0418 \u0413\u0435\u043e\u0440\u0433\u0438\u0439 \u0412\u0438\u0441\u0441\u0430\u0440\u0438\u043e\u043d\u043e\u0432\u0438\u0447",
+    "AUTHOR_EMAIL": "",
+    "POST_DATE": "2023-08-10T10:23:59+03:00",
+    "POST_MESSAGE": "\u0412\u041f\u0424",
+    "ATTACHED_OBJECTS": {
+      "34068": {
+        "ATTACHMENT_ID": "34068",
+        "NAME": "\u0418\u041d\u04123\u042f\u0447\u0435\u0439\u043a\u0438.epf",
+        "SIZE": "15960",
+        "FILE_ID": "76008",
+        "DOWNLOAD_URL": "/bitrix/tools/disk/uf.php?attachedId=34068&auth%5Baplogin%5D=692&auth%5Bap%5D=xf4ouacgiudut942&action=download&ncc=1",
+        "VIEW_URL": "/bitrix/tools/disk/uf.php?attachedId=34068&auth%5Baplogin%5D=692&auth%5Bap%5D=xf4ouacgiudut942&action=show&ncc=1"
+      }
+    }
+  },
+  {
+    "POST_MESSAGE_HTML": null,
+    "ID": "33918",
+    "AUTHOR_ID": "8",
+    "AUTHOR_NAME": "\u0413\u0435\u043e\u0440\u0433\u0438\u0439 \u041b\u0418",
+    "AUTHOR_EMAIL": "",
+    "POST_DATE": "2023-08-10T10:24:02+03:00",
+    "POST_MESSAGE": "\u0417\u0430\u0434\u0430\u0447\u0430 \u0437\u0430\u0432\u0435\u0440\u0448\u0435\u043d\u0430."
+  }
+]

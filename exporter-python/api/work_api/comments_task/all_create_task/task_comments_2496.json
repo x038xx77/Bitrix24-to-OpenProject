@@ -1,0 +1,30 @@
+[
+  {
+    "POST_MESSAGE_HTML": null,
+    "ID": "16268",
+    "AUTHOR_ID": "8",
+    "AUTHOR_NAME": "\u041b\u0418 \u0413\u0435\u043e\u0440\u0433\u0438\u0439 \u0412\u0438\u0441\u0441\u0430\u0440\u0438\u043e\u043d\u043e\u0432\u0438\u0447",
+    "AUTHOR_EMAIL": "",
+    "POST_DATE": "2022-02-22T16:06:50+03:00",
+    "POST_MESSAGE": "\u0433\u043e\u0442\u043e\u0432\u043e",
+    "ATTACHED_OBJECTS": {
+      "23380": {
+        "ATTACHMENT_ID": "23380",
+        "NAME": "\u041e\u0442\u0447\u0435\u0442 \u043e\u0431 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u0438 \u043c\u0430\u0442\u0435\u0440\u0438\u0430\u043b\u043e\u0432 (\u0437\u0430 \u0437\u0430\u043a\u0430\u0437\u0447\u0438\u043a\u0430) (1).epf",
+        "SIZE": "13087",
+        "FILE_ID": "50244",
+        "DOWNLOAD_URL": "/bitrix/tools/disk/uf.php?attachedId=23380&auth%5Baplogin%5D=692&auth%5Bap%5D=xf4ouacgiudut942&action=download&ncc=1",
+        "VIEW_URL": "/bitrix/tools/disk/uf.php?attachedId=23380&auth%5Baplogin%5D=692&auth%5Bap%5D=xf4ouacgiudut942&action=show&ncc=1"
+      }
+    }
+  },
+  {
+    "POST_MESSAGE_HTML": null,
+    "ID": "16270",
+    "AUTHOR_ID": "8",
+    "AUTHOR_NAME": "\u0413\u0435\u043e\u0440\u0433\u0438\u0439 \u041b\u0418",
+    "AUTHOR_EMAIL": "",
+    "POST_DATE": "2022-02-22T16:06:58+03:00",
+    "POST_MESSAGE": "\u0417\u0430\u0434\u0430\u0447\u0430 \u0437\u0430\u0432\u0435\u0440\u0448\u0435\u043d\u0430."
+  }
+]

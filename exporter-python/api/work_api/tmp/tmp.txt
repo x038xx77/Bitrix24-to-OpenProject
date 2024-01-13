@@ -1,0 +1,212 @@
+каза и однозначно понять можем ли мы выполнить заказ.\n\nа) Если можем переводим лид на стадию "Наш клиент"\nб) Если не можем, переводим на стадию "Отказ" и указываем причину\n\nКонтакты:\nРабота.ру\n\nno-reply@rabota.ru'}, 'startDate': '2021-03-25', 'dueDate': '2021-03-25'}
+Failed to create task 5. Error: {"_type":"Error","errorIdentifier":"urn:openproject-org:api:v3:errors:NotFound","message":"Не удалось найти запрошенный ресурс."}
+An error occurred while creating task 5: name 'null' is not defined
+====================================================
+URL====== http://pr.inntechsys.ru:3580/api/v3/projects/bt24-120/work_packages {'subject': '(ИННТЕХСИС) 1С:Распознавание первичных документов', 'name': 'Task', 'description': {'format': 'markdown', 'raw': '\r\nНеобходимо подобрать статью по теме и скинуть ссылку в комментарий.\r\nДалее, статья отправится на переработку. По результату переработку, в течении 2 дней, необходимо дать оценку, подходит текст или необходимо переработать.\r\nЕсли необходимо переработать, то отписать что устранить для копирайтера.\r\n\r\n'}, 'startDate': '2022-12-09', 'dueDate': ''}
+Task 120 Error code 422. Skipping.
+An error occurred while creating task 120: name 'null' is not defined
+====================================================
+URL====== http://pr.inntechsys.ru:3580/api/v3/projects/bt24-60/work_packages {'subject': '(ТК РУСЛАН, автобаза) не верно генерируется шк', 'name': 'Task', 'description': {'format': 'markdown', 'raw': 'есть обработка по генерации шк, не необходимо ее поправит, чтобы по префиксе 20 брался номер следующий по порядку, сейчас ставиться все 99999\r\n\r\n[DISK FILE ID=20734]\r\n\r\nпротестировать можно на любой бухгалтерии\r\n'}, 'startDate': '2021-11-12', 'dueDate': '2021-12-01'}
+Task 1756 created successfully.
+============TASK========= 1756
+An error occurred while get comments : [Errno 5] Input/output error: 'comments_task/task_comments_2106.json'
+An error occurred while ATTACHED_OBJECTS get comments : 'ATTACHED_OBJECTS'
+COMMENT=====comment_payload {'comment': {'format': 'markdown', 'raw': 'Автор Георгий ЛИ \n [USER=6]Шакиров Шамиль Зинурович[/USER], вы назначены ответственным. \n '}, 'responsible': {'href': '/api/v3/users/9'}}
+Task 11722 created successfully.
+Кол-во комментариев 41
+An error occurred while ATTACHED_OBJECTS get comments : 'ATTACHED_OBJECTS'
+COMMENT=====comment_payload {'comment': {'format': 'markdown', 'raw': 'Автор Георгий ЛИ \n [USER=6]Шакиров Шамиль Зинурович[/USER], задача просрочена, эффективность снижена.\nЗавершите задачу или передвиньте срок. \n '}, 'responsible': {'href': '/api/v3/users/9'}}
+Task 11723 created successfully.
+Кол-во комментариев 41
+An error occurred while ATTACHED_OBJECTS get comments : 'ATTACHED_OBJECTS'
+COMMENT=====comment_payload {'comment': {'format': 'markdown', 'raw': 'Автор Шамиль Шакиров \n Крайний срок изменен на: 31 марта, 18:00 \n '}, 'responsible': {'href': '/api/v3/users/644'}}
+Task 11724 created successfully.
+Кол-во комментариев 41
+An error occurred while ATTACHED_OBJECTS get comments : 'ATTACHED_OBJECTS'
+COMMENT=====comment_payload {'comment': {'format': 'markdown', 'raw': 'Автор ЛИ Георгий \n потом Галине отпишись.+7 985 368-27-13 \n '}, 'responsible': {'href': '/api/v3/users/9'}}
+Task 11725 created successfully.
+Кол-во комментариев 41
+An error occurred while ATTACHED_OBJECTS get comments : 'ATTACHED_OBJECTS'
+COMMENT=====comment_payload {'comment': {'format': 'markdown', 'raw': 'Автор Шамиль Шакиров \n Задача завершена. \n '}, 'responsible': {'href': '/api/v3/users/644'}}
+Task 11726 created successfully.
+Кол-во комментариев 41
+====================================================
+URL====== http://pr.inntechsys.ru:3580/api/v3/projects/bt24-16/work_packages {'subject': 'Обновить базы на облаке', 'name': 'Task', 'description': {'format': 'markdown', 'raw': 'Обновить базы на облаке'}, 'startDate': '2021-07-05', 'dueDate': '2021-07-27'}
+Task 1757 created successfully.
+============TASK========= 1757
+An error occurred while get comments : [Errno 5] Input/output error: 'comments_task/task_comments_890.json'
+An error occurred while ATTACHED_OBJECTS get comments : 'ATTACHED_OBJECTS'
+COMMENT=====comment_payload {'comment': {'format': 'markdown', 'raw': 'Автор Георгий ЛИ \n [USER=6]Шакиров Шамиль Зинурович[/USER], вы назначены ответственным. \n '}, 'responsible': {'href': '/api/v3/users/9'}}
+Task 11727 created successfully.
+Кол-во комментариев 22
+An error occurred while ATTACHED_OBJECTS get comments : 'ATTACHED_OBJECTS'
+COMMENT=====comment_payload {'comment': {'format': 'markdown', 'raw': 'Автор Георгий ЛИ \n [USER=6]Шакиров Шамиль Зинурович[/USER], задача просрочена, эффективность снижена.\nЗавершите задачу или передвиньте срок. \n '}, 'responsible': {'href': '/api/v3/users/9'}}
+Task 11728 created successfully.
+Кол-во комментариев 22
+An error occurred while ATTACHED_OBJECTS get comments : 'ATTACHED_OBJECTS'
+COMMENT=====comment_payload {'comment': {'format': 'markdown', 'raw': 'Автор Шамиль Шакиров \n Крайний срок изменен на: 31 марта, 18:00 \n '}, 'responsible': {'href': '/api/v3/users/644'}}
+Task 11729 created successfully.
+Кол-во комментариев 22
+An error occurred while ATTACHED_OBJECTS get comments : 'ATTACHED_OBJECTS'
+COMMENT=====comment_payload {'comment': {'format': 'markdown', 'raw': 'Автор ЛИ Георгий \n потом Галине отпишись.+7 985 368-27-13 \n '}, 'responsible': {'href': '/api/v3/users/9'}}
+Task 11730 created successfully.
+Кол-во комментариев 22
+An error occurred while ATTACHED_OBJECTS get comments : 'ATTACHED_OBJECTS'
+COMMENT=====comment_payload {'comment': {'format': 'markdown', 'raw': 'Автор Шамиль Шакиров \n Задача завершена. \n '}, 'responsible': {'href': '/api/v3/users/644'}}
+Task 11731 created successfully.
+Кол-во комментариев 22
+====================================================
+URL====== http://pr.inntechsys.ru:3580/api/v3/projects/bt24-30/work_packages {'subject': 'Письмо: Отвал клиентов.', 'name': 'Task', 'description': {'format': 'markdown', 'raw': ''}, 'startDate': '2021-11-01', 'dueDate': '2021-12-02'}
+Task 1758 created successfully.
+============TASK========= 1758
+An error occurred while get comments : [Errno 5] Input/output error: 'comments_task/task_comments_2066.json'
+An error occurred while ATTACHED_OBJECTS get comments : 'ATTACHED_OBJECTS'
+COMMENT=====comment_payload {'comment': {'format': 'markdown', 'raw': 'Автор Георгий ЛИ \n [USER=6]Шакиров Шамиль Зинурович[/USER], вы назначены ответственным. \n '}, 'responsible': {'href': '/api/v3/users/9'}}
+Task 11732 created successfully.
+Кол-во комментариев 1
+An error occurred while ATTACHED_OBJECTS get comments : 'ATTACHED_OBJECTS'
+COMMENT=====comment_payload {'comment': {'format': 'markdown', 'raw': 'Автор Георгий ЛИ \n [USER=6]Шакиров Шамиль Зинурович[/USER], задача просрочена, эффективность снижена.\nЗавершите задачу или передвиньте срок. \n '}, 'responsible': {'href': '/api/v3/users/9'}}
+Task 11733 created successfully.
+Кол-во комментариев 1
+An error occurred while ATTACHED_OBJECTS get comments : 'ATTACHED_OBJECTS'
+COMMENT=====comment_payload {'comment': {'format': 'markdown', 'raw': 'Автор Шамиль Шакиров \n Крайний срок изменен на: 31 марта, 18:00 \n '}, 'responsible': {'href': '/api/v3/users/644'}}
+Task 11734 created successfully.
+Кол-во комментариев 1
+An error occurred while ATTACHED_OBJECTS get comments : 'ATTACHED_OBJECTS'
+COMMENT=====comment_payload {'comment': {'format': 'markdown', 'raw': 'Автор ЛИ Георгий \n потом Галине отпишись.+7 985 368-27-13 \n '}, 'responsible': {'href': '/api/v3/users/9'}}
+Task 11735 created successfully.
+Кол-во комментариев 1
+An error occurred while ATTACHED_OBJECTS get comments : 'ATTACHED_OBJECTS'
+COMMENT=====comment_payload {'comment': {'format': 'markdown', 'raw': 'Автор Шамиль Шакиров \n Задача завершена. \n '}, 'responsible': {'href': '/api/v3/users/644'}}
+Task 11736 created successfully.
+Кол-во комментариев 1
+====================================================
+URL====== http://pr.inntechsys.ru:3580/api/v3/projects/bt24-16/work_packages {'subject': '(ИННТЕХСИС) предоставь список всех вирт серверов и название организаций к ним', 'name': 'Task', 'description': {'format': 'markdown', 'raw': ''}, 'startDate': '2023-03-28', 'dueDate': '2023-03-28'}
+Task 1759 created successfully.
+============TASK========= 1759
+An error occurred while get comments : [Errno 5] Input/output error: 'comments_task/task_comments_4196.json'
+An error occurred while ATTACHED_OBJECTS get comments : 'ATTACHED_OBJECTS'
+COMMENT=====comment_payload {'comment': {'format': 'markdown', 'raw': 'Автор Георгий ЛИ \n [USER=6]Шакиров Шамиль Зинурович[/USER], вы назначены ответственным. \n '}, 'responsible': {'href': '/api/v3/users/9'}}
+Task 11737 created successfully.
+Кол-во комментариев 3
+An error occurred while ATTACHED_OBJECTS get comments : 'ATTACHED_OBJECTS'
+COMMENT=====comment_payload {'comment': {'format': 'markdown', 'raw': 'Автор Георгий ЛИ \n [USER=6]Шакиров Шамиль Зинурович[/USER], задача просрочена, эффективность снижена.\nЗавершите задачу или передвиньте срок. \n '}, 'responsible': {'href': '/api/v3/users/9'}}
+Task 11738 created successfully.
+Кол-во комментариев 3
+An error occurred while ATTACHED_OBJECTS get comments : 'ATTACHED_OBJECTS'
+COMMENT=====comment_payload {'comment': {'format': 'markdown', 'raw': 'Автор Шамиль Шакиров \n Крайний срок изменен на: 31 марта, 18:00 \n '}, 'responsible': {'href': '/api/v3/users/644'}}
+Task 11739 created successfully.
+Кол-во комментариев 3
+An error occurred while ATTACHED_OBJECTS get comments : 'ATTACHED_OBJECTS'
+COMMENT=====comment_payload {'comment': {'format': 'markdown', 'raw': 'Автор ЛИ Георгий \n потом Галине отпишись.+7 985 368-27-13 \n '}, 'responsible': {'href': '/api/v3/users/9'}}
+Task 11740 created successfully.
+Кол-во комментариев 3
+An error occurred while ATTACHED_OBJECTS get comments : 'ATTACHED_OBJECTS'
+COMMENT=====comment_payload {'comment': {'format': 'markdown', 'raw': 'Автор Шамиль Шакиров \n Задача завершена. \n '}, 'responsible': {'href': '/api/v3/users/644'}}
+Task 11741 created successfully.
+Кол-во комментариев 3
+====================================================
+URL====== http://pr.inntechsys.ru:3580/api/v3/projects/bt24-16/work_packages {'subject': '(ИННТЕХСИС) предоставь список всех вирт серверов и название организаций к ним', 'name': 'Task', 'description': {'format': 'markdown', 'raw': ''}, 'startDate': '2023-11-28', 'dueDate': ''}
+Task 16 Error code 422. Skipping.
+An error occurred while creating task 16: name 'null' is not defined
+====================================================
+URL====== http://pr.inntechsys.ru:3580/api/v3/projects/bt24-8/work_packages {'subject': 'Приобретение доп.лицензий КОРП для 1с ITIL', 'name': 'Task', 'description': {'format': 'markdown', 'raw': ''}, 'startDate': '2021-02-26', 'dueDate': '2021-05-13'}
+Task 1760 created successfully.
+============TASK========= 1760
+An error occurred while get comments : [Errno 5] Input/output error: 'comments_task/task_comments_42.json'
+An error occurred while ATTACHED_OBJECTS get comments : 'ATTACHED_OBJECTS'
+COMMENT=====comment_payload {'comment': {'format': 'markdown', 'raw': 'Автор Георгий ЛИ \n [USER=6]Шакиров Шамиль Зинурович[/USER], вы назначены ответственным. \n '}, 'responsible': {'href': '/api/v3/users/9'}}
+Task 11742 created successfully.
+Кол-во комментариев 2
+An error occurred while ATTACHED_OBJECTS get comments : 'ATTACHED_OBJECTS'
+COMMENT=====comment_payload {'comment': {'format': 'markdown', 'raw': 'Автор Георгий ЛИ \n [USER=6]Шакиров Шамиль Зинурович[/USER], задача просрочена, эффективность снижена.\nЗавершите задачу или передвиньте срок. \n '}, 'responsible': {'href': '/api/v3/users/9'}}
+Task 11743 created successfully.
+Кол-во комментариев 2
+An error occurred while ATTACHED_OBJECTS get comments : 'ATTACHED_OBJECTS'
+COMMENT=====comment_payload {'comment': {'format': 'markdown', 'raw': 'Автор Шамиль Шакиров \n Крайний срок изменен на: 31 марта, 18:00 \n '}, 'responsible': {'href': '/api/v3/users/644'}}
+Task 11744 created successfully.
+Кол-во комментариев 2
+An error occurred while ATTACHED_OBJECTS get comments : 'ATTACHED_OBJECTS'
+COMMENT=====comment_payload {'comment': {'format': 'markdown', 'raw': 'Автор ЛИ Георгий \n потом Галине отпишись.+7 985 368-27-13 \n '}, 'responsible': {'href': '/api/v3/users/9'}}
+Task 11745 created successfully.
+Кол-во комментариев 2
+An error occurred while ATTACHED_OBJECTS get comments : 'ATTACHED_OBJECTS'
+COMMENT=====comment_payload {'comment': {'format': 'markdown', 'raw': 'Автор Шамиль Шакиров \n Задача завершена. \n '}, 'responsible': {'href': '/api/v3/users/644'}}
+Task 11746 created successfully.
+Кол-во комментариев 2
+====================================================
+URL====== http://pr.inntechsys.ru:3580/api/v3/projects/bt24-66/work_packages {'subject': '(Александра) перенести отчет из старой базы УТ в новую', 'name': 'Task', 'description': {'format': 'markdown', 'raw': '[URL=https://disk.yandex.ru/i/YwHQx6-RuCakQw]https://disk.yandex.ru/i/YwHQx6-RuCakQw[/URL]\r\n\r\nдоступы есть в предыдущей задаче\r\n'}, 'startDate': '2022-05-04', 'dueDate': '2022-05-06'}
+Task 1761 created successfully.
+============TASK========= 1761
+An error occurred while get comments : [Errno 5] Input/output error: 'comments_task/task_comments_2808.json'
+An error occurred while ATTACHED_OBJECTS get comments : 'ATTACHED_OBJECTS'
+COMMENT=====comment_payload {'comment': {'format': 'markdown', 'raw': 'Автор Георгий ЛИ \n [USER=6]Шакиров Шамиль Зинурович[/USER], вы назначены ответственным. \n '}, 'responsible': {'href': '/api/v3/users/9'}}
+Task 11747 created successfully.
+Кол-во комментариев 8
+An error occurred while ATTACHED_OBJECTS get comments : 'ATTACHED_OBJECTS'
+COMMENT=====comment_payload {'comment': {'format': 'markdown', 'raw': 'Автор Георгий ЛИ \n [USER=6]Шакиров Шамиль Зинурович[/USER], задача просрочена, эффективность снижена.\nЗавершите задачу или передвиньте срок. \n '}, 'responsible': {'href': '/api/v3/users/9'}}
+Task 11748 created successfully.
+Кол-во комментариев 8
+An error occurred while ATTACHED_OBJECTS get comments : 'ATTACHED_OBJECTS'
+COMMENT=====comment_payload {'comment': {'format': 'markdown', 'raw': 'Автор Шамиль Шакиров \n Крайний срок изменен на: 31 марта, 18:00 \n '}, 'responsible': {'href': '/api/v3/users/644'}}
+Task 11749 created successfully.
+Кол-во комментариев 8
+An error occurred while ATTACHED_OBJECTS get comments : 'ATTACHED_OBJECTS'
+COMMENT=====comment_payload {'comment': {'format': 'markdown', 'raw': 'Автор ЛИ Георгий \n потом Галине отпишись.+7 985 368-27-13 \n '}, 'responsible': {'href': '/api/v3/users/9'}}
+Task 11750 created successfully.
+Кол-во комментариев 8
+An error occurred while ATTACHED_OBJECTS get comments : 'ATTACHED_OBJECTS'
+COMMENT=====comment_payload {'comment': {'format': 'markdown', 'raw': 'Автор Шамиль Шакиров \n Задача завершена. \n '}, 'responsible': {'href': '/api/v3/users/644'}}
+Task 11751 created successfully.
+Кол-во комментариев 8
+====================================================
+URL====== http://pr.inntechsys.ru:3580/api/v3/projects/bt24-42/work_packages {'subject': '(ИННТЕХСИС) Проверка архивации сайтов на FTP', 'name': 'Task', 'description': {'format': 'markdown', 'raw': 'Проверка архивации сайтов на наш FTP.\xa0\r\n\r\n'}, 'startDate': '2023-11-07', 'dueDate': '2023-12-05'}
+Task 1762 created successfully.
+============TASK========= 1762
+An error occurred while get comments : [Errno 5] Input/output error: 'comments_task/task_comments_4852.json'
+An error occurred while ATTACHED_OBJECTS get comments : 'ATTACHED_OBJECTS'
+COMMENT=====comment_payload {'comment': {'format': 'markdown', 'raw': 'Автор Георгий ЛИ \n [USER=6]Шакиров Шамиль Зинурович[/USER], вы назначены ответственным. \n '}, 'responsible': {'href': '/api/v3/users/9'}}
+Task 11752 created successfully.
+Кол-во комментариев 3
+An error occurred while ATTACHED_OBJECTS get comments : 'ATTACHED_OBJECTS'
+COMMENT=====comment_payload {'comment': {'format': 'markdown', 'raw': 'Автор Георгий ЛИ \n [USER=6]Шакиров Шамиль Зинурович[/USER], задача просрочена, эффективность снижена.\nЗавершите задачу или передвиньте срок. \n '}, 'responsible': {'href': '/api/v3/users/9'}}
+Task 11753 created successfully.
+Кол-во комментариев 3
+An error occurred while ATTACHED_OBJECTS get comments : 'ATTACHED_OBJECTS'
+COMMENT=====comment_payload {'comment': {'format': 'markdown', 'raw': 'Автор Шамиль Шакиров \n Крайний срок изменен на: 31 марта, 18:00 \n '}, 'responsible': {'href': '/api/v3/users/644'}}
+Task 11754 created successfully.
+Кол-во комментариев 3
+An error occurred while ATTACHED_OBJECTS get comments : 'ATTACHED_OBJECTS'
+COMMENT=====comment_payload {'comment': {'format': 'markdown', 'raw': 'Автор ЛИ Георгий \n потом Галине отпишись.+7 985 368-27-13 \n '}, 'responsible': {'href': '/api/v3/users/9'}}
+Task 11755 created successfully.
+Кол-во комментариев 3
+An error occurred while ATTACHED_OBJECTS get comments : 'ATTACHED_OBJECTS'
+COMMENT=====comment_payload {'comment': {'format': 'markdown', 'raw': 'Автор Шамиль Шакиров \n Задача завершена. \n '}, 'responsible': {'href': '/api/v3/users/644'}}
+Task 11756 created successfully.
+Кол-во комментариев 3
+====================================================
+URL====== http://pr.inntechsys.ru:3580/api/v3/projects/bt24-70/work_packages {'subject': 'Добрый день, можно сделать в печатной форме УТ0000006 СБОРКА чтобы комментарий влезал полностью?', 'name': 'Task', 'description': {'format': 'markdown', 'raw': '[QUOTE][B]Чат:[/B] [URL=/online/?IM_DIALOG=imol|wz_whatsapp_cc205c65c5878c837bce000b0e3516813|6|3a579477-ea64-4adf-9822-3005ab9bf548|94]Виталий (Пинта) (WATSAPP)[/URL]\r\n[B]Виталий[/B]\r\nДобрый день, можно сделать в печатной форме УТ0000006 СБОРКА чтобы комментарий влезал полностью?[/QUOTE]\r\n\r\n'}, 'startDate': '2021-12-09', 'dueDate': '2021-12-09'}
+Task 1763 created successfully.
+============TASK========= 1763
+An error occurred while get comments : [Errno 5] Input/output error: 'comments_task/task_comments_2266.json'
+An error occurred while ATTACHED_OBJECTS get comments : 'ATTACHED_OBJECTS'
+COMMENT=====comment_payload {'comment': {'format': 'markdown', 'raw': 'Автор Георгий ЛИ \n [USER=6]Шакиров Шамиль Зинурович[/USER], вы назначены ответственным. \n '}, 'responsible': {'href': '/api/v3/users/9'}}
+Task 11757 created successfully.
+Кол-во комментариев 3
+An error occurred while ATTACHED_OBJECTS get comments : 'ATTACHED_OBJECTS'
+COMMENT=====comment_payload {'comment': {'format': 'markdown', 'raw': 'Автор Георгий ЛИ \n [USER=6]Шакиров Шамиль Зинурович[/USER], задача просрочена, эффективность снижена.\nЗавершите задачу или передвиньте срок. \n '}, 'responsible': {'href': '/api/v3/users/9'}}
+Task 11758 created successfully.
+Кол-во комментариев 3
+An error occurred while ATTACHED_OBJECTS get comments : 'ATTACHED_OBJECTS'
+COMMENT=====comment_payload {'comment': {'format': 'markdown', 'raw': 'Автор Шамиль Шакиров \n Крайний срок изменен на: 31 марта, 18:00 \n '}, 'responsible': {'href': '/api/v3/users/644'}}
+Task 11759 created successfully.
+Кол-во комментариев 3
+An error occurred while ATTACHED_OBJECTS get comments : 'ATTACHED_OBJECTS'
+COMMENT=====comment_payload {'comment': {'format': 'markdown', 'raw': 'Автор ЛИ Георгий \n потом Галине отпишись.+7 985 368-27-13 \n '}, 'responsible': {'href': '/api/v3/users/9'}}
+Task 11760 created successfully.
+Кол-во комментариев 3
+An error occurred while ATTACHED_OBJECTS get comments : 'ATTACHED_OBJECTS'
+COMMENT=====comment_payload {'comment': {'format': 'markdown', 'raw': 'Автор Шамиль Шакиров \n Задача завершена. \n '}, 'responsible': {'href': '/api/v3/users/644'}}
+Task 11761 created successfully.
+Кол-во комментариев 3
+====================================================

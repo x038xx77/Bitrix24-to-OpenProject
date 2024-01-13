@@ -1,0 +1,48 @@
+[
+  {
+    "POST_MESSAGE_HTML": null,
+    "ID": "11436",
+    "AUTHOR_ID": "8",
+    "AUTHOR_NAME": "\u0413\u0435\u043e\u0440\u0433\u0438\u0439 \u041b\u0418",
+    "AUTHOR_EMAIL": "",
+    "POST_DATE": "2021-10-16T14:46:30+03:00",
+    "POST_MESSAGE": "[USER=176]\u041c\u0438\u0442\u0443\u0441\u043e\u0432 \u041d\u0438\u043a\u0438\u0442\u0430[/USER], \u0432\u044b \u043d\u0430\u0437\u043d\u0430\u0447\u0435\u043d\u044b \u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u043c."
+  },
+  {
+    "POST_MESSAGE_HTML": null,
+    "ID": "11450",
+    "AUTHOR_ID": "8",
+    "AUTHOR_NAME": "\u0413\u0435\u043e\u0440\u0433\u0438\u0439 \u041b\u0418",
+    "AUTHOR_EMAIL": "",
+    "POST_DATE": "2021-10-16T18:00:43+03:00",
+    "POST_MESSAGE": "[USER=176]\u041c\u0438\u0442\u0443\u0441\u043e\u0432 \u041d\u0438\u043a\u0438\u0442\u0430[/USER], \u0437\u0430\u0434\u0430\u0447\u0430 \u043f\u0440\u043e\u0441\u0440\u043e\u0447\u0435\u043d\u0430, \u044d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u043e\u0441\u0442\u044c \u0441\u043d\u0438\u0436\u0435\u043d\u0430.\n\u0417\u0430\u0432\u0435\u0440\u0448\u0438\u0442\u0435 \u0437\u0430\u0434\u0430\u0447\u0443 \u0438\u043b\u0438 \u043f\u0435\u0440\u0435\u0434\u0432\u0438\u043d\u044c\u0442\u0435 \u0441\u0440\u043e\u043a."
+  },
+  {
+    "POST_MESSAGE_HTML": null,
+    "ID": "11452",
+    "AUTHOR_ID": "176",
+    "AUTHOR_NAME": "\u041d\u0438\u043a\u0438\u0442\u0430 \u041c\u0438\u0442\u0443\u0441\u043e\u0432",
+    "AUTHOR_EMAIL": "",
+    "POST_DATE": "2021-10-18T09:54:23+03:00",
+    "POST_MESSAGE": "\u0417\u0430\u0434\u0430\u0447\u0430 \u0437\u0430\u0432\u0435\u0440\u0448\u0435\u043d\u0430."
+  },
+  {
+    "POST_MESSAGE_HTML": null,
+    "ID": "11454",
+    "AUTHOR_ID": "176",
+    "AUTHOR_NAME": "\u041c\u0438\u0442\u0443\u0441\u043e\u0432 \u041d\u0438\u043a\u0438\u0442\u0430",
+    "AUTHOR_EMAIL": "",
+    "POST_DATE": "2021-10-18T09:54:27+03:00",
+    "POST_MESSAGE": "[DISK FILE ID=n43316]",
+    "ATTACHED_OBJECTS": {
+      "20120": {
+        "ATTACHMENT_ID": "20120",
+        "NAME": "image (27).png",
+        "SIZE": "228260",
+        "FILE_ID": "43316",
+        "DOWNLOAD_URL": "/bitrix/tools/disk/uf.php?attachedId=20120&auth%5Baplogin%5D=692&auth%5Bap%5D=3khh3mjylndlq1bs&action=download&ncc=1",
+        "VIEW_URL": "/bitrix/tools/disk/uf.php?attachedId=20120&auth%5Baplogin%5D=692&auth%5Bap%5D=3khh3mjylndlq1bs&action=show&ncc=1"
+      }
+    }
+  }
+]

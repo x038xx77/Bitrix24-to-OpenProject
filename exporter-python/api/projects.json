@@ -1,0 +1,3872 @@
+{
+  "_type": "Collection",
+  "total": 54,
+  "count": 54,
+  "pageSize": 200,
+  "offset": 1,
+  "_embedded": {
+    "elements": [
+      {
+        "_type": "Project",
+        "id": 56,
+        "identifier": "bt24-46",
+        "name": "\u042e\u041c\u042d\u041a\u0421",
+        "active": true,
+        "public": false,
+        "description": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "createdAt": "2023-12-12T05:11:18Z",
+        "updatedAt": "2023-12-12T06:47:14Z",
+        "statusExplanation": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "_links": {
+          "self": {
+            "href": "/api/v3/projects/56",
+            "title": "\u042e\u041c\u042d\u041a\u0421"
+          },
+          "createWorkPackage": {
+            "href": "/api/v3/projects/56/work_packages/form",
+            "method": "post"
+          },
+          "createWorkPackageImmediately": {
+            "href": "/api/v3/projects/56/work_packages",
+            "method": "post"
+          },
+          "workPackages": {
+            "href": "/api/v3/projects/56/work_packages"
+          },
+          "categories": {
+            "href": "/api/v3/projects/56/categories"
+          },
+          "versions": {
+            "href": "/api/v3/projects/56/versions"
+          },
+          "memberships": {
+            "href": "/api/v3/memberships?filters=%5B%7B%22project%22%3A%7B%22operator%22%3A%22%3D%22%2C%22values%22%3A%5B%2256%22%5D%7D%7D%5D"
+          },
+          "types": {
+            "href": "/api/v3/projects/56/types"
+          },
+          "update": {
+            "href": "/api/v3/projects/56/form",
+            "method": "post"
+          },
+          "updateImmediately": {
+            "href": "/api/v3/projects/56",
+            "method": "patch"
+          },
+          "delete": {
+            "href": "/api/v3/projects/56",
+            "method": "delete"
+          },
+          "schema": {
+            "href": "/api/v3/projects/schema"
+          },
+          "status": {
+            "href": null
+          },
+          "ancestors": [],
+          "parent": {
+            "href": null
+          }
+        }
+      },
+      {
+        "_type": "Project",
+        "id": 55,
+        "identifier": "bt24-128",
+        "name": "\u042d\u041b\u042c\u0422\u0415\u0420\u0420\u0410",
+        "active": true,
+        "public": false,
+        "description": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "createdAt": "2023-12-12T05:11:17Z",
+        "updatedAt": "2023-12-12T06:47:14Z",
+        "statusExplanation": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "_links": {
+          "self": {
+            "href": "/api/v3/projects/55",
+            "title": "\u042d\u041b\u042c\u0422\u0415\u0420\u0420\u0410"
+          },
+          "createWorkPackage": {
+            "href": "/api/v3/projects/55/work_packages/form",
+            "method": "post"
+          },
+          "createWorkPackageImmediately": {
+            "href": "/api/v3/projects/55/work_packages",
+            "method": "post"
+          },
+          "workPackages": {
+            "href": "/api/v3/projects/55/work_packages"
+          },
+          "categories": {
+            "href": "/api/v3/projects/55/categories"
+          },
+          "versions": {
+            "href": "/api/v3/projects/55/versions"
+          },
+          "memberships": {
+            "href": "/api/v3/memberships?filters=%5B%7B%22project%22%3A%7B%22operator%22%3A%22%3D%22%2C%22values%22%3A%5B%2255%22%5D%7D%7D%5D"
+          },
+          "types": {
+            "href": "/api/v3/projects/55/types"
+          },
+          "update": {
+            "href": "/api/v3/projects/55/form",
+            "method": "post"
+          },
+          "updateImmediately": {
+            "href": "/api/v3/projects/55",
+            "method": "patch"
+          },
+          "delete": {
+            "href": "/api/v3/projects/55",
+            "method": "delete"
+          },
+          "schema": {
+            "href": "/api/v3/projects/schema"
+          },
+          "status": {
+            "href": null
+          },
+          "ancestors": [],
+          "parent": {
+            "href": null
+          }
+        }
+      },
+      {
+        "_type": "Project",
+        "id": 54,
+        "identifier": "bt24-56",
+        "name": "\u042d\u043a\u0441\u0442\u0440\u0430\u0433\u0440\u0443\u043f\u043f",
+        "active": true,
+        "public": false,
+        "description": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "createdAt": "2023-12-12T05:11:17Z",
+        "updatedAt": "2023-12-12T06:47:14Z",
+        "statusExplanation": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "_links": {
+          "self": {
+            "href": "/api/v3/projects/54",
+            "title": "\u042d\u043a\u0441\u0442\u0440\u0430\u0433\u0440\u0443\u043f\u043f"
+          },
+          "createWorkPackage": {
+            "href": "/api/v3/projects/54/work_packages/form",
+            "method": "post"
+          },
+          "createWorkPackageImmediately": {
+            "href": "/api/v3/projects/54/work_packages",
+            "method": "post"
+          },
+          "workPackages": {
+            "href": "/api/v3/projects/54/work_packages"
+          },
+          "categories": {
+            "href": "/api/v3/projects/54/categories"
+          },
+          "versions": {
+            "href": "/api/v3/projects/54/versions"
+          },
+          "memberships": {
+            "href": "/api/v3/memberships?filters=%5B%7B%22project%22%3A%7B%22operator%22%3A%22%3D%22%2C%22values%22%3A%5B%2254%22%5D%7D%7D%5D"
+          },
+          "types": {
+            "href": "/api/v3/projects/54/types"
+          },
+          "update": {
+            "href": "/api/v3/projects/54/form",
+            "method": "post"
+          },
+          "updateImmediately": {
+            "href": "/api/v3/projects/54",
+            "method": "patch"
+          },
+          "delete": {
+            "href": "/api/v3/projects/54",
+            "method": "delete"
+          },
+          "schema": {
+            "href": "/api/v3/projects/schema"
+          },
+          "status": {
+            "href": null
+          },
+          "ancestors": [],
+          "parent": {
+            "href": null
+          }
+        }
+      },
+      {
+        "_type": "Project",
+        "id": 53,
+        "identifier": "bt24-68",
+        "name": "\u042d\u0419 \u0411\u0418 \u042d\u0421",
+        "active": true,
+        "public": false,
+        "description": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "createdAt": "2023-12-12T05:11:16Z",
+        "updatedAt": "2023-12-12T06:47:14Z",
+        "statusExplanation": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "_links": {
+          "self": {
+            "href": "/api/v3/projects/53",
+            "title": "\u042d\u0419 \u0411\u0418 \u042d\u0421"
+          },
+          "createWorkPackage": {
+            "href": "/api/v3/projects/53/work_packages/form",
+            "method": "post"
+          },
+          "createWorkPackageImmediately": {
+            "href": "/api/v3/projects/53/work_packages",
+            "method": "post"
+          },
+          "workPackages": {
+            "href": "/api/v3/projects/53/work_packages"
+          },
+          "categories": {
+            "href": "/api/v3/projects/53/categories"
+          },
+          "versions": {
+            "href": "/api/v3/projects/53/versions"
+          },
+          "memberships": {
+            "href": "/api/v3/memberships?filters=%5B%7B%22project%22%3A%7B%22operator%22%3A%22%3D%22%2C%22values%22%3A%5B%2253%22%5D%7D%7D%5D"
+          },
+          "types": {
+            "href": "/api/v3/projects/53/types"
+          },
+          "update": {
+            "href": "/api/v3/projects/53/form",
+            "method": "post"
+          },
+          "updateImmediately": {
+            "href": "/api/v3/projects/53",
+            "method": "patch"
+          },
+          "delete": {
+            "href": "/api/v3/projects/53",
+            "method": "delete"
+          },
+          "schema": {
+            "href": "/api/v3/projects/schema"
+          },
+          "status": {
+            "href": null
+          },
+          "ancestors": [],
+          "parent": {
+            "href": null
+          }
+        }
+      },
+      {
+        "_type": "Project",
+        "id": 52,
+        "identifier": "bt24-40",
+        "name": "\u0424\u043e\u0440\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u043a\u043e\u043c\u0430\u043d\u0434\u044b",
+        "active": true,
+        "public": false,
+        "description": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "createdAt": "2023-12-12T05:11:16Z",
+        "updatedAt": "2023-12-12T06:47:14Z",
+        "statusExplanation": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "_links": {
+          "self": {
+            "href": "/api/v3/projects/52",
+            "title": "\u0424\u043e\u0440\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u043a\u043e\u043c\u0430\u043d\u0434\u044b"
+          },
+          "createWorkPackage": {
+            "href": "/api/v3/projects/52/work_packages/form",
+            "method": "post"
+          },
+          "createWorkPackageImmediately": {
+            "href": "/api/v3/projects/52/work_packages",
+            "method": "post"
+          },
+          "workPackages": {
+            "href": "/api/v3/projects/52/work_packages"
+          },
+          "categories": {
+            "href": "/api/v3/projects/52/categories"
+          },
+          "versions": {
+            "href": "/api/v3/projects/52/versions"
+          },
+          "memberships": {
+            "href": "/api/v3/memberships?filters=%5B%7B%22project%22%3A%7B%22operator%22%3A%22%3D%22%2C%22values%22%3A%5B%2252%22%5D%7D%7D%5D"
+          },
+          "types": {
+            "href": "/api/v3/projects/52/types"
+          },
+          "update": {
+            "href": "/api/v3/projects/52/form",
+            "method": "post"
+          },
+          "updateImmediately": {
+            "href": "/api/v3/projects/52",
+            "method": "patch"
+          },
+          "delete": {
+            "href": "/api/v3/projects/52",
+            "method": "delete"
+          },
+          "schema": {
+            "href": "/api/v3/projects/schema"
+          },
+          "status": {
+            "href": null
+          },
+          "ancestors": [],
+          "parent": {
+            "href": null
+          }
+        }
+      },
+      {
+        "_type": "Project",
+        "id": 51,
+        "identifier": "bt24-114",
+        "name": "\u0423\u041c\u0410",
+        "active": true,
+        "public": false,
+        "description": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "createdAt": "2023-12-12T05:11:15Z",
+        "updatedAt": "2023-12-12T06:47:14Z",
+        "statusExplanation": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "_links": {
+          "self": {
+            "href": "/api/v3/projects/51",
+            "title": "\u0423\u041c\u0410"
+          },
+          "createWorkPackage": {
+            "href": "/api/v3/projects/51/work_packages/form",
+            "method": "post"
+          },
+          "createWorkPackageImmediately": {
+            "href": "/api/v3/projects/51/work_packages",
+            "method": "post"
+          },
+          "workPackages": {
+            "href": "/api/v3/projects/51/work_packages"
+          },
+          "categories": {
+            "href": "/api/v3/projects/51/categories"
+          },
+          "versions": {
+            "href": "/api/v3/projects/51/versions"
+          },
+          "memberships": {
+            "href": "/api/v3/memberships?filters=%5B%7B%22project%22%3A%7B%22operator%22%3A%22%3D%22%2C%22values%22%3A%5B%2251%22%5D%7D%7D%5D"
+          },
+          "types": {
+            "href": "/api/v3/projects/51/types"
+          },
+          "update": {
+            "href": "/api/v3/projects/51/form",
+            "method": "post"
+          },
+          "updateImmediately": {
+            "href": "/api/v3/projects/51",
+            "method": "patch"
+          },
+          "delete": {
+            "href": "/api/v3/projects/51",
+            "method": "delete"
+          },
+          "schema": {
+            "href": "/api/v3/projects/schema"
+          },
+          "status": {
+            "href": null
+          },
+          "ancestors": [],
+          "parent": {
+            "href": null
+          }
+        }
+      },
+      {
+        "_type": "Project",
+        "id": 50,
+        "identifier": "bt24-126",
+        "name": "\u0423\u0417\u0422\u042f\u0416\u041f\u0420\u041e\u041c",
+        "active": true,
+        "public": false,
+        "description": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "createdAt": "2023-12-12T05:11:14Z",
+        "updatedAt": "2023-12-12T06:47:14Z",
+        "statusExplanation": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "_links": {
+          "self": {
+            "href": "/api/v3/projects/50",
+            "title": "\u0423\u0417\u0422\u042f\u0416\u041f\u0420\u041e\u041c"
+          },
+          "createWorkPackage": {
+            "href": "/api/v3/projects/50/work_packages/form",
+            "method": "post"
+          },
+          "createWorkPackageImmediately": {
+            "href": "/api/v3/projects/50/work_packages",
+            "method": "post"
+          },
+          "workPackages": {
+            "href": "/api/v3/projects/50/work_packages"
+          },
+          "categories": {
+            "href": "/api/v3/projects/50/categories"
+          },
+          "versions": {
+            "href": "/api/v3/projects/50/versions"
+          },
+          "memberships": {
+            "href": "/api/v3/memberships?filters=%5B%7B%22project%22%3A%7B%22operator%22%3A%22%3D%22%2C%22values%22%3A%5B%2250%22%5D%7D%7D%5D"
+          },
+          "types": {
+            "href": "/api/v3/projects/50/types"
+          },
+          "update": {
+            "href": "/api/v3/projects/50/form",
+            "method": "post"
+          },
+          "updateImmediately": {
+            "href": "/api/v3/projects/50",
+            "method": "patch"
+          },
+          "delete": {
+            "href": "/api/v3/projects/50",
+            "method": "delete"
+          },
+          "schema": {
+            "href": "/api/v3/projects/schema"
+          },
+          "status": {
+            "href": null
+          },
+          "ancestors": [],
+          "parent": {
+            "href": null
+          }
+        }
+      },
+      {
+        "_type": "Project",
+        "id": 49,
+        "identifier": "bt24-96",
+        "name": "\u0422\u041a \u0421\u041e\u0424\u0418\u0419\u0421\u041a\u0410\u042f",
+        "active": true,
+        "public": false,
+        "description": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "createdAt": "2023-12-12T05:11:14Z",
+        "updatedAt": "2023-12-12T06:47:14Z",
+        "statusExplanation": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "_links": {
+          "self": {
+            "href": "/api/v3/projects/49",
+            "title": "\u0422\u041a \u0421\u041e\u0424\u0418\u0419\u0421\u041a\u0410\u042f"
+          },
+          "createWorkPackage": {
+            "href": "/api/v3/projects/49/work_packages/form",
+            "method": "post"
+          },
+          "createWorkPackageImmediately": {
+            "href": "/api/v3/projects/49/work_packages",
+            "method": "post"
+          },
+          "workPackages": {
+            "href": "/api/v3/projects/49/work_packages"
+          },
+          "categories": {
+            "href": "/api/v3/projects/49/categories"
+          },
+          "versions": {
+            "href": "/api/v3/projects/49/versions"
+          },
+          "memberships": {
+            "href": "/api/v3/memberships?filters=%5B%7B%22project%22%3A%7B%22operator%22%3A%22%3D%22%2C%22values%22%3A%5B%2249%22%5D%7D%7D%5D"
+          },
+          "types": {
+            "href": "/api/v3/projects/49/types"
+          },
+          "update": {
+            "href": "/api/v3/projects/49/form",
+            "method": "post"
+          },
+          "updateImmediately": {
+            "href": "/api/v3/projects/49",
+            "method": "patch"
+          },
+          "delete": {
+            "href": "/api/v3/projects/49",
+            "method": "delete"
+          },
+          "schema": {
+            "href": "/api/v3/projects/schema"
+          },
+          "status": {
+            "href": null
+          },
+          "ancestors": [],
+          "parent": {
+            "href": null
+          }
+        }
+      },
+      {
+        "_type": "Project",
+        "id": 48,
+        "identifier": "bt24-90",
+        "name": "\u0422\u041a \u0420\u0423\u0421\u041b\u0410\u041d \u0410\u0432\u0442\u043e\u0431\u0430\u0437\u0430 (\u0411\u0418\u0422.\u0421\u0442\u0440\u043e\u0438\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u043e)",
+        "active": true,
+        "public": false,
+        "description": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "createdAt": "2023-12-12T05:11:13Z",
+        "updatedAt": "2023-12-12T06:47:14Z",
+        "statusExplanation": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "_links": {
+          "self": {
+            "href": "/api/v3/projects/48",
+            "title": "\u0422\u041a \u0420\u0423\u0421\u041b\u0410\u041d \u0410\u0432\u0442\u043e\u0431\u0430\u0437\u0430 (\u0411\u0418\u0422.\u0421\u0442\u0440\u043e\u0438\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u043e)"
+          },
+          "createWorkPackage": {
+            "href": "/api/v3/projects/48/work_packages/form",
+            "method": "post"
+          },
+          "createWorkPackageImmediately": {
+            "href": "/api/v3/projects/48/work_packages",
+            "method": "post"
+          },
+          "workPackages": {
+            "href": "/api/v3/projects/48/work_packages"
+          },
+          "categories": {
+            "href": "/api/v3/projects/48/categories"
+          },
+          "versions": {
+            "href": "/api/v3/projects/48/versions"
+          },
+          "memberships": {
+            "href": "/api/v3/memberships?filters=%5B%7B%22project%22%3A%7B%22operator%22%3A%22%3D%22%2C%22values%22%3A%5B%2248%22%5D%7D%7D%5D"
+          },
+          "types": {
+            "href": "/api/v3/projects/48/types"
+          },
+          "update": {
+            "href": "/api/v3/projects/48/form",
+            "method": "post"
+          },
+          "updateImmediately": {
+            "href": "/api/v3/projects/48",
+            "method": "patch"
+          },
+          "delete": {
+            "href": "/api/v3/projects/48",
+            "method": "delete"
+          },
+          "schema": {
+            "href": "/api/v3/projects/schema"
+          },
+          "status": {
+            "href": null
+          },
+          "ancestors": [],
+          "parent": {
+            "href": null
+          }
+        }
+      },
+      {
+        "_type": "Project",
+        "id": 47,
+        "identifier": "bt24-86",
+        "name": "\u0422\u041a \u0420\u0423\u0421\u041b\u0410\u041d (\u0414\u041e\u041a\u0423\u041c\u0415\u041d\u0422\u041e\u041e\u0411\u041e\u0420\u041e\u0422 \u041a\u041e\u0420\u041f)",
+        "active": true,
+        "public": false,
+        "description": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "createdAt": "2023-12-12T05:11:13Z",
+        "updatedAt": "2023-12-12T06:47:14Z",
+        "statusExplanation": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "_links": {
+          "self": {
+            "href": "/api/v3/projects/47",
+            "title": "\u0422\u041a \u0420\u0423\u0421\u041b\u0410\u041d (\u0414\u041e\u041a\u0423\u041c\u0415\u041d\u0422\u041e\u041e\u0411\u041e\u0420\u041e\u0422 \u041a\u041e\u0420\u041f)"
+          },
+          "createWorkPackage": {
+            "href": "/api/v3/projects/47/work_packages/form",
+            "method": "post"
+          },
+          "createWorkPackageImmediately": {
+            "href": "/api/v3/projects/47/work_packages",
+            "method": "post"
+          },
+          "workPackages": {
+            "href": "/api/v3/projects/47/work_packages"
+          },
+          "categories": {
+            "href": "/api/v3/projects/47/categories"
+          },
+          "versions": {
+            "href": "/api/v3/projects/47/versions"
+          },
+          "memberships": {
+            "href": "/api/v3/memberships?filters=%5B%7B%22project%22%3A%7B%22operator%22%3A%22%3D%22%2C%22values%22%3A%5B%2247%22%5D%7D%7D%5D"
+          },
+          "types": {
+            "href": "/api/v3/projects/47/types"
+          },
+          "update": {
+            "href": "/api/v3/projects/47/form",
+            "method": "post"
+          },
+          "updateImmediately": {
+            "href": "/api/v3/projects/47",
+            "method": "patch"
+          },
+          "delete": {
+            "href": "/api/v3/projects/47",
+            "method": "delete"
+          },
+          "schema": {
+            "href": "/api/v3/projects/schema"
+          },
+          "status": {
+            "href": null
+          },
+          "ancestors": [],
+          "parent": {
+            "href": null
+          }
+        }
+      },
+      {
+        "_type": "Project",
+        "id": 46,
+        "identifier": "bt24-60",
+        "name": "\u0422\u041a \u0420\u0423\u0421\u041b\u0410\u041d",
+        "active": true,
+        "public": false,
+        "description": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "createdAt": "2023-12-12T05:11:12Z",
+        "updatedAt": "2023-12-12T06:47:14Z",
+        "statusExplanation": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "_links": {
+          "self": {
+            "href": "/api/v3/projects/46",
+            "title": "\u0422\u041a \u0420\u0423\u0421\u041b\u0410\u041d"
+          },
+          "createWorkPackage": {
+            "href": "/api/v3/projects/46/work_packages/form",
+            "method": "post"
+          },
+          "createWorkPackageImmediately": {
+            "href": "/api/v3/projects/46/work_packages",
+            "method": "post"
+          },
+          "workPackages": {
+            "href": "/api/v3/projects/46/work_packages"
+          },
+          "categories": {
+            "href": "/api/v3/projects/46/categories"
+          },
+          "versions": {
+            "href": "/api/v3/projects/46/versions"
+          },
+          "memberships": {
+            "href": "/api/v3/memberships?filters=%5B%7B%22project%22%3A%7B%22operator%22%3A%22%3D%22%2C%22values%22%3A%5B%2246%22%5D%7D%7D%5D"
+          },
+          "types": {
+            "href": "/api/v3/projects/46/types"
+          },
+          "update": {
+            "href": "/api/v3/projects/46/form",
+            "method": "post"
+          },
+          "updateImmediately": {
+            "href": "/api/v3/projects/46",
+            "method": "patch"
+          },
+          "delete": {
+            "href": "/api/v3/projects/46",
+            "method": "delete"
+          },
+          "schema": {
+            "href": "/api/v3/projects/schema"
+          },
+          "status": {
+            "href": null
+          },
+          "ancestors": [],
+          "parent": {
+            "href": null
+          }
+        }
+      },
+      {
+        "_type": "Project",
+        "id": 45,
+        "identifier": "bt24-74",
+        "name": "\u0422\u0415\u0425\u041d\u041e \u0413\u0420\u0423\u041f\u041f",
+        "active": true,
+        "public": false,
+        "description": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "createdAt": "2023-12-12T05:11:12Z",
+        "updatedAt": "2023-12-12T06:47:14Z",
+        "statusExplanation": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "_links": {
+          "self": {
+            "href": "/api/v3/projects/45",
+            "title": "\u0422\u0415\u0425\u041d\u041e \u0413\u0420\u0423\u041f\u041f"
+          },
+          "createWorkPackage": {
+            "href": "/api/v3/projects/45/work_packages/form",
+            "method": "post"
+          },
+          "createWorkPackageImmediately": {
+            "href": "/api/v3/projects/45/work_packages",
+            "method": "post"
+          },
+          "workPackages": {
+            "href": "/api/v3/projects/45/work_packages"
+          },
+          "categories": {
+            "href": "/api/v3/projects/45/categories"
+          },
+          "versions": {
+            "href": "/api/v3/projects/45/versions"
+          },
+          "memberships": {
+            "href": "/api/v3/memberships?filters=%5B%7B%22project%22%3A%7B%22operator%22%3A%22%3D%22%2C%22values%22%3A%5B%2245%22%5D%7D%7D%5D"
+          },
+          "types": {
+            "href": "/api/v3/projects/45/types"
+          },
+          "update": {
+            "href": "/api/v3/projects/45/form",
+            "method": "post"
+          },
+          "updateImmediately": {
+            "href": "/api/v3/projects/45",
+            "method": "patch"
+          },
+          "delete": {
+            "href": "/api/v3/projects/45",
+            "method": "delete"
+          },
+          "schema": {
+            "href": "/api/v3/projects/schema"
+          },
+          "status": {
+            "href": null
+          },
+          "ancestors": [],
+          "parent": {
+            "href": null
+          }
+        }
+      },
+      {
+        "_type": "Project",
+        "id": 44,
+        "identifier": "bt24-130",
+        "name": "\u0422\u0415\u041c\u0410\u041b\u0410\u0419\u0422\u0418\u041d\u0413",
+        "active": true,
+        "public": false,
+        "description": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "createdAt": "2023-12-12T05:11:11Z",
+        "updatedAt": "2023-12-12T06:47:14Z",
+        "statusExplanation": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "_links": {
+          "self": {
+            "href": "/api/v3/projects/44",
+            "title": "\u0422\u0415\u041c\u0410\u041b\u0410\u0419\u0422\u0418\u041d\u0413"
+          },
+          "createWorkPackage": {
+            "href": "/api/v3/projects/44/work_packages/form",
+            "method": "post"
+          },
+          "createWorkPackageImmediately": {
+            "href": "/api/v3/projects/44/work_packages",
+            "method": "post"
+          },
+          "workPackages": {
+            "href": "/api/v3/projects/44/work_packages"
+          },
+          "categories": {
+            "href": "/api/v3/projects/44/categories"
+          },
+          "versions": {
+            "href": "/api/v3/projects/44/versions"
+          },
+          "memberships": {
+            "href": "/api/v3/memberships?filters=%5B%7B%22project%22%3A%7B%22operator%22%3A%22%3D%22%2C%22values%22%3A%5B%2244%22%5D%7D%7D%5D"
+          },
+          "types": {
+            "href": "/api/v3/projects/44/types"
+          },
+          "update": {
+            "href": "/api/v3/projects/44/form",
+            "method": "post"
+          },
+          "updateImmediately": {
+            "href": "/api/v3/projects/44",
+            "method": "patch"
+          },
+          "delete": {
+            "href": "/api/v3/projects/44",
+            "method": "delete"
+          },
+          "schema": {
+            "href": "/api/v3/projects/schema"
+          },
+          "status": {
+            "href": null
+          },
+          "ancestors": [],
+          "parent": {
+            "href": null
+          }
+        }
+      },
+      {
+        "_type": "Project",
+        "id": 43,
+        "identifier": "bt24-106",
+        "name": "\u0421\u041a\u0412",
+        "active": true,
+        "public": false,
+        "description": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "createdAt": "2023-12-12T05:11:11Z",
+        "updatedAt": "2023-12-12T06:47:14Z",
+        "statusExplanation": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "_links": {
+          "self": {
+            "href": "/api/v3/projects/43",
+            "title": "\u0421\u041a\u0412"
+          },
+          "createWorkPackage": {
+            "href": "/api/v3/projects/43/work_packages/form",
+            "method": "post"
+          },
+          "createWorkPackageImmediately": {
+            "href": "/api/v3/projects/43/work_packages",
+            "method": "post"
+          },
+          "workPackages": {
+            "href": "/api/v3/projects/43/work_packages"
+          },
+          "categories": {
+            "href": "/api/v3/projects/43/categories"
+          },
+          "versions": {
+            "href": "/api/v3/projects/43/versions"
+          },
+          "memberships": {
+            "href": "/api/v3/memberships?filters=%5B%7B%22project%22%3A%7B%22operator%22%3A%22%3D%22%2C%22values%22%3A%5B%2243%22%5D%7D%7D%5D"
+          },
+          "types": {
+            "href": "/api/v3/projects/43/types"
+          },
+          "update": {
+            "href": "/api/v3/projects/43/form",
+            "method": "post"
+          },
+          "updateImmediately": {
+            "href": "/api/v3/projects/43",
+            "method": "patch"
+          },
+          "delete": {
+            "href": "/api/v3/projects/43",
+            "method": "delete"
+          },
+          "schema": {
+            "href": "/api/v3/projects/schema"
+          },
+          "status": {
+            "href": null
+          },
+          "ancestors": [],
+          "parent": {
+            "href": null
+          }
+        }
+      },
+      {
+        "_type": "Project",
+        "id": 42,
+        "identifier": "bt24-1",
+        "name": "\u0421\u0434\u0435\u043b\u043a\u0438",
+        "active": true,
+        "public": false,
+        "description": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "createdAt": "2023-12-12T05:11:10Z",
+        "updatedAt": "2023-12-12T06:47:14Z",
+        "statusExplanation": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "_links": {
+          "self": {
+            "href": "/api/v3/projects/42",
+            "title": "\u0421\u0434\u0435\u043b\u043a\u0438"
+          },
+          "createWorkPackage": {
+            "href": "/api/v3/projects/42/work_packages/form",
+            "method": "post"
+          },
+          "createWorkPackageImmediately": {
+            "href": "/api/v3/projects/42/work_packages",
+            "method": "post"
+          },
+          "workPackages": {
+            "href": "/api/v3/projects/42/work_packages"
+          },
+          "categories": {
+            "href": "/api/v3/projects/42/categories"
+          },
+          "versions": {
+            "href": "/api/v3/projects/42/versions"
+          },
+          "memberships": {
+            "href": "/api/v3/memberships?filters=%5B%7B%22project%22%3A%7B%22operator%22%3A%22%3D%22%2C%22values%22%3A%5B%2242%22%5D%7D%7D%5D"
+          },
+          "types": {
+            "href": "/api/v3/projects/42/types"
+          },
+          "update": {
+            "href": "/api/v3/projects/42/form",
+            "method": "post"
+          },
+          "updateImmediately": {
+            "href": "/api/v3/projects/42",
+            "method": "patch"
+          },
+          "delete": {
+            "href": "/api/v3/projects/42",
+            "method": "delete"
+          },
+          "schema": {
+            "href": "/api/v3/projects/schema"
+          },
+          "status": {
+            "href": null
+          },
+          "ancestors": [],
+          "parent": {
+            "href": null
+          }
+        }
+      },
+      {
+        "_type": "Project",
+        "id": 41,
+        "identifier": "bt24-66",
+        "name": "\u0421\u0412\u0410\u041d\u041b\u042e\u041a\u0421",
+        "active": true,
+        "public": false,
+        "description": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "createdAt": "2023-12-12T05:11:09Z",
+        "updatedAt": "2023-12-12T06:47:14Z",
+        "statusExplanation": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "_links": {
+          "self": {
+            "href": "/api/v3/projects/41",
+            "title": "\u0421\u0412\u0410\u041d\u041b\u042e\u041a\u0421"
+          },
+          "createWorkPackage": {
+            "href": "/api/v3/projects/41/work_packages/form",
+            "method": "post"
+          },
+          "createWorkPackageImmediately": {
+            "href": "/api/v3/projects/41/work_packages",
+            "method": "post"
+          },
+          "workPackages": {
+            "href": "/api/v3/projects/41/work_packages"
+          },
+          "categories": {
+            "href": "/api/v3/projects/41/categories"
+          },
+          "versions": {
+            "href": "/api/v3/projects/41/versions"
+          },
+          "memberships": {
+            "href": "/api/v3/memberships?filters=%5B%7B%22project%22%3A%7B%22operator%22%3A%22%3D%22%2C%22values%22%3A%5B%2241%22%5D%7D%7D%5D"
+          },
+          "types": {
+            "href": "/api/v3/projects/41/types"
+          },
+          "update": {
+            "href": "/api/v3/projects/41/form",
+            "method": "post"
+          },
+          "updateImmediately": {
+            "href": "/api/v3/projects/41",
+            "method": "patch"
+          },
+          "delete": {
+            "href": "/api/v3/projects/41",
+            "method": "delete"
+          },
+          "schema": {
+            "href": "/api/v3/projects/schema"
+          },
+          "status": {
+            "href": null
+          },
+          "ancestors": [],
+          "parent": {
+            "href": null
+          }
+        }
+      },
+      {
+        "_type": "Project",
+        "id": 40,
+        "identifier": "bt24-76",
+        "name": "\u0420\u0423\u0421\u041a\u041e\u041d\u0411\u0415\u041b\u042c\u0422",
+        "active": true,
+        "public": false,
+        "description": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "createdAt": "2023-12-12T05:11:09Z",
+        "updatedAt": "2023-12-12T06:47:14Z",
+        "statusExplanation": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "_links": {
+          "self": {
+            "href": "/api/v3/projects/40",
+            "title": "\u0420\u0423\u0421\u041a\u041e\u041d\u0411\u0415\u041b\u042c\u0422"
+          },
+          "createWorkPackage": {
+            "href": "/api/v3/projects/40/work_packages/form",
+            "method": "post"
+          },
+          "createWorkPackageImmediately": {
+            "href": "/api/v3/projects/40/work_packages",
+            "method": "post"
+          },
+          "workPackages": {
+            "href": "/api/v3/projects/40/work_packages"
+          },
+          "categories": {
+            "href": "/api/v3/projects/40/categories"
+          },
+          "versions": {
+            "href": "/api/v3/projects/40/versions"
+          },
+          "memberships": {
+            "href": "/api/v3/memberships?filters=%5B%7B%22project%22%3A%7B%22operator%22%3A%22%3D%22%2C%22values%22%3A%5B%2240%22%5D%7D%7D%5D"
+          },
+          "types": {
+            "href": "/api/v3/projects/40/types"
+          },
+          "update": {
+            "href": "/api/v3/projects/40/form",
+            "method": "post"
+          },
+          "updateImmediately": {
+            "href": "/api/v3/projects/40",
+            "method": "patch"
+          },
+          "delete": {
+            "href": "/api/v3/projects/40",
+            "method": "delete"
+          },
+          "schema": {
+            "href": "/api/v3/projects/schema"
+          },
+          "status": {
+            "href": null
+          },
+          "ancestors": [],
+          "parent": {
+            "href": null
+          }
+        }
+      },
+      {
+        "_type": "Project",
+        "id": 39,
+        "identifier": "bt24-64",
+        "name": "\u0420\u0415\u041c\u041a\u0420\u0415\u041f",
+        "active": true,
+        "public": false,
+        "description": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "createdAt": "2023-12-12T05:11:08Z",
+        "updatedAt": "2023-12-12T06:47:14Z",
+        "statusExplanation": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "_links": {
+          "self": {
+            "href": "/api/v3/projects/39",
+            "title": "\u0420\u0415\u041c\u041a\u0420\u0415\u041f"
+          },
+          "createWorkPackage": {
+            "href": "/api/v3/projects/39/work_packages/form",
+            "method": "post"
+          },
+          "createWorkPackageImmediately": {
+            "href": "/api/v3/projects/39/work_packages",
+            "method": "post"
+          },
+          "workPackages": {
+            "href": "/api/v3/projects/39/work_packages"
+          },
+          "categories": {
+            "href": "/api/v3/projects/39/categories"
+          },
+          "versions": {
+            "href": "/api/v3/projects/39/versions"
+          },
+          "memberships": {
+            "href": "/api/v3/memberships?filters=%5B%7B%22project%22%3A%7B%22operator%22%3A%22%3D%22%2C%22values%22%3A%5B%2239%22%5D%7D%7D%5D"
+          },
+          "types": {
+            "href": "/api/v3/projects/39/types"
+          },
+          "update": {
+            "href": "/api/v3/projects/39/form",
+            "method": "post"
+          },
+          "updateImmediately": {
+            "href": "/api/v3/projects/39",
+            "method": "patch"
+          },
+          "delete": {
+            "href": "/api/v3/projects/39",
+            "method": "delete"
+          },
+          "schema": {
+            "href": "/api/v3/projects/schema"
+          },
+          "status": {
+            "href": null
+          },
+          "ancestors": [],
+          "parent": {
+            "href": null
+          }
+        }
+      },
+      {
+        "_type": "Project",
+        "id": 38,
+        "identifier": "bt24-78",
+        "name": "\u0420\u0435\u043a\u043b\u0430\u043c\u0430 \u043e\u043d\u043b\u0430\u0439\u043d",
+        "active": true,
+        "public": false,
+        "description": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "createdAt": "2023-12-12T05:11:08Z",
+        "updatedAt": "2023-12-12T06:47:14Z",
+        "statusExplanation": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "_links": {
+          "self": {
+            "href": "/api/v3/projects/38",
+            "title": "\u0420\u0435\u043a\u043b\u0430\u043c\u0430 \u043e\u043d\u043b\u0430\u0439\u043d"
+          },
+          "createWorkPackage": {
+            "href": "/api/v3/projects/38/work_packages/form",
+            "method": "post"
+          },
+          "createWorkPackageImmediately": {
+            "href": "/api/v3/projects/38/work_packages",
+            "method": "post"
+          },
+          "workPackages": {
+            "href": "/api/v3/projects/38/work_packages"
+          },
+          "categories": {
+            "href": "/api/v3/projects/38/categories"
+          },
+          "versions": {
+            "href": "/api/v3/projects/38/versions"
+          },
+          "memberships": {
+            "href": "/api/v3/memberships?filters=%5B%7B%22project%22%3A%7B%22operator%22%3A%22%3D%22%2C%22values%22%3A%5B%2238%22%5D%7D%7D%5D"
+          },
+          "types": {
+            "href": "/api/v3/projects/38/types"
+          },
+          "update": {
+            "href": "/api/v3/projects/38/form",
+            "method": "post"
+          },
+          "updateImmediately": {
+            "href": "/api/v3/projects/38",
+            "method": "patch"
+          },
+          "delete": {
+            "href": "/api/v3/projects/38",
+            "method": "delete"
+          },
+          "schema": {
+            "href": "/api/v3/projects/schema"
+          },
+          "status": {
+            "href": null
+          },
+          "ancestors": [],
+          "parent": {
+            "href": null
+          }
+        }
+      },
+      {
+        "_type": "Project",
+        "id": 37,
+        "identifier": "bt24-10",
+        "name": "\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u0441\u0430\u0439\u0442\u0430",
+        "active": true,
+        "public": false,
+        "description": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "createdAt": "2023-12-12T05:11:07Z",
+        "updatedAt": "2023-12-12T06:47:14Z",
+        "statusExplanation": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "_links": {
+          "self": {
+            "href": "/api/v3/projects/37",
+            "title": "\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u0441\u0430\u0439\u0442\u0430"
+          },
+          "createWorkPackage": {
+            "href": "/api/v3/projects/37/work_packages/form",
+            "method": "post"
+          },
+          "createWorkPackageImmediately": {
+            "href": "/api/v3/projects/37/work_packages",
+            "method": "post"
+          },
+          "workPackages": {
+            "href": "/api/v3/projects/37/work_packages"
+          },
+          "categories": {
+            "href": "/api/v3/projects/37/categories"
+          },
+          "versions": {
+            "href": "/api/v3/projects/37/versions"
+          },
+          "memberships": {
+            "href": "/api/v3/memberships?filters=%5B%7B%22project%22%3A%7B%22operator%22%3A%22%3D%22%2C%22values%22%3A%5B%2237%22%5D%7D%7D%5D"
+          },
+          "types": {
+            "href": "/api/v3/projects/37/types"
+          },
+          "update": {
+            "href": "/api/v3/projects/37/form",
+            "method": "post"
+          },
+          "updateImmediately": {
+            "href": "/api/v3/projects/37",
+            "method": "patch"
+          },
+          "delete": {
+            "href": "/api/v3/projects/37",
+            "method": "delete"
+          },
+          "schema": {
+            "href": "/api/v3/projects/schema"
+          },
+          "status": {
+            "href": null
+          },
+          "ancestors": [],
+          "parent": {
+            "href": null
+          }
+        }
+      },
+      {
+        "_type": "Project",
+        "id": 36,
+        "identifier": "bt24-70",
+        "name": "\u041f\u0418\u041d\u0422\u0410",
+        "active": true,
+        "public": false,
+        "description": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "createdAt": "2023-12-12T05:11:05Z",
+        "updatedAt": "2023-12-12T06:47:14Z",
+        "statusExplanation": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "_links": {
+          "self": {
+            "href": "/api/v3/projects/36",
+            "title": "\u041f\u0418\u041d\u0422\u0410"
+          },
+          "createWorkPackage": {
+            "href": "/api/v3/projects/36/work_packages/form",
+            "method": "post"
+          },
+          "createWorkPackageImmediately": {
+            "href": "/api/v3/projects/36/work_packages",
+            "method": "post"
+          },
+          "workPackages": {
+            "href": "/api/v3/projects/36/work_packages"
+          },
+          "categories": {
+            "href": "/api/v3/projects/36/categories"
+          },
+          "versions": {
+            "href": "/api/v3/projects/36/versions"
+          },
+          "memberships": {
+            "href": "/api/v3/memberships?filters=%5B%7B%22project%22%3A%7B%22operator%22%3A%22%3D%22%2C%22values%22%3A%5B%2236%22%5D%7D%7D%5D"
+          },
+          "types": {
+            "href": "/api/v3/projects/36/types"
+          },
+          "update": {
+            "href": "/api/v3/projects/36/form",
+            "method": "post"
+          },
+          "updateImmediately": {
+            "href": "/api/v3/projects/36",
+            "method": "patch"
+          },
+          "delete": {
+            "href": "/api/v3/projects/36",
+            "method": "delete"
+          },
+          "schema": {
+            "href": "/api/v3/projects/schema"
+          },
+          "status": {
+            "href": null
+          },
+          "ancestors": [],
+          "parent": {
+            "href": null
+          }
+        }
+      },
+      {
+        "_type": "Project",
+        "id": 35,
+        "identifier": "bt24-20",
+        "name": "\u041f\u0435\u0440\u0435\u043d\u043e\u0441 \u0434\u0430\u043d\u043d\u044b\u0445 \u0411\u041f/\u0423\u0422 \u0432 ERP",
+        "active": true,
+        "public": false,
+        "description": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "createdAt": "2023-12-12T05:11:05Z",
+        "updatedAt": "2023-12-12T06:47:14Z",
+        "statusExplanation": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "_links": {
+          "self": {
+            "href": "/api/v3/projects/35",
+            "title": "\u041f\u0435\u0440\u0435\u043d\u043e\u0441 \u0434\u0430\u043d\u043d\u044b\u0445 \u0411\u041f/\u0423\u0422 \u0432 ERP"
+          },
+          "createWorkPackage": {
+            "href": "/api/v3/projects/35/work_packages/form",
+            "method": "post"
+          },
+          "createWorkPackageImmediately": {
+            "href": "/api/v3/projects/35/work_packages",
+            "method": "post"
+          },
+          "workPackages": {
+            "href": "/api/v3/projects/35/work_packages"
+          },
+          "categories": {
+            "href": "/api/v3/projects/35/categories"
+          },
+          "versions": {
+            "href": "/api/v3/projects/35/versions"
+          },
+          "memberships": {
+            "href": "/api/v3/memberships?filters=%5B%7B%22project%22%3A%7B%22operator%22%3A%22%3D%22%2C%22values%22%3A%5B%2235%22%5D%7D%7D%5D"
+          },
+          "types": {
+            "href": "/api/v3/projects/35/types"
+          },
+          "update": {
+            "href": "/api/v3/projects/35/form",
+            "method": "post"
+          },
+          "updateImmediately": {
+            "href": "/api/v3/projects/35",
+            "method": "patch"
+          },
+          "delete": {
+            "href": "/api/v3/projects/35",
+            "method": "delete"
+          },
+          "schema": {
+            "href": "/api/v3/projects/schema"
+          },
+          "status": {
+            "href": null
+          },
+          "ancestors": [],
+          "parent": {
+            "href": null
+          }
+        }
+      },
+      {
+        "_type": "Project",
+        "id": 34,
+        "identifier": "bt24-16",
+        "name": "\u041e\u0431\u043b\u0430\u0447\u043d\u044b\u0435 \u0441\u0435\u0440\u0432\u0435\u0440\u0430",
+        "active": true,
+        "public": false,
+        "description": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "createdAt": "2023-12-12T05:11:04Z",
+        "updatedAt": "2023-12-12T06:47:14Z",
+        "statusExplanation": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "_links": {
+          "self": {
+            "href": "/api/v3/projects/34",
+            "title": "\u041e\u0431\u043b\u0430\u0447\u043d\u044b\u0435 \u0441\u0435\u0440\u0432\u0435\u0440\u0430"
+          },
+          "createWorkPackage": {
+            "href": "/api/v3/projects/34/work_packages/form",
+            "method": "post"
+          },
+          "createWorkPackageImmediately": {
+            "href": "/api/v3/projects/34/work_packages",
+            "method": "post"
+          },
+          "workPackages": {
+            "href": "/api/v3/projects/34/work_packages"
+          },
+          "categories": {
+            "href": "/api/v3/projects/34/categories"
+          },
+          "versions": {
+            "href": "/api/v3/projects/34/versions"
+          },
+          "memberships": {
+            "href": "/api/v3/memberships?filters=%5B%7B%22project%22%3A%7B%22operator%22%3A%22%3D%22%2C%22values%22%3A%5B%2234%22%5D%7D%7D%5D"
+          },
+          "types": {
+            "href": "/api/v3/projects/34/types"
+          },
+          "update": {
+            "href": "/api/v3/projects/34/form",
+            "method": "post"
+          },
+          "updateImmediately": {
+            "href": "/api/v3/projects/34",
+            "method": "patch"
+          },
+          "delete": {
+            "href": "/api/v3/projects/34",
+            "method": "delete"
+          },
+          "schema": {
+            "href": "/api/v3/projects/schema"
+          },
+          "status": {
+            "href": null
+          },
+          "ancestors": [],
+          "parent": {
+            "href": null
+          }
+        }
+      },
+      {
+        "_type": "Project",
+        "id": 33,
+        "identifier": "bt24-100",
+        "name": "\u041d\u043e\u0432\u0438\u043a\u043e\u0432\u0430 \u0418\u041f",
+        "active": true,
+        "public": false,
+        "description": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "createdAt": "2023-12-12T05:11:04Z",
+        "updatedAt": "2023-12-12T06:47:14Z",
+        "statusExplanation": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "_links": {
+          "self": {
+            "href": "/api/v3/projects/33",
+            "title": "\u041d\u043e\u0432\u0438\u043a\u043e\u0432\u0430 \u0418\u041f"
+          },
+          "createWorkPackage": {
+            "href": "/api/v3/projects/33/work_packages/form",
+            "method": "post"
+          },
+          "createWorkPackageImmediately": {
+            "href": "/api/v3/projects/33/work_packages",
+            "method": "post"
+          },
+          "workPackages": {
+            "href": "/api/v3/projects/33/work_packages"
+          },
+          "categories": {
+            "href": "/api/v3/projects/33/categories"
+          },
+          "versions": {
+            "href": "/api/v3/projects/33/versions"
+          },
+          "memberships": {
+            "href": "/api/v3/memberships?filters=%5B%7B%22project%22%3A%7B%22operator%22%3A%22%3D%22%2C%22values%22%3A%5B%2233%22%5D%7D%7D%5D"
+          },
+          "types": {
+            "href": "/api/v3/projects/33/types"
+          },
+          "update": {
+            "href": "/api/v3/projects/33/form",
+            "method": "post"
+          },
+          "updateImmediately": {
+            "href": "/api/v3/projects/33",
+            "method": "patch"
+          },
+          "delete": {
+            "href": "/api/v3/projects/33",
+            "method": "delete"
+          },
+          "schema": {
+            "href": "/api/v3/projects/schema"
+          },
+          "status": {
+            "href": null
+          },
+          "ancestors": [],
+          "parent": {
+            "href": null
+          }
+        }
+      },
+      {
+        "_type": "Project",
+        "id": 32,
+        "identifier": "bt24-8",
+        "name": "\u041d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0430 \u0438 \u0432\u043d\u0435\u0434\u0440\u0435\u043d\u0438\u0435 1\u0421:ITIL",
+        "active": true,
+        "public": false,
+        "description": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "createdAt": "2023-12-12T05:11:03Z",
+        "updatedAt": "2023-12-12T06:47:14Z",
+        "statusExplanation": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "_links": {
+          "self": {
+            "href": "/api/v3/projects/32",
+            "title": "\u041d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0430 \u0438 \u0432\u043d\u0435\u0434\u0440\u0435\u043d\u0438\u0435 1\u0421:ITIL"
+          },
+          "createWorkPackage": {
+            "href": "/api/v3/projects/32/work_packages/form",
+            "method": "post"
+          },
+          "createWorkPackageImmediately": {
+            "href": "/api/v3/projects/32/work_packages",
+            "method": "post"
+          },
+          "workPackages": {
+            "href": "/api/v3/projects/32/work_packages"
+          },
+          "categories": {
+            "href": "/api/v3/projects/32/categories"
+          },
+          "versions": {
+            "href": "/api/v3/projects/32/versions"
+          },
+          "memberships": {
+            "href": "/api/v3/memberships?filters=%5B%7B%22project%22%3A%7B%22operator%22%3A%22%3D%22%2C%22values%22%3A%5B%2232%22%5D%7D%7D%5D"
+          },
+          "types": {
+            "href": "/api/v3/projects/32/types"
+          },
+          "update": {
+            "href": "/api/v3/projects/32/form",
+            "method": "post"
+          },
+          "updateImmediately": {
+            "href": "/api/v3/projects/32",
+            "method": "patch"
+          },
+          "delete": {
+            "href": "/api/v3/projects/32",
+            "method": "delete"
+          },
+          "schema": {
+            "href": "/api/v3/projects/schema"
+          },
+          "status": {
+            "href": null
+          },
+          "ancestors": [],
+          "parent": {
+            "href": null
+          }
+        }
+      },
+      {
+        "_type": "Project",
+        "id": 31,
+        "identifier": "bt24-94",
+        "name": "\u041c\u0424\u0426 \u041b\u044e\u0431\u0435\u0440\u0435\u0446\u043a\u0438\u0439",
+        "active": true,
+        "public": false,
+        "description": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "createdAt": "2023-12-12T05:11:03Z",
+        "updatedAt": "2023-12-12T06:47:14Z",
+        "statusExplanation": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "_links": {
+          "self": {
+            "href": "/api/v3/projects/31",
+            "title": "\u041c\u0424\u0426 \u041b\u044e\u0431\u0435\u0440\u0435\u0446\u043a\u0438\u0439"
+          },
+          "createWorkPackage": {
+            "href": "/api/v3/projects/31/work_packages/form",
+            "method": "post"
+          },
+          "createWorkPackageImmediately": {
+            "href": "/api/v3/projects/31/work_packages",
+            "method": "post"
+          },
+          "workPackages": {
+            "href": "/api/v3/projects/31/work_packages"
+          },
+          "categories": {
+            "href": "/api/v3/projects/31/categories"
+          },
+          "versions": {
+            "href": "/api/v3/projects/31/versions"
+          },
+          "memberships": {
+            "href": "/api/v3/memberships?filters=%5B%7B%22project%22%3A%7B%22operator%22%3A%22%3D%22%2C%22values%22%3A%5B%2231%22%5D%7D%7D%5D"
+          },
+          "types": {
+            "href": "/api/v3/projects/31/types"
+          },
+          "update": {
+            "href": "/api/v3/projects/31/form",
+            "method": "post"
+          },
+          "updateImmediately": {
+            "href": "/api/v3/projects/31",
+            "method": "patch"
+          },
+          "delete": {
+            "href": "/api/v3/projects/31",
+            "method": "delete"
+          },
+          "schema": {
+            "href": "/api/v3/projects/schema"
+          },
+          "status": {
+            "href": null
+          },
+          "ancestors": [],
+          "parent": {
+            "href": null
+          }
+        }
+      },
+      {
+        "_type": "Project",
+        "id": 30,
+        "identifier": "bt24-132",
+        "name": "\u041c\u041f \u0422\u0420\u0415\u0419\u0414",
+        "active": true,
+        "public": false,
+        "description": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "createdAt": "2023-12-12T05:11:02Z",
+        "updatedAt": "2023-12-12T06:47:14Z",
+        "statusExplanation": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "_links": {
+          "self": {
+            "href": "/api/v3/projects/30",
+            "title": "\u041c\u041f \u0422\u0420\u0415\u0419\u0414"
+          },
+          "createWorkPackage": {
+            "href": "/api/v3/projects/30/work_packages/form",
+            "method": "post"
+          },
+          "createWorkPackageImmediately": {
+            "href": "/api/v3/projects/30/work_packages",
+            "method": "post"
+          },
+          "workPackages": {
+            "href": "/api/v3/projects/30/work_packages"
+          },
+          "categories": {
+            "href": "/api/v3/projects/30/categories"
+          },
+          "versions": {
+            "href": "/api/v3/projects/30/versions"
+          },
+          "memberships": {
+            "href": "/api/v3/memberships?filters=%5B%7B%22project%22%3A%7B%22operator%22%3A%22%3D%22%2C%22values%22%3A%5B%2230%22%5D%7D%7D%5D"
+          },
+          "types": {
+            "href": "/api/v3/projects/30/types"
+          },
+          "update": {
+            "href": "/api/v3/projects/30/form",
+            "method": "post"
+          },
+          "updateImmediately": {
+            "href": "/api/v3/projects/30",
+            "method": "patch"
+          },
+          "delete": {
+            "href": "/api/v3/projects/30",
+            "method": "delete"
+          },
+          "schema": {
+            "href": "/api/v3/projects/schema"
+          },
+          "status": {
+            "href": null
+          },
+          "ancestors": [],
+          "parent": {
+            "href": null
+          }
+        }
+      },
+      {
+        "_type": "Project",
+        "id": 29,
+        "identifier": "bt24-112",
+        "name": "\u041c\u0418\u0421\u0410\u041e",
+        "active": true,
+        "public": false,
+        "description": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "createdAt": "2023-12-12T05:11:02Z",
+        "updatedAt": "2023-12-12T06:47:14Z",
+        "statusExplanation": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "_links": {
+          "self": {
+            "href": "/api/v3/projects/29",
+            "title": "\u041c\u0418\u0421\u0410\u041e"
+          },
+          "createWorkPackage": {
+            "href": "/api/v3/projects/29/work_packages/form",
+            "method": "post"
+          },
+          "createWorkPackageImmediately": {
+            "href": "/api/v3/projects/29/work_packages",
+            "method": "post"
+          },
+          "workPackages": {
+            "href": "/api/v3/projects/29/work_packages"
+          },
+          "categories": {
+            "href": "/api/v3/projects/29/categories"
+          },
+          "versions": {
+            "href": "/api/v3/projects/29/versions"
+          },
+          "memberships": {
+            "href": "/api/v3/memberships?filters=%5B%7B%22project%22%3A%7B%22operator%22%3A%22%3D%22%2C%22values%22%3A%5B%2229%22%5D%7D%7D%5D"
+          },
+          "types": {
+            "href": "/api/v3/projects/29/types"
+          },
+          "update": {
+            "href": "/api/v3/projects/29/form",
+            "method": "post"
+          },
+          "updateImmediately": {
+            "href": "/api/v3/projects/29",
+            "method": "patch"
+          },
+          "delete": {
+            "href": "/api/v3/projects/29",
+            "method": "delete"
+          },
+          "schema": {
+            "href": "/api/v3/projects/schema"
+          },
+          "status": {
+            "href": null
+          },
+          "ancestors": [],
+          "parent": {
+            "href": null
+          }
+        }
+      },
+      {
+        "_type": "Project",
+        "id": 28,
+        "identifier": "bt24-92",
+        "name": "\u041c\u0418\u0420\u0410\u0419",
+        "active": true,
+        "public": false,
+        "description": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "createdAt": "2023-12-12T05:11:01Z",
+        "updatedAt": "2023-12-12T06:47:14Z",
+        "statusExplanation": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "_links": {
+          "self": {
+            "href": "/api/v3/projects/28",
+            "title": "\u041c\u0418\u0420\u0410\u0419"
+          },
+          "createWorkPackage": {
+            "href": "/api/v3/projects/28/work_packages/form",
+            "method": "post"
+          },
+          "createWorkPackageImmediately": {
+            "href": "/api/v3/projects/28/work_packages",
+            "method": "post"
+          },
+          "workPackages": {
+            "href": "/api/v3/projects/28/work_packages"
+          },
+          "categories": {
+            "href": "/api/v3/projects/28/categories"
+          },
+          "versions": {
+            "href": "/api/v3/projects/28/versions"
+          },
+          "memberships": {
+            "href": "/api/v3/memberships?filters=%5B%7B%22project%22%3A%7B%22operator%22%3A%22%3D%22%2C%22values%22%3A%5B%2228%22%5D%7D%7D%5D"
+          },
+          "types": {
+            "href": "/api/v3/projects/28/types"
+          },
+          "update": {
+            "href": "/api/v3/projects/28/form",
+            "method": "post"
+          },
+          "updateImmediately": {
+            "href": "/api/v3/projects/28",
+            "method": "patch"
+          },
+          "delete": {
+            "href": "/api/v3/projects/28",
+            "method": "delete"
+          },
+          "schema": {
+            "href": "/api/v3/projects/schema"
+          },
+          "status": {
+            "href": null
+          },
+          "ancestors": [],
+          "parent": {
+            "href": null
+          }
+        }
+      },
+      {
+        "_type": "Project",
+        "id": 27,
+        "identifier": "bt24-104",
+        "name": "\u041a\u0425\u0410\u041c\u0411",
+        "active": true,
+        "public": false,
+        "description": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "createdAt": "2023-12-12T05:11:00Z",
+        "updatedAt": "2023-12-12T06:47:14Z",
+        "statusExplanation": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "_links": {
+          "self": {
+            "href": "/api/v3/projects/27",
+            "title": "\u041a\u0425\u0410\u041c\u0411"
+          },
+          "createWorkPackage": {
+            "href": "/api/v3/projects/27/work_packages/form",
+            "method": "post"
+          },
+          "createWorkPackageImmediately": {
+            "href": "/api/v3/projects/27/work_packages",
+            "method": "post"
+          },
+          "workPackages": {
+            "href": "/api/v3/projects/27/work_packages"
+          },
+          "categories": {
+            "href": "/api/v3/projects/27/categories"
+          },
+          "versions": {
+            "href": "/api/v3/projects/27/versions"
+          },
+          "memberships": {
+            "href": "/api/v3/memberships?filters=%5B%7B%22project%22%3A%7B%22operator%22%3A%22%3D%22%2C%22values%22%3A%5B%2227%22%5D%7D%7D%5D"
+          },
+          "types": {
+            "href": "/api/v3/projects/27/types"
+          },
+          "update": {
+            "href": "/api/v3/projects/27/form",
+            "method": "post"
+          },
+          "updateImmediately": {
+            "href": "/api/v3/projects/27",
+            "method": "patch"
+          },
+          "delete": {
+            "href": "/api/v3/projects/27",
+            "method": "delete"
+          },
+          "schema": {
+            "href": "/api/v3/projects/schema"
+          },
+          "status": {
+            "href": null
+          },
+          "ancestors": [],
+          "parent": {
+            "href": null
+          }
+        }
+      },
+      {
+        "_type": "Project",
+        "id": 26,
+        "identifier": "bt24-72",
+        "name": "\u041a\u0423\u041f\u0420\u0423\u041c",
+        "active": true,
+        "public": false,
+        "description": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "createdAt": "2023-12-12T05:11:00Z",
+        "updatedAt": "2023-12-12T06:47:14Z",
+        "statusExplanation": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "_links": {
+          "self": {
+            "href": "/api/v3/projects/26",
+            "title": "\u041a\u0423\u041f\u0420\u0423\u041c"
+          },
+          "createWorkPackage": {
+            "href": "/api/v3/projects/26/work_packages/form",
+            "method": "post"
+          },
+          "createWorkPackageImmediately": {
+            "href": "/api/v3/projects/26/work_packages",
+            "method": "post"
+          },
+          "workPackages": {
+            "href": "/api/v3/projects/26/work_packages"
+          },
+          "categories": {
+            "href": "/api/v3/projects/26/categories"
+          },
+          "versions": {
+            "href": "/api/v3/projects/26/versions"
+          },
+          "memberships": {
+            "href": "/api/v3/memberships?filters=%5B%7B%22project%22%3A%7B%22operator%22%3A%22%3D%22%2C%22values%22%3A%5B%2226%22%5D%7D%7D%5D"
+          },
+          "types": {
+            "href": "/api/v3/projects/26/types"
+          },
+          "update": {
+            "href": "/api/v3/projects/26/form",
+            "method": "post"
+          },
+          "updateImmediately": {
+            "href": "/api/v3/projects/26",
+            "method": "patch"
+          },
+          "delete": {
+            "href": "/api/v3/projects/26",
+            "method": "delete"
+          },
+          "schema": {
+            "href": "/api/v3/projects/schema"
+          },
+          "status": {
+            "href": null
+          },
+          "ancestors": [],
+          "parent": {
+            "href": null
+          }
+        }
+      },
+      {
+        "_type": "Project",
+        "id": 25,
+        "identifier": "bt24-12",
+        "name": "\u041a\u043e\u043d\u0442\u0435\u043d\u0442",
+        "active": true,
+        "public": false,
+        "description": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "createdAt": "2023-12-12T05:10:59Z",
+        "updatedAt": "2023-12-12T06:47:14Z",
+        "statusExplanation": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "_links": {
+          "self": {
+            "href": "/api/v3/projects/25",
+            "title": "\u041a\u043e\u043d\u0442\u0435\u043d\u0442"
+          },
+          "createWorkPackage": {
+            "href": "/api/v3/projects/25/work_packages/form",
+            "method": "post"
+          },
+          "createWorkPackageImmediately": {
+            "href": "/api/v3/projects/25/work_packages",
+            "method": "post"
+          },
+          "workPackages": {
+            "href": "/api/v3/projects/25/work_packages"
+          },
+          "categories": {
+            "href": "/api/v3/projects/25/categories"
+          },
+          "versions": {
+            "href": "/api/v3/projects/25/versions"
+          },
+          "memberships": {
+            "href": "/api/v3/memberships?filters=%5B%7B%22project%22%3A%7B%22operator%22%3A%22%3D%22%2C%22values%22%3A%5B%2225%22%5D%7D%7D%5D"
+          },
+          "types": {
+            "href": "/api/v3/projects/25/types"
+          },
+          "update": {
+            "href": "/api/v3/projects/25/form",
+            "method": "post"
+          },
+          "updateImmediately": {
+            "href": "/api/v3/projects/25",
+            "method": "patch"
+          },
+          "delete": {
+            "href": "/api/v3/projects/25",
+            "method": "delete"
+          },
+          "schema": {
+            "href": "/api/v3/projects/schema"
+          },
+          "status": {
+            "href": null
+          },
+          "ancestors": [],
+          "parent": {
+            "href": null
+          }
+        }
+      },
+      {
+        "_type": "Project",
+        "id": 24,
+        "identifier": "bt24-122",
+        "name": "\u041a\u0432\u0430\u0440\u0446 \u0423\u0417",
+        "active": true,
+        "public": false,
+        "description": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "createdAt": "2023-12-12T05:10:59Z",
+        "updatedAt": "2023-12-12T06:47:14Z",
+        "statusExplanation": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "_links": {
+          "self": {
+            "href": "/api/v3/projects/24",
+            "title": "\u041a\u0432\u0430\u0440\u0446 \u0423\u0417"
+          },
+          "createWorkPackage": {
+            "href": "/api/v3/projects/24/work_packages/form",
+            "method": "post"
+          },
+          "createWorkPackageImmediately": {
+            "href": "/api/v3/projects/24/work_packages",
+            "method": "post"
+          },
+          "workPackages": {
+            "href": "/api/v3/projects/24/work_packages"
+          },
+          "categories": {
+            "href": "/api/v3/projects/24/categories"
+          },
+          "versions": {
+            "href": "/api/v3/projects/24/versions"
+          },
+          "memberships": {
+            "href": "/api/v3/memberships?filters=%5B%7B%22project%22%3A%7B%22operator%22%3A%22%3D%22%2C%22values%22%3A%5B%2224%22%5D%7D%7D%5D"
+          },
+          "types": {
+            "href": "/api/v3/projects/24/types"
+          },
+          "update": {
+            "href": "/api/v3/projects/24/form",
+            "method": "post"
+          },
+          "updateImmediately": {
+            "href": "/api/v3/projects/24",
+            "method": "patch"
+          },
+          "delete": {
+            "href": "/api/v3/projects/24",
+            "method": "delete"
+          },
+          "schema": {
+            "href": "/api/v3/projects/schema"
+          },
+          "status": {
+            "href": null
+          },
+          "ancestors": [],
+          "parent": {
+            "href": null
+          }
+        }
+      },
+      {
+        "_type": "Project",
+        "id": 23,
+        "identifier": "bt24-42",
+        "name": "\u0418\u041d\u041d\u0422\u0415\u0425\u0421\u0418\u0421",
+        "active": true,
+        "public": false,
+        "description": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "createdAt": "2023-12-12T05:10:58Z",
+        "updatedAt": "2023-12-12T06:47:14Z",
+        "statusExplanation": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "_links": {
+          "self": {
+            "href": "/api/v3/projects/23",
+            "title": "\u0418\u041d\u041d\u0422\u0415\u0425\u0421\u0418\u0421"
+          },
+          "createWorkPackage": {
+            "href": "/api/v3/projects/23/work_packages/form",
+            "method": "post"
+          },
+          "createWorkPackageImmediately": {
+            "href": "/api/v3/projects/23/work_packages",
+            "method": "post"
+          },
+          "workPackages": {
+            "href": "/api/v3/projects/23/work_packages"
+          },
+          "categories": {
+            "href": "/api/v3/projects/23/categories"
+          },
+          "versions": {
+            "href": "/api/v3/projects/23/versions"
+          },
+          "memberships": {
+            "href": "/api/v3/memberships?filters=%5B%7B%22project%22%3A%7B%22operator%22%3A%22%3D%22%2C%22values%22%3A%5B%2223%22%5D%7D%7D%5D"
+          },
+          "types": {
+            "href": "/api/v3/projects/23/types"
+          },
+          "update": {
+            "href": "/api/v3/projects/23/form",
+            "method": "post"
+          },
+          "updateImmediately": {
+            "href": "/api/v3/projects/23",
+            "method": "patch"
+          },
+          "delete": {
+            "href": "/api/v3/projects/23",
+            "method": "delete"
+          },
+          "schema": {
+            "href": "/api/v3/projects/schema"
+          },
+          "status": {
+            "href": null
+          },
+          "ancestors": [],
+          "parent": {
+            "href": null
+          }
+        }
+      },
+      {
+        "_type": "Project",
+        "id": 22,
+        "identifier": "bt24-80",
+        "name": "\u0414\u041e\u041c\u0422\u0415\u041a\u0421",
+        "active": true,
+        "public": false,
+        "description": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "createdAt": "2023-12-12T05:10:57Z",
+        "updatedAt": "2023-12-12T06:47:14Z",
+        "statusExplanation": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "_links": {
+          "self": {
+            "href": "/api/v3/projects/22",
+            "title": "\u0414\u041e\u041c\u0422\u0415\u041a\u0421"
+          },
+          "createWorkPackage": {
+            "href": "/api/v3/projects/22/work_packages/form",
+            "method": "post"
+          },
+          "createWorkPackageImmediately": {
+            "href": "/api/v3/projects/22/work_packages",
+            "method": "post"
+          },
+          "workPackages": {
+            "href": "/api/v3/projects/22/work_packages"
+          },
+          "categories": {
+            "href": "/api/v3/projects/22/categories"
+          },
+          "versions": {
+            "href": "/api/v3/projects/22/versions"
+          },
+          "memberships": {
+            "href": "/api/v3/memberships?filters=%5B%7B%22project%22%3A%7B%22operator%22%3A%22%3D%22%2C%22values%22%3A%5B%2222%22%5D%7D%7D%5D"
+          },
+          "types": {
+            "href": "/api/v3/projects/22/types"
+          },
+          "update": {
+            "href": "/api/v3/projects/22/form",
+            "method": "post"
+          },
+          "updateImmediately": {
+            "href": "/api/v3/projects/22",
+            "method": "patch"
+          },
+          "delete": {
+            "href": "/api/v3/projects/22",
+            "method": "delete"
+          },
+          "schema": {
+            "href": "/api/v3/projects/schema"
+          },
+          "status": {
+            "href": null
+          },
+          "ancestors": [],
+          "parent": {
+            "href": null
+          }
+        }
+      },
+      {
+        "_type": "Project",
+        "id": 21,
+        "identifier": "bt24-124",
+        "name": "\u0414\u041e\u041a\u041c\u0410",
+        "active": true,
+        "public": false,
+        "description": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "createdAt": "2023-12-12T05:10:57Z",
+        "updatedAt": "2023-12-12T06:47:14Z",
+        "statusExplanation": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "_links": {
+          "self": {
+            "href": "/api/v3/projects/21",
+            "title": "\u0414\u041e\u041a\u041c\u0410"
+          },
+          "createWorkPackage": {
+            "href": "/api/v3/projects/21/work_packages/form",
+            "method": "post"
+          },
+          "createWorkPackageImmediately": {
+            "href": "/api/v3/projects/21/work_packages",
+            "method": "post"
+          },
+          "workPackages": {
+            "href": "/api/v3/projects/21/work_packages"
+          },
+          "categories": {
+            "href": "/api/v3/projects/21/categories"
+          },
+          "versions": {
+            "href": "/api/v3/projects/21/versions"
+          },
+          "memberships": {
+            "href": "/api/v3/memberships?filters=%5B%7B%22project%22%3A%7B%22operator%22%3A%22%3D%22%2C%22values%22%3A%5B%2221%22%5D%7D%7D%5D"
+          },
+          "types": {
+            "href": "/api/v3/projects/21/types"
+          },
+          "update": {
+            "href": "/api/v3/projects/21/form",
+            "method": "post"
+          },
+          "updateImmediately": {
+            "href": "/api/v3/projects/21",
+            "method": "patch"
+          },
+          "delete": {
+            "href": "/api/v3/projects/21",
+            "method": "delete"
+          },
+          "schema": {
+            "href": "/api/v3/projects/schema"
+          },
+          "status": {
+            "href": null
+          },
+          "ancestors": [],
+          "parent": {
+            "href": null
+          }
+        }
+      },
+      {
+        "_type": "Project",
+        "id": 20,
+        "identifier": "bt24-134",
+        "name": "\u0414\u0415\u0422\u0418+",
+        "active": true,
+        "public": false,
+        "description": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "createdAt": "2023-12-12T05:10:56Z",
+        "updatedAt": "2023-12-12T06:47:14Z",
+        "statusExplanation": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "_links": {
+          "self": {
+            "href": "/api/v3/projects/20",
+            "title": "\u0414\u0415\u0422\u0418+"
+          },
+          "createWorkPackage": {
+            "href": "/api/v3/projects/20/work_packages/form",
+            "method": "post"
+          },
+          "createWorkPackageImmediately": {
+            "href": "/api/v3/projects/20/work_packages",
+            "method": "post"
+          },
+          "workPackages": {
+            "href": "/api/v3/projects/20/work_packages"
+          },
+          "categories": {
+            "href": "/api/v3/projects/20/categories"
+          },
+          "versions": {
+            "href": "/api/v3/projects/20/versions"
+          },
+          "memberships": {
+            "href": "/api/v3/memberships?filters=%5B%7B%22project%22%3A%7B%22operator%22%3A%22%3D%22%2C%22values%22%3A%5B%2220%22%5D%7D%7D%5D"
+          },
+          "types": {
+            "href": "/api/v3/projects/20/types"
+          },
+          "update": {
+            "href": "/api/v3/projects/20/form",
+            "method": "post"
+          },
+          "updateImmediately": {
+            "href": "/api/v3/projects/20",
+            "method": "patch"
+          },
+          "delete": {
+            "href": "/api/v3/projects/20",
+            "method": "delete"
+          },
+          "schema": {
+            "href": "/api/v3/projects/schema"
+          },
+          "status": {
+            "href": null
+          },
+          "ancestors": [],
+          "parent": {
+            "href": null
+          }
+        }
+      },
+      {
+        "_type": "Project",
+        "id": 19,
+        "identifier": "bt24-110",
+        "name": "\u0413\u0422\u041e",
+        "active": true,
+        "public": false,
+        "description": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "createdAt": "2023-12-12T05:10:56Z",
+        "updatedAt": "2023-12-12T06:47:14Z",
+        "statusExplanation": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "_links": {
+          "self": {
+            "href": "/api/v3/projects/19",
+            "title": "\u0413\u0422\u041e"
+          },
+          "createWorkPackage": {
+            "href": "/api/v3/projects/19/work_packages/form",
+            "method": "post"
+          },
+          "createWorkPackageImmediately": {
+            "href": "/api/v3/projects/19/work_packages",
+            "method": "post"
+          },
+          "workPackages": {
+            "href": "/api/v3/projects/19/work_packages"
+          },
+          "categories": {
+            "href": "/api/v3/projects/19/categories"
+          },
+          "versions": {
+            "href": "/api/v3/projects/19/versions"
+          },
+          "memberships": {
+            "href": "/api/v3/memberships?filters=%5B%7B%22project%22%3A%7B%22operator%22%3A%22%3D%22%2C%22values%22%3A%5B%2219%22%5D%7D%7D%5D"
+          },
+          "types": {
+            "href": "/api/v3/projects/19/types"
+          },
+          "update": {
+            "href": "/api/v3/projects/19/form",
+            "method": "post"
+          },
+          "updateImmediately": {
+            "href": "/api/v3/projects/19",
+            "method": "patch"
+          },
+          "delete": {
+            "href": "/api/v3/projects/19",
+            "method": "delete"
+          },
+          "schema": {
+            "href": "/api/v3/projects/schema"
+          },
+          "status": {
+            "href": null
+          },
+          "ancestors": [],
+          "parent": {
+            "href": null
+          }
+        }
+      },
+      {
+        "_type": "Project",
+        "id": 18,
+        "identifier": "bt24-116",
+        "name": "\u0413\u0410\u0420\u0410\u041d\u0422\u0421\u0422\u0420\u041e\u0419",
+        "active": true,
+        "public": false,
+        "description": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "createdAt": "2023-12-12T05:10:55Z",
+        "updatedAt": "2023-12-12T06:47:14Z",
+        "statusExplanation": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "_links": {
+          "self": {
+            "href": "/api/v3/projects/18",
+            "title": "\u0413\u0410\u0420\u0410\u041d\u0422\u0421\u0422\u0420\u041e\u0419"
+          },
+          "createWorkPackage": {
+            "href": "/api/v3/projects/18/work_packages/form",
+            "method": "post"
+          },
+          "createWorkPackageImmediately": {
+            "href": "/api/v3/projects/18/work_packages",
+            "method": "post"
+          },
+          "workPackages": {
+            "href": "/api/v3/projects/18/work_packages"
+          },
+          "categories": {
+            "href": "/api/v3/projects/18/categories"
+          },
+          "versions": {
+            "href": "/api/v3/projects/18/versions"
+          },
+          "memberships": {
+            "href": "/api/v3/memberships?filters=%5B%7B%22project%22%3A%7B%22operator%22%3A%22%3D%22%2C%22values%22%3A%5B%2218%22%5D%7D%7D%5D"
+          },
+          "types": {
+            "href": "/api/v3/projects/18/types"
+          },
+          "update": {
+            "href": "/api/v3/projects/18/form",
+            "method": "post"
+          },
+          "updateImmediately": {
+            "href": "/api/v3/projects/18",
+            "method": "patch"
+          },
+          "delete": {
+            "href": "/api/v3/projects/18",
+            "method": "delete"
+          },
+          "schema": {
+            "href": "/api/v3/projects/schema"
+          },
+          "status": {
+            "href": null
+          },
+          "ancestors": [],
+          "parent": {
+            "href": null
+          }
+        }
+      },
+      {
+        "_type": "Project",
+        "id": 17,
+        "identifier": "bt24-14",
+        "name": "\u0412\u043d\u0435\u0434\u0440\u0435\u043d\u0438\u0435 \u0411\u0438\u0442\u0440\u0438\u043a\u044124",
+        "active": true,
+        "public": false,
+        "description": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "createdAt": "2023-12-12T05:10:55Z",
+        "updatedAt": "2023-12-12T06:47:14Z",
+        "statusExplanation": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "_links": {
+          "self": {
+            "href": "/api/v3/projects/17",
+            "title": "\u0412\u043d\u0435\u0434\u0440\u0435\u043d\u0438\u0435 \u0411\u0438\u0442\u0440\u0438\u043a\u044124"
+          },
+          "createWorkPackage": {
+            "href": "/api/v3/projects/17/work_packages/form",
+            "method": "post"
+          },
+          "createWorkPackageImmediately": {
+            "href": "/api/v3/projects/17/work_packages",
+            "method": "post"
+          },
+          "workPackages": {
+            "href": "/api/v3/projects/17/work_packages"
+          },
+          "categories": {
+            "href": "/api/v3/projects/17/categories"
+          },
+          "versions": {
+            "href": "/api/v3/projects/17/versions"
+          },
+          "memberships": {
+            "href": "/api/v3/memberships?filters=%5B%7B%22project%22%3A%7B%22operator%22%3A%22%3D%22%2C%22values%22%3A%5B%2217%22%5D%7D%7D%5D"
+          },
+          "types": {
+            "href": "/api/v3/projects/17/types"
+          },
+          "update": {
+            "href": "/api/v3/projects/17/form",
+            "method": "post"
+          },
+          "updateImmediately": {
+            "href": "/api/v3/projects/17",
+            "method": "patch"
+          },
+          "delete": {
+            "href": "/api/v3/projects/17",
+            "method": "delete"
+          },
+          "schema": {
+            "href": "/api/v3/projects/schema"
+          },
+          "status": {
+            "href": null
+          },
+          "ancestors": [],
+          "parent": {
+            "href": null
+          }
+        }
+      },
+      {
+        "_type": "Project",
+        "id": 16,
+        "identifier": "bt24-108",
+        "name": "\u0412\u0415\u0422\u0410 \u042d\u0421\u0422\u0415\u0419\u0422",
+        "active": true,
+        "public": false,
+        "description": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "createdAt": "2023-12-12T05:10:54Z",
+        "updatedAt": "2023-12-12T06:47:14Z",
+        "statusExplanation": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "_links": {
+          "self": {
+            "href": "/api/v3/projects/16",
+            "title": "\u0412\u0415\u0422\u0410 \u042d\u0421\u0422\u0415\u0419\u0422"
+          },
+          "createWorkPackage": {
+            "href": "/api/v3/projects/16/work_packages/form",
+            "method": "post"
+          },
+          "createWorkPackageImmediately": {
+            "href": "/api/v3/projects/16/work_packages",
+            "method": "post"
+          },
+          "workPackages": {
+            "href": "/api/v3/projects/16/work_packages"
+          },
+          "categories": {
+            "href": "/api/v3/projects/16/categories"
+          },
+          "versions": {
+            "href": "/api/v3/projects/16/versions"
+          },
+          "memberships": {
+            "href": "/api/v3/memberships?filters=%5B%7B%22project%22%3A%7B%22operator%22%3A%22%3D%22%2C%22values%22%3A%5B%2216%22%5D%7D%7D%5D"
+          },
+          "types": {
+            "href": "/api/v3/projects/16/types"
+          },
+          "update": {
+            "href": "/api/v3/projects/16/form",
+            "method": "post"
+          },
+          "updateImmediately": {
+            "href": "/api/v3/projects/16",
+            "method": "patch"
+          },
+          "delete": {
+            "href": "/api/v3/projects/16",
+            "method": "delete"
+          },
+          "schema": {
+            "href": "/api/v3/projects/schema"
+          },
+          "status": {
+            "href": null
+          },
+          "ancestors": [],
+          "parent": {
+            "href": null
+          }
+        }
+      },
+      {
+        "_type": "Project",
+        "id": 15,
+        "identifier": "bt24-48",
+        "name": "\u0411\u0440\u043e\u043d\u043d\u0438\u0446\u044b \u0413\u0423\u041e\u0420",
+        "active": true,
+        "public": false,
+        "description": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "createdAt": "2023-12-12T05:10:54Z",
+        "updatedAt": "2023-12-12T06:47:14Z",
+        "statusExplanation": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "_links": {
+          "self": {
+            "href": "/api/v3/projects/15",
+            "title": "\u0411\u0440\u043e\u043d\u043d\u0438\u0446\u044b \u0413\u0423\u041e\u0420"
+          },
+          "createWorkPackage": {
+            "href": "/api/v3/projects/15/work_packages/form",
+            "method": "post"
+          },
+          "createWorkPackageImmediately": {
+            "href": "/api/v3/projects/15/work_packages",
+            "method": "post"
+          },
+          "workPackages": {
+            "href": "/api/v3/projects/15/work_packages"
+          },
+          "categories": {
+            "href": "/api/v3/projects/15/categories"
+          },
+          "versions": {
+            "href": "/api/v3/projects/15/versions"
+          },
+          "memberships": {
+            "href": "/api/v3/memberships?filters=%5B%7B%22project%22%3A%7B%22operator%22%3A%22%3D%22%2C%22values%22%3A%5B%2215%22%5D%7D%7D%5D"
+          },
+          "types": {
+            "href": "/api/v3/projects/15/types"
+          },
+          "update": {
+            "href": "/api/v3/projects/15/form",
+            "method": "post"
+          },
+          "updateImmediately": {
+            "href": "/api/v3/projects/15",
+            "method": "patch"
+          },
+          "delete": {
+            "href": "/api/v3/projects/15",
+            "method": "delete"
+          },
+          "schema": {
+            "href": "/api/v3/projects/schema"
+          },
+          "status": {
+            "href": null
+          },
+          "ancestors": [],
+          "parent": {
+            "href": null
+          }
+        }
+      },
+      {
+        "_type": "Project",
+        "id": 14,
+        "identifier": "bt24-50",
+        "name": "\u0411\u0420\u041e\u041d\u041d\u0418\u0426\u042b 1\u0421_\u0423\u041d\u0418\u0412\u0415\u0420\u0421\u0418\u0422\u0415\u0422",
+        "active": true,
+        "public": false,
+        "description": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "createdAt": "2023-12-12T05:10:53Z",
+        "updatedAt": "2023-12-12T06:47:14Z",
+        "statusExplanation": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "_links": {
+          "self": {
+            "href": "/api/v3/projects/14",
+            "title": "\u0411\u0420\u041e\u041d\u041d\u0418\u0426\u042b 1\u0421_\u0423\u041d\u0418\u0412\u0415\u0420\u0421\u0418\u0422\u0415\u0422"
+          },
+          "createWorkPackage": {
+            "href": "/api/v3/projects/14/work_packages/form",
+            "method": "post"
+          },
+          "createWorkPackageImmediately": {
+            "href": "/api/v3/projects/14/work_packages",
+            "method": "post"
+          },
+          "workPackages": {
+            "href": "/api/v3/projects/14/work_packages"
+          },
+          "categories": {
+            "href": "/api/v3/projects/14/categories"
+          },
+          "versions": {
+            "href": "/api/v3/projects/14/versions"
+          },
+          "memberships": {
+            "href": "/api/v3/memberships?filters=%5B%7B%22project%22%3A%7B%22operator%22%3A%22%3D%22%2C%22values%22%3A%5B%2214%22%5D%7D%7D%5D"
+          },
+          "types": {
+            "href": "/api/v3/projects/14/types"
+          },
+          "update": {
+            "href": "/api/v3/projects/14/form",
+            "method": "post"
+          },
+          "updateImmediately": {
+            "href": "/api/v3/projects/14",
+            "method": "patch"
+          },
+          "delete": {
+            "href": "/api/v3/projects/14",
+            "method": "delete"
+          },
+          "schema": {
+            "href": "/api/v3/projects/schema"
+          },
+          "status": {
+            "href": null
+          },
+          "ancestors": [],
+          "parent": {
+            "href": null
+          }
+        }
+      },
+      {
+        "_type": "Project",
+        "id": 13,
+        "identifier": "bt24-62",
+        "name": "\u0411\u041e\u0420\u0418\u0421",
+        "active": true,
+        "public": false,
+        "description": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "createdAt": "2023-12-12T05:10:52Z",
+        "updatedAt": "2023-12-12T06:47:14Z",
+        "statusExplanation": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "_links": {
+          "self": {
+            "href": "/api/v3/projects/13",
+            "title": "\u0411\u041e\u0420\u0418\u0421"
+          },
+          "createWorkPackage": {
+            "href": "/api/v3/projects/13/work_packages/form",
+            "method": "post"
+          },
+          "createWorkPackageImmediately": {
+            "href": "/api/v3/projects/13/work_packages",
+            "method": "post"
+          },
+          "workPackages": {
+            "href": "/api/v3/projects/13/work_packages"
+          },
+          "categories": {
+            "href": "/api/v3/projects/13/categories"
+          },
+          "versions": {
+            "href": "/api/v3/projects/13/versions"
+          },
+          "memberships": {
+            "href": "/api/v3/memberships?filters=%5B%7B%22project%22%3A%7B%22operator%22%3A%22%3D%22%2C%22values%22%3A%5B%2213%22%5D%7D%7D%5D"
+          },
+          "types": {
+            "href": "/api/v3/projects/13/types"
+          },
+          "update": {
+            "href": "/api/v3/projects/13/form",
+            "method": "post"
+          },
+          "updateImmediately": {
+            "href": "/api/v3/projects/13",
+            "method": "patch"
+          },
+          "delete": {
+            "href": "/api/v3/projects/13",
+            "method": "delete"
+          },
+          "schema": {
+            "href": "/api/v3/projects/schema"
+          },
+          "status": {
+            "href": null
+          },
+          "ancestors": [],
+          "parent": {
+            "href": null
+          }
+        }
+      },
+      {
+        "_type": "Project",
+        "id": 12,
+        "identifier": "bt24-58",
+        "name": "\u0411\u041a\u041b \u0413\u0420\u0423\u041f\u041f",
+        "active": true,
+        "public": false,
+        "description": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "createdAt": "2023-12-12T05:10:52Z",
+        "updatedAt": "2023-12-12T06:47:14Z",
+        "statusExplanation": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "_links": {
+          "self": {
+            "href": "/api/v3/projects/12",
+            "title": "\u0411\u041a\u041b \u0413\u0420\u0423\u041f\u041f"
+          },
+          "createWorkPackage": {
+            "href": "/api/v3/projects/12/work_packages/form",
+            "method": "post"
+          },
+          "createWorkPackageImmediately": {
+            "href": "/api/v3/projects/12/work_packages",
+            "method": "post"
+          },
+          "workPackages": {
+            "href": "/api/v3/projects/12/work_packages"
+          },
+          "categories": {
+            "href": "/api/v3/projects/12/categories"
+          },
+          "versions": {
+            "href": "/api/v3/projects/12/versions"
+          },
+          "memberships": {
+            "href": "/api/v3/memberships?filters=%5B%7B%22project%22%3A%7B%22operator%22%3A%22%3D%22%2C%22values%22%3A%5B%2212%22%5D%7D%7D%5D"
+          },
+          "types": {
+            "href": "/api/v3/projects/12/types"
+          },
+          "update": {
+            "href": "/api/v3/projects/12/form",
+            "method": "post"
+          },
+          "updateImmediately": {
+            "href": "/api/v3/projects/12",
+            "method": "patch"
+          },
+          "delete": {
+            "href": "/api/v3/projects/12",
+            "method": "delete"
+          },
+          "schema": {
+            "href": "/api/v3/projects/schema"
+          },
+          "status": {
+            "href": null
+          },
+          "ancestors": [],
+          "parent": {
+            "href": null
+          }
+        }
+      },
+      {
+        "_type": "Project",
+        "id": 11,
+        "identifier": "bt24-98",
+        "name": "\u0410\u041b\u042e\u041c\u0418\u041a\u0421",
+        "active": true,
+        "public": false,
+        "description": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "createdAt": "2023-12-12T05:10:51Z",
+        "updatedAt": "2023-12-12T06:47:14Z",
+        "statusExplanation": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "_links": {
+          "self": {
+            "href": "/api/v3/projects/11",
+            "title": "\u0410\u041b\u042e\u041c\u0418\u041a\u0421"
+          },
+          "createWorkPackage": {
+            "href": "/api/v3/projects/11/work_packages/form",
+            "method": "post"
+          },
+          "createWorkPackageImmediately": {
+            "href": "/api/v3/projects/11/work_packages",
+            "method": "post"
+          },
+          "workPackages": {
+            "href": "/api/v3/projects/11/work_packages"
+          },
+          "categories": {
+            "href": "/api/v3/projects/11/categories"
+          },
+          "versions": {
+            "href": "/api/v3/projects/11/versions"
+          },
+          "memberships": {
+            "href": "/api/v3/memberships?filters=%5B%7B%22project%22%3A%7B%22operator%22%3A%22%3D%22%2C%22values%22%3A%5B%2211%22%5D%7D%7D%5D"
+          },
+          "types": {
+            "href": "/api/v3/projects/11/types"
+          },
+          "update": {
+            "href": "/api/v3/projects/11/form",
+            "method": "post"
+          },
+          "updateImmediately": {
+            "href": "/api/v3/projects/11",
+            "method": "patch"
+          },
+          "delete": {
+            "href": "/api/v3/projects/11",
+            "method": "delete"
+          },
+          "schema": {
+            "href": "/api/v3/projects/schema"
+          },
+          "status": {
+            "href": null
+          },
+          "ancestors": [],
+          "parent": {
+            "href": null
+          }
+        }
+      },
+      {
+        "_type": "Project",
+        "id": 10,
+        "identifier": "bt24-38",
+        "name": "\u0410\u041b\u0424\u0410\u0421",
+        "active": true,
+        "public": false,
+        "description": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "createdAt": "2023-12-12T05:10:51Z",
+        "updatedAt": "2023-12-12T06:47:14Z",
+        "statusExplanation": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "_links": {
+          "self": {
+            "href": "/api/v3/projects/10",
+            "title": "\u0410\u041b\u0424\u0410\u0421"
+          },
+          "createWorkPackage": {
+            "href": "/api/v3/projects/10/work_packages/form",
+            "method": "post"
+          },
+          "createWorkPackageImmediately": {
+            "href": "/api/v3/projects/10/work_packages",
+            "method": "post"
+          },
+          "workPackages": {
+            "href": "/api/v3/projects/10/work_packages"
+          },
+          "categories": {
+            "href": "/api/v3/projects/10/categories"
+          },
+          "versions": {
+            "href": "/api/v3/projects/10/versions"
+          },
+          "memberships": {
+            "href": "/api/v3/memberships?filters=%5B%7B%22project%22%3A%7B%22operator%22%3A%22%3D%22%2C%22values%22%3A%5B%2210%22%5D%7D%7D%5D"
+          },
+          "types": {
+            "href": "/api/v3/projects/10/types"
+          },
+          "update": {
+            "href": "/api/v3/projects/10/form",
+            "method": "post"
+          },
+          "updateImmediately": {
+            "href": "/api/v3/projects/10",
+            "method": "patch"
+          },
+          "delete": {
+            "href": "/api/v3/projects/10",
+            "method": "delete"
+          },
+          "schema": {
+            "href": "/api/v3/projects/schema"
+          },
+          "status": {
+            "href": null
+          },
+          "ancestors": [],
+          "parent": {
+            "href": null
+          }
+        }
+      },
+      {
+        "_type": "Project",
+        "id": 9,
+        "identifier": "bt24-84",
+        "name": "\u0410\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0435 \u0432\u043e\u043f\u0440\u043e\u0441\u044b",
+        "active": true,
+        "public": false,
+        "description": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "createdAt": "2023-12-12T05:10:50Z",
+        "updatedAt": "2023-12-12T06:47:14Z",
+        "statusExplanation": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "_links": {
+          "self": {
+            "href": "/api/v3/projects/9",
+            "title": "\u0410\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0435 \u0432\u043e\u043f\u0440\u043e\u0441\u044b"
+          },
+          "createWorkPackage": {
+            "href": "/api/v3/projects/9/work_packages/form",
+            "method": "post"
+          },
+          "createWorkPackageImmediately": {
+            "href": "/api/v3/projects/9/work_packages",
+            "method": "post"
+          },
+          "workPackages": {
+            "href": "/api/v3/projects/9/work_packages"
+          },
+          "categories": {
+            "href": "/api/v3/projects/9/categories"
+          },
+          "versions": {
+            "href": "/api/v3/projects/9/versions"
+          },
+          "memberships": {
+            "href": "/api/v3/memberships?filters=%5B%7B%22project%22%3A%7B%22operator%22%3A%22%3D%22%2C%22values%22%3A%5B%229%22%5D%7D%7D%5D"
+          },
+          "types": {
+            "href": "/api/v3/projects/9/types"
+          },
+          "update": {
+            "href": "/api/v3/projects/9/form",
+            "method": "post"
+          },
+          "updateImmediately": {
+            "href": "/api/v3/projects/9",
+            "method": "patch"
+          },
+          "delete": {
+            "href": "/api/v3/projects/9",
+            "method": "delete"
+          },
+          "schema": {
+            "href": "/api/v3/projects/schema"
+          },
+          "status": {
+            "href": null
+          },
+          "ancestors": [],
+          "parent": {
+            "href": null
+          }
+        }
+      },
+      {
+        "_type": "Project",
+        "id": 8,
+        "identifier": "bt24-120",
+        "name": "SEO \u0441\u0430\u0439\u0442\u0430 \u0418\u043d\u043d\u0442\u0435\u0445\u0441\u0438\u0441.\u0440\u0443",
+        "active": true,
+        "public": false,
+        "description": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "createdAt": "2023-12-12T05:10:50Z",
+        "updatedAt": "2023-12-12T06:47:14Z",
+        "statusExplanation": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "_links": {
+          "self": {
+            "href": "/api/v3/projects/8",
+            "title": "SEO \u0441\u0430\u0439\u0442\u0430 \u0418\u043d\u043d\u0442\u0435\u0445\u0441\u0438\u0441.\u0440\u0443"
+          },
+          "createWorkPackage": {
+            "href": "/api/v3/projects/8/work_packages/form",
+            "method": "post"
+          },
+          "createWorkPackageImmediately": {
+            "href": "/api/v3/projects/8/work_packages",
+            "method": "post"
+          },
+          "workPackages": {
+            "href": "/api/v3/projects/8/work_packages"
+          },
+          "categories": {
+            "href": "/api/v3/projects/8/categories"
+          },
+          "versions": {
+            "href": "/api/v3/projects/8/versions"
+          },
+          "memberships": {
+            "href": "/api/v3/memberships?filters=%5B%7B%22project%22%3A%7B%22operator%22%3A%22%3D%22%2C%22values%22%3A%5B%228%22%5D%7D%7D%5D"
+          },
+          "types": {
+            "href": "/api/v3/projects/8/types"
+          },
+          "update": {
+            "href": "/api/v3/projects/8/form",
+            "method": "post"
+          },
+          "updateImmediately": {
+            "href": "/api/v3/projects/8",
+            "method": "patch"
+          },
+          "delete": {
+            "href": "/api/v3/projects/8",
+            "method": "delete"
+          },
+          "schema": {
+            "href": "/api/v3/projects/schema"
+          },
+          "status": {
+            "href": null
+          },
+          "ancestors": [],
+          "parent": {
+            "href": null
+          }
+        }
+      },
+      {
+        "_type": "Project",
+        "id": 7,
+        "identifier": "bt24-18",
+        "name": "SEO \u043f\u0440\u043e\u0434\u0432\u0438\u0436\u0435\u043d\u0438\u0435",
+        "active": true,
+        "public": false,
+        "description": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "createdAt": "2023-12-12T05:10:49Z",
+        "updatedAt": "2023-12-12T06:47:14Z",
+        "statusExplanation": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "_links": {
+          "self": {
+            "href": "/api/v3/projects/7",
+            "title": "SEO \u043f\u0440\u043e\u0434\u0432\u0438\u0436\u0435\u043d\u0438\u0435"
+          },
+          "createWorkPackage": {
+            "href": "/api/v3/projects/7/work_packages/form",
+            "method": "post"
+          },
+          "createWorkPackageImmediately": {
+            "href": "/api/v3/projects/7/work_packages",
+            "method": "post"
+          },
+          "workPackages": {
+            "href": "/api/v3/projects/7/work_packages"
+          },
+          "categories": {
+            "href": "/api/v3/projects/7/categories"
+          },
+          "versions": {
+            "href": "/api/v3/projects/7/versions"
+          },
+          "memberships": {
+            "href": "/api/v3/memberships?filters=%5B%7B%22project%22%3A%7B%22operator%22%3A%22%3D%22%2C%22values%22%3A%5B%227%22%5D%7D%7D%5D"
+          },
+          "types": {
+            "href": "/api/v3/projects/7/types"
+          },
+          "update": {
+            "href": "/api/v3/projects/7/form",
+            "method": "post"
+          },
+          "updateImmediately": {
+            "href": "/api/v3/projects/7",
+            "method": "patch"
+          },
+          "delete": {
+            "href": "/api/v3/projects/7",
+            "method": "delete"
+          },
+          "schema": {
+            "href": "/api/v3/projects/schema"
+          },
+          "status": {
+            "href": null
+          },
+          "ancestors": [],
+          "parent": {
+            "href": null
+          }
+        }
+      },
+      {
+        "_type": "Project",
+        "id": 6,
+        "identifier": "bt24-28",
+        "name": "oboi-art",
+        "active": true,
+        "public": false,
+        "description": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "createdAt": "2023-12-12T05:10:49Z",
+        "updatedAt": "2023-12-12T06:47:14Z",
+        "statusExplanation": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "_links": {
+          "self": {
+            "href": "/api/v3/projects/6",
+            "title": "oboi-art"
+          },
+          "createWorkPackage": {
+            "href": "/api/v3/projects/6/work_packages/form",
+            "method": "post"
+          },
+          "createWorkPackageImmediately": {
+            "href": "/api/v3/projects/6/work_packages",
+            "method": "post"
+          },
+          "workPackages": {
+            "href": "/api/v3/projects/6/work_packages"
+          },
+          "categories": {
+            "href": "/api/v3/projects/6/categories"
+          },
+          "versions": {
+            "href": "/api/v3/projects/6/versions"
+          },
+          "memberships": {
+            "href": "/api/v3/memberships?filters=%5B%7B%22project%22%3A%7B%22operator%22%3A%22%3D%22%2C%22values%22%3A%5B%226%22%5D%7D%7D%5D"
+          },
+          "types": {
+            "href": "/api/v3/projects/6/types"
+          },
+          "update": {
+            "href": "/api/v3/projects/6/form",
+            "method": "post"
+          },
+          "updateImmediately": {
+            "href": "/api/v3/projects/6",
+            "method": "patch"
+          },
+          "delete": {
+            "href": "/api/v3/projects/6",
+            "method": "delete"
+          },
+          "schema": {
+            "href": "/api/v3/projects/schema"
+          },
+          "status": {
+            "href": null
+          },
+          "ancestors": [],
+          "parent": {
+            "href": null
+          }
+        }
+      },
+      {
+        "_type": "Project",
+        "id": 5,
+        "identifier": "bt24-30",
+        "name": "INNTECHSYS",
+        "active": true,
+        "public": false,
+        "description": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "createdAt": "2023-12-12T05:10:48Z",
+        "updatedAt": "2023-12-12T06:47:14Z",
+        "statusExplanation": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "_links": {
+          "self": {
+            "href": "/api/v3/projects/5",
+            "title": "INNTECHSYS"
+          },
+          "createWorkPackage": {
+            "href": "/api/v3/projects/5/work_packages/form",
+            "method": "post"
+          },
+          "createWorkPackageImmediately": {
+            "href": "/api/v3/projects/5/work_packages",
+            "method": "post"
+          },
+          "workPackages": {
+            "href": "/api/v3/projects/5/work_packages"
+          },
+          "categories": {
+            "href": "/api/v3/projects/5/categories"
+          },
+          "versions": {
+            "href": "/api/v3/projects/5/versions"
+          },
+          "memberships": {
+            "href": "/api/v3/memberships?filters=%5B%7B%22project%22%3A%7B%22operator%22%3A%22%3D%22%2C%22values%22%3A%5B%225%22%5D%7D%7D%5D"
+          },
+          "types": {
+            "href": "/api/v3/projects/5/types"
+          },
+          "update": {
+            "href": "/api/v3/projects/5/form",
+            "method": "post"
+          },
+          "updateImmediately": {
+            "href": "/api/v3/projects/5",
+            "method": "patch"
+          },
+          "delete": {
+            "href": "/api/v3/projects/5",
+            "method": "delete"
+          },
+          "schema": {
+            "href": "/api/v3/projects/schema"
+          },
+          "status": {
+            "href": null
+          },
+          "ancestors": [],
+          "parent": {
+            "href": null
+          }
+        }
+      },
+      {
+        "_type": "Project",
+        "id": 4,
+        "identifier": "bt24-52",
+        "name": "alumix.ru",
+        "active": true,
+        "public": false,
+        "description": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "createdAt": "2023-12-12T05:10:47Z",
+        "updatedAt": "2023-12-12T05:10:47Z",
+        "statusExplanation": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "_links": {
+          "self": {
+            "href": "/api/v3/projects/4",
+            "title": "alumix.ru"
+          },
+          "createWorkPackage": {
+            "href": "/api/v3/projects/4/work_packages/form",
+            "method": "post"
+          },
+          "createWorkPackageImmediately": {
+            "href": "/api/v3/projects/4/work_packages",
+            "method": "post"
+          },
+          "workPackages": {
+            "href": "/api/v3/projects/4/work_packages"
+          },
+          "categories": {
+            "href": "/api/v3/projects/4/categories"
+          },
+          "versions": {
+            "href": "/api/v3/projects/4/versions"
+          },
+          "memberships": {
+            "href": "/api/v3/memberships?filters=%5B%7B%22project%22%3A%7B%22operator%22%3A%22%3D%22%2C%22values%22%3A%5B%224%22%5D%7D%7D%5D"
+          },
+          "types": {
+            "href": "/api/v3/projects/4/types"
+          },
+          "update": {
+            "href": "/api/v3/projects/4/form",
+            "method": "post"
+          },
+          "updateImmediately": {
+            "href": "/api/v3/projects/4",
+            "method": "patch"
+          },
+          "delete": {
+            "href": "/api/v3/projects/4",
+            "method": "delete"
+          },
+          "schema": {
+            "href": "/api/v3/projects/schema"
+          },
+          "status": {
+            "href": null
+          },
+          "ancestors": [],
+          "parent": {
+            "href": null
+          }
+        }
+      },
+      {
+        "_type": "Project",
+        "id": 3,
+        "identifier": "bt24-34",
+        "name": "A-LINK-A",
+        "active": true,
+        "public": false,
+        "description": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "createdAt": "2023-12-12T05:10:47Z",
+        "updatedAt": "2023-12-12T05:10:47Z",
+        "statusExplanation": {
+          "format": "markdown",
+          "raw": "",
+          "html": ""
+        },
+        "_links": {
+          "self": {
+            "href": "/api/v3/projects/3",
+            "title": "A-LINK-A"
+          },
+          "createWorkPackage": {
+            "href": "/api/v3/projects/3/work_packages/form",
+            "method": "post"
+          },
+          "createWorkPackageImmediately": {
+            "href": "/api/v3/projects/3/work_packages",
+            "method": "post"
+          },
+          "workPackages": {
+            "href": "/api/v3/projects/3/work_packages"
+          },
+          "categories": {
+            "href": "/api/v3/projects/3/categories"
+          },
+          "versions": {
+            "href": "/api/v3/projects/3/versions"
+          },
+          "memberships": {
+            "href": "/api/v3/memberships?filters=%5B%7B%22project%22%3A%7B%22operator%22%3A%22%3D%22%2C%22values%22%3A%5B%223%22%5D%7D%7D%5D"
+          },
+          "types": {
+            "href": "/api/v3/projects/3/types"
+          },
+          "update": {
+            "href": "/api/v3/projects/3/form",
+            "method": "post"
+          },
+          "updateImmediately": {
+            "href": "/api/v3/projects/3",
+            "method": "patch"
+          },
+          "delete": {
+            "href": "/api/v3/projects/3",
+            "method": "delete"
+          },
+          "schema": {
+            "href": "/api/v3/projects/schema"
+          },
+          "status": {
+            "href": null
+          },
+          "ancestors": [],
+          "parent": {
+            "href": null
+          }
+        }
+      }
+    ]
+  },
+  "_links": {
+    "self": {
+      "href": "/api/v3/projects?filters=%5B%5D&offset=1&pageSize=200"
+    },
+    "jumpTo": {
+      "href": "/api/v3/projects?filters=%5B%5D&offset=%7Boffset%7D&pageSize=200",
+      "templated": true
+    },
+    "changeSize": {
+      "href": "/api/v3/projects?filters=%5B%5D&offset=1&pageSize=%7Bsize%7D",
+      "templated": true
+    },
+    "representations": [
+      {
+        "href": "/projects.csv?filters=%5B%5D&offset=1&pageSize=200",
+        "identifier": "csv",
+        "type": "text/csv",
+        "title": "CSV"
+      },
+      {
+        "href": "/projects.xls?filters=%5B%5D&offset=1&pageSize=200",
+        "identifier": "xls",
+        "type": "application/vnd.ms-excel",
+        "title": "XLS"
+      }
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "ID": "264",
+    "XML_ID": "15774733",
+    "ACTIVE": false,
+    "NAME": "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440",
+    "LAST_NAME": "\u0420\u044b\u043b\u043e\u0432",
+    "SECOND_NAME": "\u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440\u043e\u0432\u0438\u0447",
+    "EMAIL": "trx.2010@yandex.ru",
+    "LAST_LOGIN": "2022-03-06T11:53:15+03:00",
+    "DATE_REGISTER": "2022-02-21T03:00:00+03:00",
+    "TIME_ZONE": "",
+    "IS_ONLINE": "N",
+    "TIME_ZONE_OFFSET": "0",
+    "TIMESTAMP_X": {},
+    "LAST_ACTIVITY_DATE": {},
+    "PERSONAL_GENDER": "",
+    "PERSONAL_WWW": "",
+    "PERSONAL_BIRTHDAY": "",
+    "PERSONAL_MOBILE": "",
+    "PERSONAL_CITY": "",
+    "WORK_PHONE": "",
+    "WORK_POSITION": "",
+    "UF_EMPLOYMENT_DATE": "",
+    "UF_DEPARTMENT": [
+      18,
+      534
+    ],
+    "UF_USR_1616085080886": [],
+    "USER_TYPE": "employee"
+  }
+]

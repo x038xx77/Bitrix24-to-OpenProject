@@ -1,0 +1,21 @@
+[
+  {
+    "ID": "214",
+    "XML_ID": "39521452",
+    "ACTIVE": false,
+    "NAME": "georgius_cool",
+    "EMAIL": "georgius_cool@mail.ru",
+    "LAST_LOGIN": "2021-11-30T16:13:48+03:00",
+    "DATE_REGISTER": "2021-11-23T03:00:00+03:00",
+    "IS_ONLINE": "N",
+    "TIME_ZONE_OFFSET": "0",
+    "TIMESTAMP_X": {},
+    "LAST_ACTIVITY_DATE": {},
+    "PERSONAL_GENDER": "",
+    "PERSONAL_BIRTHDAY": "",
+    "UF_EMPLOYMENT_DATE": "",
+    "UF_DEPARTMENT": [],
+    "UF_USR_1616085080886": false,
+    "USER_TYPE": "extranet"
+  }
+]

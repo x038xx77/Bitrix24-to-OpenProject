@@ -1,0 +1,39 @@
+[
+  {
+    "POST_MESSAGE_HTML": null,
+    "ID": "8550",
+    "AUTHOR_ID": "8",
+    "AUTHOR_NAME": "\u0413\u0435\u043e\u0440\u0433\u0438\u0439 \u041b\u0418",
+    "AUTHOR_EMAIL": "",
+    "POST_DATE": "2021-09-17T10:47:29+03:00",
+    "POST_MESSAGE": "[USER=176]\u041c\u0438\u0442\u0443\u0441\u043e\u0432 \u041d\u0438\u043a\u0438\u0442\u0430[/USER], \u0432\u044b \u043d\u0430\u0437\u043d\u0430\u0447\u0435\u043d\u044b \u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u043c."
+  },
+  {
+    "POST_MESSAGE_HTML": null,
+    "ID": "8642",
+    "AUTHOR_ID": "8",
+    "AUTHOR_NAME": "\u041b\u0418 \u0413\u0435\u043e\u0440\u0433\u0438\u0439 \u0412\u0438\u0441\u0441\u0430\u0440\u0438\u043e\u043d\u043e\u0432\u0438\u0447",
+    "AUTHOR_EMAIL": "",
+    "POST_DATE": "2021-09-17T17:32:06+03:00",
+    "POST_MESSAGE": "[DISK FILE ID=n40800]\u00a0\n\n\u0421\u0434\u0435\u043b\u0430\u0439 \u0444\u043e\u0440\u043c\u0443 ,\u0432\u043e\u0437\u044c\u043c\u0438 \u0432 \u043f\u0440\u0438\u043e\u0440\u0438\u0442\u0435\u0442",
+    "ATTACHED_OBJECTS": {
+      "18980": {
+        "ATTACHMENT_ID": "18980",
+        "NAME": "image (195).png",
+        "SIZE": "38775",
+        "FILE_ID": "40800",
+        "DOWNLOAD_URL": "/bitrix/tools/disk/uf.php?attachedId=18980&auth%5Baplogin%5D=692&auth%5Bap%5D=3khh3mjylndlq1bs&action=download&ncc=1",
+        "VIEW_URL": "/bitrix/tools/disk/uf.php?attachedId=18980&auth%5Baplogin%5D=692&auth%5Bap%5D=3khh3mjylndlq1bs&action=show&ncc=1"
+      }
+    }
+  },
+  {
+    "POST_MESSAGE_HTML": null,
+    "ID": "8700",
+    "AUTHOR_ID": "176",
+    "AUTHOR_NAME": "\u041d\u0438\u043a\u0438\u0442\u0430 \u041c\u0438\u0442\u0443\u0441\u043e\u0432",
+    "AUTHOR_EMAIL": "",
+    "POST_DATE": "2021-09-18T12:58:22+03:00",
+    "POST_MESSAGE": "\u0417\u0430\u0434\u0430\u0447\u0430 \u0437\u0430\u0432\u0435\u0440\u0448\u0435\u043d\u0430."
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "POST_MESSAGE_HTML": null,
+    "ID": "2726",
+    "AUTHOR_ID": "8",
+    "AUTHOR_NAME": "\u0413\u0435\u043e\u0440\u0433\u0438\u0439 \u041b\u0418",
+    "AUTHOR_EMAIL": "",
+    "POST_DATE": "2021-06-18T15:33:15+03:00",
+    "POST_MESSAGE": "[USER=18]\u041a\u0440\u0430\u0439\u043d\u0435\u0432 \u041c\u0438\u0445\u0430\u0438\u043b[/USER], \u0432\u044b \u043d\u0430\u0437\u043d\u0430\u0447\u0435\u043d\u044b \u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u043c."
+  },
+  {
+    "POST_MESSAGE_HTML": null,
+    "ID": "2758",
+    "AUTHOR_ID": "18",
+    "AUTHOR_NAME": "\u041a\u0440\u0430\u0439\u043d\u0435\u0432 \u041c\u0438\u0445\u0430\u0438\u043b",
+    "AUTHOR_EMAIL": "",
+    "POST_DATE": "2021-06-21T09:09:23+03:00",
+    "POST_MESSAGE": "*",
+    "ATTACHED_OBJECTS": {
+      "13846": {
+        "ATTACHMENT_ID": "13846",
+        "NAME": "\u0420\u0430\u0441\u0448\u0438\u0440\u0435\u043d\u0438\u0435_\u0420\u0422\u0423.cfe",
+        "SIZE": "88250",
+        "FILE_ID": "29794",
+        "DOWNLOAD_URL": "/bitrix/tools/disk/uf.php?attachedId=13846&auth%5Baplogin%5D=692&auth%5Bap%5D=3khh3mjylndlq1bs&action=download&ncc=1",
+        "VIEW_URL": "/bitrix/tools/disk/uf.php?attachedId=13846&auth%5Baplogin%5D=692&auth%5Bap%5D=3khh3mjylndlq1bs&action=show&ncc=1"
+      }
+    }
+  },
+  {
+    "POST_MESSAGE_HTML": null,
+    "ID": "2760",
+    "AUTHOR_ID": "18",
+    "AUTHOR_NAME": "\u041c\u0438\u0445\u0430\u0438\u043b \u041a\u0440\u0430\u0439\u043d\u0435\u0432",
+    "AUTHOR_EMAIL": "",
+    "POST_DATE": "2021-06-21T09:09:30+03:00",
+    "POST_MESSAGE": "\u0417\u0430\u0434\u0430\u0447\u0430 \u0437\u0430\u0432\u0435\u0440\u0448\u0435\u043d\u0430."
+  },
+  {
+    "POST_MESSAGE_HTML": null,
+    "ID": "21594",
+    "AUTHOR_ID": "8",
+    "AUTHOR_NAME": "\u0413\u0435\u043e\u0440\u0433\u0438\u0439 \u041b\u0418",
+    "AUTHOR_EMAIL": "",
+    "POST_DATE": "2022-07-01T18:24:34+03:00",
+    "POST_MESSAGE": "\u041f\u0440\u043e\u0435\u043a\u0442 \u0437\u0430\u0434\u0430\u0447\u0438 \u0438\u0437\u043c\u0435\u043d\u0435\u043d \u043d\u0430: [URL=/workgroups/group/74/]\u0422\u0415\u0425\u041d\u041e \u0413\u0420\u0423\u041f\u041f[/URL]"
+  }
+]

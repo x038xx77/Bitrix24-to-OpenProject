@@ -1,0 +1,24 @@
+[
+  {
+    "ID": "40",
+    "XML_ID": "34748076",
+    "ACTIVE": false,
+    "NAME": "\u0415\u0432\u0433\u0435\u043d\u0438\u0439",
+    "LAST_NAME": "\u0415\u0440\u043c\u043e\u043b\u0430\u0435\u0432",
+    "EMAIL": "",
+    "LAST_LOGIN": "2021-03-06T03:54:01+03:00",
+    "DATE_REGISTER": "2021-03-05T03:00:00+03:00",
+    "IS_ONLINE": "N",
+    "TIME_ZONE_OFFSET": "0",
+    "TIMESTAMP_X": {},
+    "LAST_ACTIVITY_DATE": {},
+    "PERSONAL_GENDER": "",
+    "PERSONAL_BIRTHDAY": "",
+    "UF_EMPLOYMENT_DATE": "",
+    "UF_DEPARTMENT": [
+      1
+    ],
+    "UF_USR_1616085080886": false,
+    "USER_TYPE": "employee"
+  }
+]

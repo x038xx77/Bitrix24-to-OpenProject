@@ -1,0 +1,33 @@
+[
+  {
+    "ID": "104",
+    "XML_ID": "16308001",
+    "ACTIVE": true,
+    "NAME": "\u0422\u0438\u043c\u0443\u0440",
+    "LAST_NAME": "\u041c\u0443\u0440\u0430\u0442\u043e\u0432",
+    "SECOND_NAME": "",
+    "EMAIL": "muratov.tv@gmail.com",
+    "LAST_LOGIN": "2023-02-05T18:32:19+03:00",
+    "DATE_REGISTER": "2021-05-31T03:00:00+03:00",
+    "TIME_ZONE": "",
+    "IS_ONLINE": "N",
+    "TIME_ZONE_OFFSET": "0",
+    "TIMESTAMP_X": {},
+    "LAST_ACTIVITY_DATE": {},
+    "PERSONAL_GENDER": "M",
+    "PERSONAL_WWW": "",
+    "PERSONAL_BIRTHDAY": "",
+    "PERSONAL_PHOTO": "https://cdn-ru.bitrix24.ru/b16898606/main/5e5/5e514e2be4dc4a46091cea12c5682b88/Screenshot_12.png",
+    "PERSONAL_MOBILE": "",
+    "PERSONAL_CITY": "",
+    "WORK_PHONE": "",
+    "WORK_POSITION": "",
+    "UF_EMPLOYMENT_DATE": "",
+    "UF_DEPARTMENT": [
+      7
+    ],
+    "UF_PHONE_INNER": "202",
+    "UF_USR_1616085080886": [],
+    "USER_TYPE": "employee"
+  }
+]

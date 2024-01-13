@@ -1,0 +1,24 @@
+[
+  {
+    "ID": "386",
+    "XML_ID": "38337948",
+    "ACTIVE": false,
+    "NAME": "",
+    "LAST_NAME": "",
+    "EMAIL": "kims@alumix.ru",
+    "LAST_LOGIN": "2022-06-20T16:59:15+03:00",
+    "DATE_REGISTER": "2022-06-02T03:00:00+03:00",
+    "IS_ONLINE": "N",
+    "TIME_ZONE_OFFSET": "0",
+    "TIMESTAMP_X": {},
+    "LAST_ACTIVITY_DATE": {},
+    "PERSONAL_GENDER": "",
+    "PERSONAL_BIRTHDAY": "",
+    "UF_EMPLOYMENT_DATE": "",
+    "UF_DEPARTMENT": [
+      1
+    ],
+    "UF_USR_1616085080886": false,
+    "USER_TYPE": "employee"
+  }
+]

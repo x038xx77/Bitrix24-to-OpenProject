@@ -1,0 +1,26 @@
+[
+  {
+    "ID": "584",
+    "XML_ID": "37448468",
+    "ACTIVE": false,
+    "NAME": "\u042d\u043b\u0435\u043d",
+    "LAST_NAME": "\u0421\u043c\u0438\u0440\u043d\u043e\u0432\u0430",
+    "SECOND_NAME": "",
+    "EMAIL": "smielka2@gmail.com",
+    "LAST_LOGIN": "2023-07-20T03:05:12+03:00",
+    "DATE_REGISTER": "2023-04-19T03:00:00+03:00",
+    "IS_ONLINE": "N",
+    "TIME_ZONE_OFFSET": "0",
+    "TIMESTAMP_X": {},
+    "LAST_ACTIVITY_DATE": {},
+    "PERSONAL_GENDER": "",
+    "PERSONAL_BIRTHDAY": "",
+    "PERSONAL_PHOTO": "https://cdn-ru.bitrix24.ru/b16898606/main/ff4/ff4e99f187b7108060f97bf2211f684a/Screenshot_6.png",
+    "UF_EMPLOYMENT_DATE": "",
+    "UF_DEPARTMENT": [
+      534
+    ],
+    "UF_USR_1616085080886": false,
+    "USER_TYPE": "employee"
+  }
+]
